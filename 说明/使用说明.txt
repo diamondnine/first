@@ -1,0 +1,28 @@
+环境：windows7 
+
+进入网页：     https://www.anaconda.com/distribution/#download-section
+点击选择windows图标（这一步一定要执行，不能忽略）
+点击Python 3.7 version下Download
+新建文件ANA_SOURCE，设定此文件夹为下载目录
+开始下载，等待下载完成
+双击下载文件，一直按next执行（视实际情况可自行更改决定）
+新建文件夹ANA_EXE,安装目录设为此处，按next继续安装，直到finish完成
+
+
+安装完成后
+将文件 reptile.ipynb 拷贝至ANA_EXE文件夹下
+
+
+在Anaconda图形程序中，使用JupyterLab，运行程序，即可得结果
+（若缺乏相应模块，如urllib.request，可在Anaconda Prompt下使用conda或pip进行相应安装）
+
+其余文件：文件夹  proc            当中文件为代码中部分注释的文件执行可能产生的过程文件
+	  文件    reptile.ipynb   为此python程序源代码文件
+	  文件    json_data.txt   为源代码reptile.ipynb执行结果产生的json格式文件，采用txt后缀名保存
+	  文件    reptile.txt     为reptile.ipynb的txt文本(如果ipynb出现问题，请参考此文件查看源码)
+
+补充说明：由于时间问题，代码当中存在一些问题：1变量命名未能统一规范，代码或可优化
+					      2由于链家本身网页存在bug（跳转错误）以及网页信息不全，一些网页信息不能爬取，如代码中item==43时
+                                              3代码当中注释不全，需要说明请沟通
+
+如果需要更改需求以及其他问题，可微信邮件或当面沟通

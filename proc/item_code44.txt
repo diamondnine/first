@@ -1,0 +1,4684 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="no-transform" http-equiv="Cache-Control"/>
+  <meta content="no-siteapp" http-equiv="Cache-Control"/>
+  <meta content="zh-CN" http-equiv="Content-language"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="pc" name="applicable-device"/>
+  <link href="https://m.lianjia.com/nj/xiaoqu/" media="only screen and (max-width: 640px)" rel="alternate"/>
+  <meta content="format=html5;url=https://m.lianjia.com/nj/xiaoqu/" name="mobile-agent"/>
+  <script>
+   ljConf = {
+    city_id: '320100',
+    city_abbr: 'nj',
+    city_name: '南京',
+    channel: 'xiaoqu',
+    page: 'xiaoqu_list',
+    pageConfig: {"ajaxroot":"https:\/\/ajax.api.lianjia.com\/","imAppid":"LIANJIA_WEB_20160624","imAppkey":"6dfdcee27d78b1107fceeca55d80b7bd"},
+    feroot: '//s1.ljcdn.com/feroot/',
+    ucid:'',
+    cdn:'0',
+};
+  </script>
+  <!-- 2017.11.8 市场需求加上新的统计 -->
+  <script async="" defer="" src="//s.union.360.cn/200116.js" type="text/javascript">
+  </script>
+  <!-- 2017.7.18 开放全国 -->
+  <script>
+   var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?9152f8221cb6243a53c83b956842be8a";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+  </script>
+  <script src="https://s1.ljcdn.com/feroot/pc/asset/common/tingyun-rum.js?_v=201905161639093">
+  </script>
+  <title>
+   南京房价_南京小区房价
+  </title>
+  <meta content="链家网南京小区频道,现有南京小区30个.小区频道提供南京小区房价信息,以及南京热门小区的价格、二手房、租房、小区详情等.为您提供详细的小区信息,帮您了解南京房价相关内容." name="description"/>
+  <meta content="南京房价,南京小区房价,南京小区二手房" name="keywords"/>
+  <link href="/favicon.ico" rel="icon" type="image/x-icon"/>
+  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link href="https://s1.ljcdn.com/feroot/pc/asset/common.css?_v=201905161639093" rel="stylesheet"/>
+  <link href="https://s1.ljcdn.com/feroot/pc/asset/ershoufang/xiaoquList/index.css?_v=201905161639093" rel="stylesheet"/>
+  <!--[if lt IE 9]><script type="text/javascript" src="https://s1.ljcdn.com/feroot/dep/common-require/html5.js?_v=201905161639093"></script><![endif]-->
+  <script>
+   function RESIZEIMG(b,k,l,m){var c=b.parentNode;var d=parseInt(c.offsetWidth)||k;var e=parseInt(c.offsetHeight)||l;var f=d/e;var g=b.naturalWidth||b.width;var h=b.naturalHeight||b.height;var i=g/h;var j="width";if(f<i){j="height";try{b.style["left"]="-"+parseInt(Math.abs((d-(g*e/h))/2))+"px"}catch(e){}}else if(m){try{b.style["top"]="-"+parseInt(Math.abs((e-(h*d/g))/2))+"px"}catch(e){}};b.style[j]="100%";};
+  </script>
+  <script>
+   var _czc = _czc || [];
+_czc.push(["_setAccount", "1254525948"]);
+  </script>
+  <script type="text/javascript">
+   var _smq = _smq || [];
+_smq.push(['_setAccount', '41331c2', new Date()]);
+_smq.push(['_setDomainName', 'lianjia.com']);
+_smq.push(['pageview']);
+(function() {
+var sm = document.createElement('script'); sm.type = 'text/javascript'; sm.async = true;
+sm.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdnmaster.com/sitemaster/collect.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sm, s);
+})();
+  </script>
+  <script src="https://dlswbr.baidu.com/heicha/mw/abclite-2011-s2.js" type="application/javascript">
+  </script>
+ </head>
+ <body>
+  <script>
+   __STAT_LJ_CONF = {
+    params: {
+        ljweb_group: ['SEARCH','BIGDATA_PC'],
+        ljweb_id: '',
+        ljweb_mod: '',
+        ljweb_bl: '',
+        ljweb_el: '',
+        ljweb_sl: '',
+        ljweb_index: '',
+        ljweb_value: '',
+        ljweb_url: '',
+        ljweb_ljref: (document.cookie.match(/(?:^| )ljref=([^;]*)(?:;|$)/) || ['',''])[1],
+        ljweb_sample: (document.cookie.match(/(?:^| )sample_traffic_test=([^;]*)(?:;|$)/) || ['',''])[1],
+        ljweb_ref: document.referrer,
+        ljweb_cid: '320100',
+        ljweb_channel: 'xiaoqu',
+        ljweb_page: 'xiaoqu_list',
+        ljweb_source: '',
+        ljweb_stat_id: ''
+    }
+};
+
+
+
+var UT = {
+    send: function() {
+
+    }
+};
+var LjUserTrack = {
+    log: [],
+    initInterval: false,
+    intervalLog: function() {
+        setTimeout(function() {
+            if(window.$ULOG && $ULOG.send) {
+                for(var i = 0, l = LjUserTrack.log.length; i < l; i++) {
+                    LjUserTrack.__send(LjUserTrack.log[i]);
+                }
+
+                for(var m = 0, n = LjUserTrack.logIds.length; m < n; m++) {
+                    LjUserTrack.__sendId(LjUserTrack.logIds[m]);
+                }
+                for(var j = 0, k = LjUserTrack.logDatas.length; j < k; j++) {
+                    LjUserTrack.__sendData(LjUserTrack.logDatas[j].id, LjUserTrack.logDatas[j].data);
+                }
+            } else {
+                LjUserTrack.intervalLog();
+            }
+        }, 16.7);
+    },
+    _start_time: +new Date,
+    logDatas: [],
+    __sendData: function(id, data) {
+        if(id && (typeof(data) == 'object')){
+          data.pid = (window.__UDL_CONFIG && window.__UDL_CONFIG.pid && window.__UDL_CONFIG.pid)||"lianjiaweb";
+          data.key = window.location.href;
+          window.$ULOG && $ULOG.send(id, data);
+        }
+    },
+    sendData: function(id, data) {
+        if(window.$ULOG && $ULOG.send) {
+            LjUserTrack.__sendData(id, data);
+        } else {
+            LjUserTrack.logDatas.push({id: id, data: data});
+
+            LjUserTrack.initInterval || (LjUserTrack.initInterval = true, LjUserTrack.intervalLog());
+
+        }
+    },
+    __send: function(data) {
+        var evt_id = data.evt_id || '10043';
+        if('evt_id' in data) {
+            delete data.evt_id;
+        }
+
+        window.$ULOG && $ULOG.send(evt_id, {
+            "pid": (window.__UDL_CONFIG && window.__UDL_CONFIG.pid && window.__UDL_CONFIG.pid)||"lianjiaweb",
+            "key": window.location.href,
+            "action": $.extend(__ocpc ? {'ad_loginurl': __ocpc.getValue()} : {}, data)
+        });
+    },
+    logIds: [],
+    __sendId: function(id) {
+        id && window.$ULOG && window.$ULOG && $ULOG.send(id, {
+            "pid": (window.__UDL_CONFIG && window.__UDL_CONFIG.pid && window.__UDL_CONFIG.pid)||"lianjiaweb",
+            "key": window.location.href
+        });
+    },
+    sendId: function(id) {
+        if(window.$ULOG && $ULOG.send) {
+            LjUserTrack.__sendId(id);
+        } else {
+            LjUserTrack.logIds.push(id);
+
+            LjUserTrack.initInterval || (LjUserTrack.initInterval = true, LjUserTrack.intervalLog());
+
+        }
+    },
+    send: function(data, el, config) {
+
+        var utConf = __STAT_LJ_CONF;
+        var params = config || utConf.params,
+            win = window,
+            j;
+
+        data.groupIndex = data.ljweb_group || 0;
+
+        if (params) {
+            for (var d in params) {
+                if(params[d] !== j && data[d] === j) {
+                    data[d] = params[d];
+                }
+            }
+        }
+
+        if(el) {
+            this.checkClick(el, data);
+        }
+
+        data.ljweb_group = params['ljweb_group'][data.groupIndex || 0];
+
+        delete data.groupIndex;
+
+        if(data.typ) {
+            data.ljweb_bl = (data.ljweb_bl || '') + '_' + data.typ;
+            delete data.typ;
+        }
+
+        if(window.$ULOG && $ULOG.send) {
+            LjUserTrack.__send(data);
+        } else {
+            LjUserTrack.log.push(data);
+
+            LjUserTrack.initInterval || (LjUserTrack.initInterval = true, LjUserTrack.intervalLog());
+
+        }
+
+    },
+    checkClick: function(el, data) {
+
+        var TAG_LINK = 'A';
+        var href = '';
+        var elParent = null;
+
+        href = (el.tagName.toUpperCase() === TAG_LINK ? el.getAttribute("href", 2) : '');
+        if(!href && (elParent = el.parentNode) && elParent.nodeType === 1) {
+            href = (elParent.tagName.toUpperCase() === TAG_LINK ? elParent.getAttribute("href", 2) : '');
+        }
+
+        if(href) {
+            data.ljweb_url = href;
+        } else {
+            data.ljweb_url = data.ljweb_url
+                  || el.getAttribute("data-log_url")
+                  || (elParent=el.parentNode||el).getAttribute("data-log_url")
+                  || (
+                        (elParent=elParent.parentNode||elParent)
+                     && (elParent.nodeType === 1)
+                     && elParent.getAttribute("data-log_url")
+                     )
+                  || "";
+        }
+
+        this.attr(el, data);
+
+    },
+    path: function() {
+
+    },
+    attr: function(el, data) {
+        var modId     = el.getAttribute("log-mod");
+        var blAttr    = el.getAttribute("data-bl");
+        var elAttr    = el.getAttribute("data-el");
+        var slAttr    = el.getAttribute("data-sl");
+        var InAttr    = el.getAttribute("data-log_index");
+        var valAttr   = el.getAttribute("data-log_value");
+        var idAttr    = el.getAttribute("data-log_id");
+        var groupAttr = el.getAttribute("data-log_group");
+        var sourceAttr = el.getAttribute("data-log_source");
+        var statIdAttr = el.getAttribute("data-log_statId");
+        var evtId     = el.getAttribute("data-log_evtid");
+
+        data.ljweb_bl    = data.ljweb_bl || blAttr || '';
+        data.ljweb_el    = data.ljweb_el || elAttr || '';
+        data.ljweb_sl    = data.ljweb_sl || slAttr || '';
+        data.ljweb_index = data.ljweb_index || InAttr || '';
+        data.ljweb_value = data.ljweb_value || valAttr || '';
+        data.ljweb_id    = data.ljweb_id || idAttr || '';
+        data.ljweb_source    = data.ljweb_source || sourceAttr || '';
+        data.ljweb_stat_id    = data.ljweb_stat_id || statIdAttr || 0;
+        data.groupIndex  = data.groupIndex || groupAttr || 0;
+        data.evt_id      = data.evt_id || evtId || '';
+
+        if (!modId) {
+            if (el.parentNode && el.parentNode.nodeType === 1 && el.parentNode.tagName.toUpperCase() !== 'BODY') {
+                this.attr(el.parentNode, data);
+            }
+        } else {
+            data.ljweb_mod = modId;
+        }
+    }
+};
+
+;;(function() {
+    var isW3c = !!document.addEventListener;
+
+    LjUserTrack.send({
+        ljweb_mod: 'pv',
+        ljweb_group: 1
+    });
+
+    /*window[isW3c ? 'addEventListener' : 'attachEvent'](
+        (isW3c ? '': 'on') + 'beforeunload',
+        function(e) {
+            var _end_time = +new Date;
+            UT.send({type: 'show', subtype: 'stay', time: (_end_time-UT._start_time)/1000});
+        },
+        false);*/
+})();
+  </script>
+  <div class="banner">
+   <div class="container">
+    <ul class="channelList">
+     <li>
+      <a href="//www.lianjia.com/">
+       首页
+      </a>
+     </li>
+     <li class="">
+      <a href="https://nj.lianjia.com/ershoufang/">
+       二手房
+      </a>
+     </li>
+     <li class="">
+      <a href="https://nj.fang.lianjia.com/">
+       新房
+      </a>
+     </li>
+     <li class="">
+      <a href="https://nj.lianjia.com/zufang/">
+       租房
+      </a>
+     </li>
+     <li class="">
+      <a href="https://us.lianjia.com">
+       海外
+      </a>
+     </li>
+     <li class="selected">
+      <a href="https://nj.lianjia.com/xiaoqu/">
+       小区
+      </a>
+     </li>
+     <li class="">
+      <a href="https://nj.lianjia.com/jingjiren/">
+       经纪人
+      </a>
+     </li>
+     <li class="">
+      <a href="https://nj.lianjia.com/wenda/">
+       指南
+      </a>
+      <div class="childList">
+       <a href="https://nj.lianjia.com/wenda/">
+        问答
+       </a>
+       <a href="https://news.lianjia.com/nj/baike/">
+        百科
+       </a>
+      </div>
+     </li>
+     <li class="">
+      <a href="https://nj.lianjia.com/fangjia/">
+       房价
+      </a>
+     </li>
+     <li class="">
+      <a href="https://nj.lianjia.com/tool.html" target="_blank">
+       工具
+      </a>
+     </li>
+     <li class="">
+      <a href="https://nj.lianjia.com/yezhu/" target="_blank">
+       发布房源
+      </a>
+     </li>
+    </ul>
+    <div class="banner-right">
+     <div class="login" id="userInfoContainer">
+      <i>
+      </i>
+      <a href="https://upassport.lianjia.com/login?service=https%3A%2F%2Fwww.lianjia.com%2Fuser%2Fchecklogin%3Fredirect%3Dhttps%253A%252F%252Fnj.lianjia.com%252Fxiaoqu%252F" id="loginBtn" rel="nofollow">
+       登录
+      </a>
+      /
+      <a href="https://passport.lianjia.com/register/resources/lianjia/register.html?service=https%3A%2F%2Fwww.lianjia.com%2Fuser%2Fchecklogin%3Fredirect%3Dhttps%253A%252F%252Fnj.lianjia.com%252Fxiaoqu%252F" id="registerBtn" rel="nofollow">
+       注册
+      </a>
+     </div>
+     <div class="phone">
+      <i>
+      </i>
+      <span>
+       热线电话1010-9666
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script id="userInfoTpl" type="text/template">
+   <i></i>
+  <%if(isAgent){%>
+    <a id="userNameContainer" href="<%=$.env.fixedUrl('//agent.lianjia.com/')%>"><%=username%></a>
+  <%}else{%>
+    <a id="userNameContainer" href="<%=$.env.fixedUrl('//user.lianjia.com/')%>" rel="nofollow"><%=username%></a>
+  <%}%>
+  <span id="tipContainer"></span>
+  &nbsp;&nbsp;<a href="<%=logoutUrl%>">退出</a>
+  <span id="pushNewsListContainer"></span>
+  </script>
+  <script id="pushNewsListTpl" type="text/template">
+   <div class="pushNewsList">
+    <%for(var i in group_by_type){%>
+      <%if(group_by_type[i].unread !== 0 && pushMsgMap.hasOwnProperty(i)){%>
+        <a href="<%=pushMsgMap[i].url%>"><%=$.replaceTpl(pushMsgMap[i].text, {unread:group_by_type[i].unread})%></a>
+      <%}%>
+    <%}%>
+  </div>
+  </script>
+  <div class="header">
+   <div class="menu">
+    <div class="menuLeft">
+     <a class="logo" href="/ershoufang/">
+     </a>
+     <ul class="typeList">
+      <li>
+       <a href="/ershoufang/" title="南京在售二手房">
+        在售
+       </a>
+      </li>
+      <li>
+       <a href="/chengjiao/" title="南京成交二手房">
+        成交
+       </a>
+      </li>
+      <li class="selected">
+       <a href="/xiaoqu/" title="南京小区二手房">
+        小区
+       </a>
+      </li>
+      <li>
+       <a href="/fangjia/" title="南京房价二手房">
+        房价
+       </a>
+      </li>
+      <li>
+       <a href="/ditu/" target="_blank" title="南京地图找房二手房">
+        地图找房
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="app">
+     <a href="//www.lianjia.com/client/" target="_blank">
+      <i>
+      </i>
+      下载链家APP
+      <span class="layer-qrcode">
+       <span class="icon-qrcode">
+        <img alt="下载链家app" height="124" src="//ajax.api.lianjia.com/qr/getDownloadQr?location=menu_app&amp;ljweb_channel_key=xiaoqu_list" width="124"/>
+       </span>
+       <span class="txt">
+        使用链家APP
+       </span>
+       <span class="sub-txt">
+        随时随地查看新上房源
+       </span>
+      </span>
+     </a>
+    </div>
+   </div>
+   <div class="search">
+    <div class="input" log-mod="search">
+     <form action="/ershoufang/rs" id="searchForm">
+      <input autocomplete="off" id="searchInput" type="text" value=""/>
+      <div class="inputRightPart">
+       <div class="save" id="savedSearchMsg">
+        <span id="savedSearchCount">
+         0
+        </span>
+        条已保存搜索
+        <span class="downArrow" id="savedSearchArrow">
+        </span>
+       </div>
+       <button class="searchButton" data-bl="search" data-el="search" type="submit">
+        <i>
+        </i>
+       </button>
+      </div>
+     </form>
+     <div class="searchMsg" id="searchMsgContainer">
+     </div>
+    </div>
+   </div>
+  </div>
+  <script id="hotSearchTpl" type="text/template">
+   <div class="searchMsgTitle">
+    <span class="searchMsgName">热门搜索</span>
+  </div>
+  <ul data-bl="sug" data-el="history">
+    <%for(var i =0; i < list.length; i++){%>
+    <li>
+      <a role="addHistory" href="<%=list[i].url%>" data-log_index="<%=i+1%>" data-log_value="<%=list[i].string%>" class="sug--search_item">
+        <span class="msgListTitle" role="historyKey"><%=list[i].string%></span>
+      </a>
+    </li>
+    <%}%>
+  </ul>
+  </script>
+  <script id="searchHistoryTpl" type="text/template">
+   <div class="searchMsgTitle">
+    <span class="searchMsgName">搜索历史</span>
+    <div class="searchMsgTitleRightPart">
+      <a href="#" id="clearSearchHistory" class="manage">清除历史记录</a>
+    </div>
+  </div>
+  <ul data-bl="sug" data-el="history">
+  <%for(var i = 0; i < list.length; i++){%>
+    <li>
+      <a href="<%=list[i].url%>" role="addHistory" data-log_index="<%=i+1%>" data-log_value="<%=$.encodeHTML(list[i].name)%>" class="sug--search_item">
+        <span class="msgListTitle" role="historyKey"><%=$.encodeHTML(list[i].name)%></span>
+        <%if(list[i].newCount) {%>
+          <span class="msgListAdd"><%=list[i].newCount%>套新增房源</span>
+        <%}%>
+      </a>
+    </li>
+  <%}%>
+  </ul>
+  </script>
+  <script id="searchSuggestionTpl" type="text/template">
+   <div class="searchMsgTitle">
+    <span class="searchMsgName">你可能在找</span>
+  </div>
+  <ul data-bl="sug" data-el="sug">
+  <%for(var i = 0;i < list.length;i++){%>
+    <li>
+      <a href="<%=list[i].url%>" role="addHistory" data-log_index="<%=i+1%>" data-log_value="<%=list[i].title%>">
+        <span class="msgListTitle">
+          <span role="historyKey"><%=list[i].title%></span>
+          <%if(list[i].region){%>
+            <span class="msgListArea"><%=list[i].region%></span>
+          <%}%>
+        </span>
+        <%if(type === 'sell'){%>
+          <span class="msgListAdd">约<%=list[i].count%>套在售</span>
+        <%}else if(type === 'deal'){%>
+          <span class="msgListAdd">约<%=list[i].count%>套成交</span>
+        <%}%>
+      </a>
+    </li>
+  <%}%>
+  </ul>
+  </script>
+  <script id="savedSearchTpl" type="text/template">
+   <div class="searchMsgTitle">
+    <span class="searchMsgName">已保存搜索</span>
+    <div class="searchMsgTitleRightPart">
+    <%if(totalCount){%>
+      <a class="totalNew">查看<%=totalCount%>套新增房源</a>
+    <%}%>
+      <a href="<%=userCenterUrl%>" class="manage">管理</a>
+    </div>
+  </div>
+  <ul data-bl="sug" data-el="history">
+    <%for(var i = 0; i < savedData.length; i++){
+      var title = savedData[i].query ? savedData[i].query + '&nbsp;' : '';
+      title = title + savedData[i].title.join('&nbsp;');
+    %>
+      <li>
+        <a href="<%=savedData[i].url%>" role="savedSearch" data-log_index="<%=i+1%>" data-log_value="<%=title%>" class="sug--search_item">
+          <span class="msgListTitle"><%=title%></span>
+          <%if(savedData[i].unread && savedData[i].unread !== 0){%>
+          <span class="msgListAdd">新增<%=savedData[i].unread%>套</span>
+          <%}%>
+        </a>
+      </li>
+    <%}%>
+  </ul>
+  </script>
+  <script>
+   var hotSearchData = {
+    channel:[{"name":"\u4e8c\u624b\u623f","action":"ershoufang","channel":"ershoufang","checked":1,"tipsHot":{"query":[{"string":"\u9f13\u697c","url":"http:\/\/nj.lianjia.com\/ershoufang\/gulou\/"},{"string":"\u80b2\u624d\u516c\u5bd3","url":"http:\/\/nj.lianjia.com\/ershoufang\/c1411000000782\/"},{"string":"\u4e07\u79d1\u5149\u660e\u57ce\u5e02\u4e1c\u82d1","url":"http:\/\/nj.lianjia.com\/ershoufang\/c1411000000693\/"},{"string":"\u7fe0\u5c9b\u82b1\u57ce\u5170\u82b7\u82d1","url":"http:\/\/nj.lianjia.com\/ershoufang\/c1411041475490\/"},{"string":"\u4e91\u9526\u7f8e\u5730\u7eee\u4e91\u5c45","url":"http:\/\/nj.lianjia.com\/ershoufang\/c1411000000833\/"},{"string":"1\u53f7\u7ebf","url":"http:\/\/nj.lianjia.com\/ditiefang\/li110460689\/"},{"string":"10\u53f7\u7ebf","url":"http:\/\/nj.lianjia.com\/ditiefang\/li110460691\/"}],"tips":"\u8bd5\u8bd5\u8f93\u5165\u5730\u94c1\u7ebf\/\u7ad9\u5728\u5730\u94c1\u9644\u8fd1\u627e\u623f\uff0c\u5982 1\u53f7\u7ebf"}},{"name":"\u5c0f\u533a","action":"xiaoqu","channel":"xiaoqu","checked":0,"tipsHot":{"query":[{"string":"\u91d1\u9a6c\u90e6\u57ce","url":"http:\/\/nj.lianjia.com\/xiaoqu\/1411000000376\/"},{"string":"\u4e07\u8fbe\u7d2b\u91d1\u660e\u73e0","url":"http:\/\/nj.lianjia.com\/xiaoqu\/1411046463725\/"},{"string":"\u94f6\u57ce\u4e1c\u82d1\u6bd3\u79c0\u82d1","url":"http:\/\/nj.lianjia.com\/xiaoqu\/1411041567781\/"},{"string":"\u6e05\u6c5f\u82b1\u82d1\u660e\u6708\u56ed","url":"http:\/\/nj.lianjia.com\/xiaoqu\/1411041187593\/"},{"string":"\u80b2\u624d\u516c\u5bd3","url":"http:\/\/nj.lianjia.com\/xiaoqu\/1411000000782\/"},{"string":"\u767e\u5408\u679c\u56ed","url":"http:\/\/nj.lianjia.com\/xiaoqu\/1411000000019\/"},{"string":"\u540d\u4ed5\u5609\u56ed","url":"http:\/\/nj.lianjia.com\/xiaoqu\/1411000000493\/"},{"string":"\u817e\u8fbe\u96c5\u82d1","url":"http:\/\/nj.lianjia.com\/xiaoqu\/1411000000639\/"}],"tips":"\u8bf7\u8f93\u5165\u5c0f\u533a\u540d\u5f00\u59cb\u67e5\u627e\u5c0f\u533a"}},{"name":"\u6210\u4ea4","action":"chengjiao","channel":"chengjiao","checked":0,"tipsHot":null},{"name":"\u65b0\u623f","action":"loupan","channel":"xinfang","checked":0,"tipsHot":{"query":[],"tips":"\u8bf7\u8f93\u5165\u697c\u76d8\u540d\u79f0\u5f00\u59cb\u627e\u623f"}},{"name":"\u79df\u623f","action":"zufang","channel":"zufang","checked":0,"tipsHot":{"query":[{"string":"\u5efa\u90ba","url":"http:\/\/nj.lianjia.com\/zufang\/jianye\/"},{"string":"\u9f13\u697c","url":"http:\/\/nj.lianjia.com\/zufang\/gulou\/"},{"string":"\u79e6\u6dee","url":"http:\/\/nj.lianjia.com\/zufang\/qinhuai\/"},{"string":"\u9f99\u6c5f","url":"http:\/\/nj.lianjia.com\/zufang\/longjiang\/"},{"string":"\u661f\u96e8\u534e\u5e9c","url":"http:\/\/nj.lianjia.com\/zufang\/c1411000000770\/"},{"string":"\u65b0\u6cb3\u4e00\u6751","url":"http:\/\/nj.lianjia.com\/zufang\/c1411041537407\/"},{"string":"1\u53f7\u7ebf","url":"http:\/\/nj.lianjia.com\/ditiezufang\/li110460689\/"},{"string":"10\u53f7\u7ebf","url":"http:\/\/nj.lianjia.com\/ditiezufang\/li110460691\/"}],"tips":"\u8bf7\u8f93\u5165\u533a\u57df\u3001\u5546\u5708\u6216\u5c0f\u533a\u540d\u5f00\u59cb\u627e\u623f"}},{"name":"\u7ecf\u7eaa\u4eba","action":"jingjiren","channel":"jingjiren","checked":0,"tipsHot":{"query":[],"tips":"\u8bf7\u8f93\u5165\u5546\u5708\u3001\u5c0f\u533a\u6216\u7ecf\u7eaa\u4eba\u7684\u59d3\u540d\u3001\u7535\u8bdd..."}}],
+    curChannel:'ershoufang'
+  };
+  </script>
+  <div class="m-filter">
+   <div class="position">
+    <dl>
+     <h2>
+      <dt title="南京小区位置">
+       位置
+      </dt>
+     </h2>
+     <dd>
+      <a class="selected" href="/xiaoqu/" title="南京小区区域">
+       区域
+       <span class="arrow">
+       </span>
+      </a>
+     </dd>
+    </dl>
+    <dl>
+     <dt>
+     </dt>
+     <dd>
+      <!-- 区域 -->
+      <div data-role="ershoufang">
+       <div>
+        <a href="/xiaoqu/gulou/" title="南京鼓楼小区二手房 ">
+         鼓楼
+        </a>
+        <a href="/xiaoqu/jianye/" title="南京建邺小区二手房 ">
+         建邺
+        </a>
+        <a href="/xiaoqu/qinhuai/" title="南京秦淮小区二手房 ">
+         秦淮
+        </a>
+        <a href="/xiaoqu/xuanwu/" title="南京玄武小区二手房 ">
+         玄武
+        </a>
+        <a href="/xiaoqu/yuhuatai/" title="南京雨花台小区二手房 ">
+         雨花台
+        </a>
+        <a href="/xiaoqu/qixia/" title="南京栖霞小区二手房 ">
+         栖霞
+        </a>
+        <a href="/xiaoqu/jiangning/" title="南京江宁小区二手房 ">
+         江宁
+        </a>
+        <a href="/xiaoqu/pukou/" title="南京浦口小区二手房 ">
+         浦口
+        </a>
+        <a href="/xiaoqu/liuhe/" title="南京六合小区二手房 ">
+         六合
+        </a>
+        <a href="/xiaoqu/lishui/" title="南京溧水小区二手房 ">
+         溧水
+        </a>
+        <a href="/xiaoqu/gaochun/" title="南京高淳小区二手房 ">
+         高淳
+        </a>
+       </div>
+      </div>
+      <!-- 地铁 -->
+      <!-- 学区 -->
+     </dd>
+    </dl>
+   </div>
+   <div class="list-more">
+    <dl class="hasmore">
+     <h2>
+      <dt title="南京均价小区二手房">
+       均价
+      </dt>
+     </h2>
+     <dd>
+      <a class="" href="/xiaoqu/p1/" rel="nofollow">
+       <span class="checkbox">
+       </span>
+       <span class="name">
+        1万以下
+       </span>
+      </a>
+      <a class="" href="/xiaoqu/p2/" rel="nofollow">
+       <span class="checkbox">
+       </span>
+       <span class="name">
+        1-1.5万
+       </span>
+      </a>
+      <a class="" href="/xiaoqu/p3/" rel="nofollow">
+       <span class="checkbox">
+       </span>
+       <span class="name">
+        1.5-2万
+       </span>
+      </a>
+      <a class="" href="/xiaoqu/p4/" rel="nofollow">
+       <span class="checkbox">
+       </span>
+       <span class="name">
+        2-2.5万
+       </span>
+      </a>
+      <a class="" href="/xiaoqu/p5/" rel="nofollow">
+       <span class="checkbox">
+       </span>
+       <span class="name">
+        2.5-3万
+       </span>
+      </a>
+      <a class="" href="/xiaoqu/p6/" rel="nofollow">
+       <span class="checkbox">
+       </span>
+       <span class="name">
+        3万以上
+       </span>
+      </a>
+      <span class="customFilter mt" data-role="price">
+       <input role="minValue" type="text" value=""/>
+       <span>
+        -
+       </span>
+       <input role="maxValue" type="text" value=""/>
+       <span>
+        万
+       </span>
+       <button class="btn-range hide" data-url="/xiaoqu/bp{min}ep{max}/">
+        确定
+       </button>
+      </span>
+      <span class="btn-showmore">
+       + 更多及自定义
+      </span>
+     </dd>
+    </dl>
+    <dl class="">
+     <h2>
+      <dt title="南京楼龄小区二手房">
+       楼龄
+      </dt>
+     </h2>
+     <dd>
+      <a class="" href="/xiaoqu/y1/" rel="nofollow">
+       <span class="checkbox">
+       </span>
+       <span class="name">
+        5年以内
+       </span>
+      </a>
+      <a class="" href="/xiaoqu/y2/" rel="nofollow">
+       <span class="checkbox">
+       </span>
+       <span class="name">
+        10年以内
+       </span>
+      </a>
+      <a class="" href="/xiaoqu/y3/" rel="nofollow">
+       <span class="checkbox">
+       </span>
+       <span class="name">
+        15年以内
+       </span>
+      </a>
+      <a class="" href="/xiaoqu/y4/" rel="nofollow">
+       <span class="checkbox">
+       </span>
+       <span class="name">
+        20年以内
+       </span>
+      </a>
+      <a class="" href="/xiaoqu/y5/" rel="nofollow">
+       <span class="checkbox">
+       </span>
+       <span class="name">
+        20年以上
+       </span>
+      </a>
+     </dd>
+    </dl>
+   </div>
+  </div>
+  <div class="content">
+   <!-- 左侧内容 -->
+   <div class="leftContent">
+    <div class="orderFilter">
+     <div class="orderTag">
+      <ul>
+       <li class="selected">
+        <h3>
+         <a href="/xiaoqu/">
+          默认排序
+         </a>
+        </h3>
+       </li>
+       <li>
+        <h3>
+         <a href="/xiaoqu/cro21/">
+          小区均价
+         </a>
+        </h3>
+       </li>
+       <li>
+        <h3>
+         <a href="/xiaoqu/cro11/">
+          按成交量
+         </a>
+        </h3>
+       </li>
+      </ul>
+     </div>
+     <div class="filterAgain">
+      <div class="title">
+       筛选：
+      </div>
+      <ul>
+       <li>
+        <a href="/xiaoqu/su1/">
+         <span class="checkbox">
+         </span>
+         近地铁
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="resultDes clear">
+     <h2 class="total fl">
+      我们为您推荐了
+      <span>
+       30
+      </span>
+      个小区
+     </h2>
+     <div class="button fr">
+      <div class="clearBtn">
+       <a href="https://nj.lianjia.com/xiaoqu/?from=rec">
+        返回全部小区列表
+       </a>
+      </div>
+     </div>
+    </div>
+    <ul class="listContent" log-mod="list">
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="1411063433510" data-id="1411063433510" data-index="0" data-is_focus="" data-log_index="0" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/1411063433510/" rel="nofollow" target="_blank">
+       <img alt="万达茂" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/8c9c0a78-5da7-48ac-867e-b24372829a67.jpg.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/1411063433510/" target="_blank">
+         万达茂
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c1411063433510/" title="万达茂网签">
+         90天成交1套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c1411063433510/" title="万达茂租房">
+         596套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/qixia/" title="栖霞小区">
+         栖霞
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/xianlin2/" title="仙林小区">
+         仙林
+        </a>
+        / 2016年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000026054949">
+         叶宗英
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000026054949" data-lj_action_agent_name="叶宗英" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1411063433510" data-lj_action_resblock_name="万达茂" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看万达茂小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000026054949" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000026054949_1411063433510","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁4号线仙林湖站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          32423
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c1411063433510/" title="万达茂二手房">
+         <span>
+          155
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="2511052897865" data-id="2511052897865" data-index="1" data-is_focus="" data-log_index="1" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/2511052897865/" rel="nofollow" target="_blank">
+       <img alt="弘阳旭日上城三区" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/446f7ae2-30fe-47d5-a267-91572cc49647.JPG.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/2511052897865/" target="_blank">
+         弘阳旭日上城三区
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c2511052897865/" title="弘阳旭日上城三区网签">
+         90天成交4套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c2511052897865/" title="弘阳旭日上城三区租房">
+         86套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/pukou/" title="浦口小区">
+         浦口
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/qiaobei/" title="桥北小区">
+         桥北
+        </a>
+        / 2014年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000001000067880">
+         邢子辉
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000001000067880" data-lj_action_agent_name="邢子辉" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="2511052897865" data-lj_action_resblock_name="弘阳旭日上城三区" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看弘阳旭日上城三区小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000001000067880" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000001000067880_2511052897865","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          26278
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c2511052897865/" title="弘阳旭日上城三区二手房">
+         <span>
+          226
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="2511053237258" data-id="2511053237258" data-index="2" data-is_focus="" data-log_index="2" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/2511053237258/" rel="nofollow" target="_blank">
+       <img alt="江岸水城" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/7cf6a2fd-13ac-4542-bef5-e124212270f5.JPG.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/2511053237258/" target="_blank">
+         江岸水城
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c2511053237258/" title="江岸水城网签">
+         90天成交15套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c2511053237258/" title="江岸水城租房">
+         37套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/pukou/" title="浦口小区">
+         浦口
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/qiaobei/" title="桥北小区">
+         桥北
+        </a>
+        / 2006年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000020238710">
+         李忠明
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000020238710" data-lj_action_agent_name="李忠明" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="2511053237258" data-lj_action_resblock_name="江岸水城" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看江岸水城小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000020238710" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000020238710_2511053237258","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁3号线天润城站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          20367
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c2511053237258/" title="江岸水城二手房">
+         <span>
+          212
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="2511053251006" data-id="2511053251006" data-index="3" data-is_focus="" data-log_index="3" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/2511053251006/" rel="nofollow" target="_blank">
+       <img alt="明发滨江新城三期" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/dcff2700-b075-43fd-8169-89c395c22a6a.JPG.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/2511053251006/" target="_blank">
+         明发滨江新城三期
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c2511053251006/" title="明发滨江新城三期网签">
+         90天成交6套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c2511053251006/" title="明发滨江新城三期租房">
+         32套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/pukou/" title="浦口小区">
+         浦口
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/qiaobei/" title="桥北小区">
+         桥北
+        </a>
+        / 2008年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000001000141289">
+         张文豪
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000001000141289" data-lj_action_agent_name="张文豪" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="2511053251006" data-lj_action_resblock_name="明发滨江新城三期" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看明发滨江新城三期小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000001000141289" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000001000141289_2511053251006","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁3号线柳洲东路站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          22173
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c2511053251006/" title="明发滨江新城三期二手房">
+         <span>
+          224
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="1411099898926" data-id="1411099898926" data-index="4" data-is_focus="" data-log_index="4" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/1411099898926/" rel="nofollow" target="_blank">
+       <img alt="天润城第十二街区" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/02717317-15b1-4b84-b648-7a26dc9a4a9f.JPG.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/1411099898926/" target="_blank">
+         天润城第十二街区
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c1411099898926/" title="天润城第十二街区网签">
+         90天成交14套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c1411099898926/" title="天润城第十二街区租房">
+         34套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/pukou/" title="浦口小区">
+         浦口
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/qiaobei/" title="桥北小区">
+         桥北
+        </a>
+        / 2012年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000020286153">
+         樊小宁
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000020286153" data-lj_action_agent_name="樊小宁" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1411099898926" data-lj_action_resblock_name="天润城第十二街区" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看天润城第十二街区小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000020286153" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000020286153_1411099898926","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁3号线天润城站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          23709
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c1411099898926/" title="天润城第十二街区二手房">
+         <span>
+          186
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="1411041537407" data-id="1411041537407" data-index="5" data-is_focus="" data-log_index="5" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/1411041537407/" rel="nofollow" target="_blank">
+       <img alt="新河一村" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/d7563085-9bc0-49b8-acd8-27cc18628ec6.jpg.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/1411041537407/" target="_blank">
+         新河一村
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c1411041537407/" title="新河一村网签">
+         90天成交4套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c1411041537407/" title="新河一村租房">
+         37套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/gulou/" title="鼓楼小区">
+         鼓楼
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/dinghuaimendajie/" title="定淮门大街小区">
+         定淮门大街
+        </a>
+        / 1979年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000020374788">
+         李自先
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000020374788" data-lj_action_agent_name="李自先" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1411041537407" data-lj_action_resblock_name="新河一村" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看新河一村小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000020374788" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000020374788_1411041537407","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁4号线龙江站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          65345
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c1411041537407/" title="新河一村二手房">
+         <span>
+          153
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="2511053030010" data-id="2511053030010" data-index="6" data-is_focus="" data-log_index="6" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/2511053030010/" rel="nofollow" target="_blank">
+       <img alt="东郊小镇第四街区" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/2455b528-c859-4492-8c89-7b60685f1be6.jpg.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/2511053030010/" target="_blank">
+         东郊小镇第四街区
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c2511053030010/" title="东郊小镇第四街区网签">
+         90天成交20套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c2511053030010/" title="东郊小镇第四街区租房">
+         36套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/jiangning/" title="江宁小区">
+         江宁
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/qilinzhen/" title="麒麟镇小区">
+         麒麟镇
+        </a>
+        / 2009年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000001000125638">
+         於积凤
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000001000125638" data-lj_action_agent_name="於积凤" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="2511053030010" data-lj_action_resblock_name="东郊小镇第四街区" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看东郊小镇第四街区小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000001000125638" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000001000125638_2511053030010","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          25047
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c2511053030010/" title="东郊小镇第四街区二手房">
+         <span>
+          155
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="2511053011823" data-id="2511053011823" data-index="7" data-is_focus="" data-log_index="7" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/2511053011823/" rel="nofollow" target="_blank">
+       <img alt="东郊小镇第八街区" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/e7b6747c-384d-4a0f-8661-245b0df9641d.jpg.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/2511053011823/" target="_blank">
+         东郊小镇第八街区
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c2511053011823/" title="东郊小镇第八街区网签">
+         90天成交8套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c2511053011823/" title="东郊小镇第八街区租房">
+         48套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/jiangning/" title="江宁小区">
+         江宁
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/qilinzhen/" title="麒麟镇小区">
+         麒麟镇
+        </a>
+        / 2013年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000020131293">
+         陈昊宇
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000020131293" data-lj_action_agent_name="陈昊宇" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="2511053011823" data-lj_action_resblock_name="东郊小镇第八街区" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看东郊小镇第八街区小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000020131293" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000020131293_2511053011823","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          24870
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c2511053011823/" title="东郊小镇第八街区二手房">
+         <span>
+          142
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="1411041892966" data-id="1411041892966" data-index="8" data-is_focus="" data-log_index="8" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/1411041892966/" rel="nofollow" target="_blank">
+       <img alt="新河二村" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/99d3005d-429e-45e5-b40b-82739c68b2be.jpg.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/1411041892966/" target="_blank">
+         新河二村
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c1411041892966/" title="新河二村网签">
+         90天成交3套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c1411041892966/" title="新河二村租房">
+         32套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/gulou/" title="鼓楼小区">
+         鼓楼
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/dinghuaimendajie/" title="定淮门大街小区">
+         定淮门大街
+        </a>
+        / 1970年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000020024304">
+         殷诚
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000020024304" data-lj_action_agent_name="殷诚" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1411041892966" data-lj_action_resblock_name="新河二村" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看新河二村小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000020024304" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000020024304_1411041892966","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁4号线龙江站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          64125
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c1411041892966/" title="新河二村二手房">
+         <span>
+          149
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="2511050946111" data-id="2511050946111" data-index="9" data-is_focus="" data-log_index="9" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/2511050946111/" rel="nofollow" target="_blank">
+       <img alt="市政天元城" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/34bf0c73-b4ed-4b36-ae1a-5727a1301dd5.jpg.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/2511050946111/" target="_blank">
+         市政天元城
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c2511050946111/" title="市政天元城网签">
+         90天成交6套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c2511050946111/" title="市政天元城租房">
+         39套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/jiangning/" title="江宁小区">
+         江宁
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/dongshanzhen/" title="东山镇小区">
+         东山镇
+        </a>
+        / 2002年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000020240152">
+         王宝亮
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000020240152" data-lj_action_agent_name="王宝亮" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="2511050946111" data-lj_action_resblock_name="市政天元城" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看市政天元城小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000020240152" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000020240152_2511050946111","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁1号线竹山路站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          27413
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c2511050946111/" title="市政天元城二手房">
+         <span>
+          147
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="2511052774266" data-id="2511052774266" data-index="10" data-is_focus="" data-log_index="10" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/2511052774266/" rel="nofollow" target="_blank">
+       <img alt="天润城第十四街区" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/eb88cd9b-cd8d-4b65-82a2-7568e509efa3.jpg.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/2511052774266/" target="_blank">
+         天润城第十四街区
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c2511052774266/" title="天润城第十四街区网签">
+         90天成交18套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c2511052774266/" title="天润城第十四街区租房">
+         42套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/pukou/" title="浦口小区">
+         浦口
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/qiaobei/" title="桥北小区">
+         桥北
+        </a>
+        / 2009年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000020188592">
+         王道飞
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000020188592" data-lj_action_agent_name="王道飞" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="2511052774266" data-lj_action_resblock_name="天润城第十四街区" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看天润城第十四街区小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000020188592" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000020188592_2511052774266","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁3号线天润城站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          23617
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c2511052774266/" title="天润城第十四街区二手房">
+         <span>
+          136
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="1413582155395527" data-id="1413582155395527" data-index="11" data-is_focus="" data-log_index="11" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/1413582155395527/" rel="nofollow" target="_blank">
+       <img alt="弘阳旭日上城二区" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/0e4ef04e-3720-4961-a028-9e6abb65ed67.jpg.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/1413582155395527/" target="_blank">
+         弘阳旭日上城二区
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c1413582155395527/" title="弘阳旭日上城二区网签">
+         90天成交6套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c1413582155395527/" title="弘阳旭日上城二区租房">
+         86套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/pukou/" title="浦口小区">
+         浦口
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/qiaobei/" title="桥北小区">
+         桥北
+        </a>
+        / 2016年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000001000089750">
+         史建军
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000001000089750" data-lj_action_agent_name="史建军" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1413582155395527" data-lj_action_resblock_name="弘阳旭日上城二区" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看弘阳旭日上城二区小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000001000089750" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000001000089750_1413582155395527","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁3号线天润城站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          26190
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c1413582155395527/" title="弘阳旭日上城二区二手房">
+         <span>
+          142
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="2511053234687" data-id="2511053234687" data-index="12" data-is_focus="" data-log_index="12" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/2511053234687/" rel="nofollow" target="_blank">
+       <img alt="弘阳旭日上城一区" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/85140213-6d27-422f-a4b5-ef9e41a417e1.jpg.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/2511053234687/" target="_blank">
+         弘阳旭日上城一区
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c2511053234687/" title="弘阳旭日上城一区网签">
+         90天成交2套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c2511053234687/" title="弘阳旭日上城一区租房">
+         51套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/pukou/" title="浦口小区">
+         浦口
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/qiaobei/" title="桥北小区">
+         桥北
+        </a>
+        / 2007年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000023025886">
+         胡继尧
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000023025886" data-lj_action_agent_name="胡继尧" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="2511053234687" data-lj_action_resblock_name="弘阳旭日上城一区" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看弘阳旭日上城一区小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000023025886" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000023025886_2511053234687","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁3号线柳洲东路站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          24366
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c2511053234687/" title="弘阳旭日上城一区二手房">
+         <span>
+          147
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="2511052540312" data-id="2511052540312" data-index="13" data-is_focus="" data-log_index="13" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/2511052540312/" rel="nofollow" target="_blank">
+       <img alt="华汇康城" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/1882274e-4448-426f-b063-88f62b7ad102.JPG.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/2511052540312/" target="_blank">
+         华汇康城
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c2511052540312/" title="华汇康城网签">
+         90天成交10套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c2511052540312/" title="华汇康城租房">
+         21套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/jiangning/" title="江宁小区">
+         江宁
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/qilinzhen/" title="麒麟镇小区">
+         麒麟镇
+        </a>
+        / 2009年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000020349136">
+         徐宇航
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000020349136" data-lj_action_agent_name="徐宇航" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="2511052540312" data-lj_action_resblock_name="华汇康城" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看华汇康城小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000020349136" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000020349136_2511052540312","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          20349
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c2511052540312/" title="华汇康城二手房">
+         <span>
+          145
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="2511051679311" data-id="2511051679311" data-index="14" data-is_focus="" data-log_index="14" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/2511051679311/" rel="nofollow" target="_blank">
+       <img alt="合家春天" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/e6be9af9-4dd6-4af9-82d2-b7154ca0442c.jpg.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/2511051679311/" target="_blank">
+         合家春天
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c2511051679311/" title="合家春天网签">
+         90天成交7套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c2511051679311/" title="合家春天租房">
+         27套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/jiangning/" title="江宁小区">
+         江宁
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/jiulonghu/" title="九龙湖小区">
+         九龙湖
+        </a>
+        / 2008年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000020254135">
+         罗作鹏
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000020254135" data-lj_action_agent_name="罗作鹏" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="2511051679311" data-lj_action_resblock_name="合家春天" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看合家春天小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000020254135" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000020254135_2511051679311","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          26722
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c2511051679311/" title="合家春天二手房">
+         <span>
+          138
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="1411062680259" data-id="1411062680259" data-index="15" data-is_focus="" data-log_index="15" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/1411062680259/" rel="nofollow" target="_blank">
+       <img alt="中海万锦熙岸一期" class="lj-lazy" data-original="" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/1411062680259/" target="_blank">
+         中海万锦熙岸一期
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c1411062680259/" title="中海万锦熙岸一期网签">
+         90天成交11套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c1411062680259/" title="中海万锦熙岸一期租房">
+         66套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/pukou/" title="浦口小区">
+         浦口
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/jiangpujiedao/" title="江浦街道小区">
+         江浦街道
+        </a>
+        / 2014年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000020364417">
+         张亚东
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000020364417" data-lj_action_agent_name="张亚东" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1411062680259" data-lj_action_resblock_name="中海万锦熙岸一期" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看中海万锦熙岸一期小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000020364417" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000020364417_1411062680259","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁10号线文德路站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          25067
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c1411062680259/" title="中海万锦熙岸一期二手房">
+         <span>
+          134
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="2511053236900" data-id="2511053236900" data-index="16" data-is_focus="" data-log_index="16" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/2511053236900/" rel="nofollow" target="_blank">
+       <img alt="明发滨江新城二期" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/7cf00167-d35d-4b84-a2c3-5a8b147a3b6b.JPG.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/2511053236900/" target="_blank">
+         明发滨江新城二期
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c2511053236900/" title="明发滨江新城二期网签">
+         90天成交6套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c2511053236900/" title="明发滨江新城二期租房">
+         59套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/pukou/" title="浦口小区">
+         浦口
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/qiaobei/" title="桥北小区">
+         桥北
+        </a>
+        / 2005年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000001000141289">
+         张文豪
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000001000141289" data-lj_action_agent_name="张文豪" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="2511053236900" data-lj_action_resblock_name="明发滨江新城二期" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看明发滨江新城二期小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000001000141289" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000001000141289_2511053236900","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁3号线柳洲东路站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          24258
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c2511053236900/" title="明发滨江新城二期二手房">
+         <span>
+          128
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="1411099825154" data-id="1411099825154" data-index="17" data-is_focus="" data-log_index="17" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/1411099825154/" rel="nofollow" target="_blank">
+       <img alt="保利梧桐语花园" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/eb5adc3a-945b-47d7-831a-3463e9c1a7bc.jpg.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/1411099825154/" target="_blank">
+         保利梧桐语花园
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c1411099825154/" title="保利梧桐语花园网签">
+         90天成交21套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c1411099825154/" title="保利梧桐语花园租房">
+         31套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/jiangning/" title="江宁小区">
+         江宁
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/jiangningdaxuecheng/" title="江宁大学城小区">
+         江宁大学城
+        </a>
+        / 2016年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000020286224">
+         蔡盘浩
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000020286224" data-lj_action_agent_name="蔡盘浩" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1411099825154" data-lj_action_resblock_name="保利梧桐语花园" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看保利梧桐语花园小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000020286224" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000020286224_1411099825154","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁1号线中国药科大学站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          26003
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c1411099825154/" title="保利梧桐语花园二手房">
+         <span>
+          132
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="2511053258699" data-id="2511053258699" data-index="18" data-is_focus="" data-log_index="18" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/2511053258699/" rel="nofollow" target="_blank">
+       <img alt="明发滨江新城一期" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/a1582dec-1ba1-4ad2-a2ae-cc7ae1bf65cf.jpg.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/2511053258699/" target="_blank">
+         明发滨江新城一期
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c2511053258699/" title="明发滨江新城一期网签">
+         90天成交3套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c2511053258699/" title="明发滨江新城一期租房">
+         43套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/pukou/" title="浦口小区">
+         浦口
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/qiaobei/" title="桥北小区">
+         桥北
+        </a>
+        / 2004年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000001000118154">
+         韩迎
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000001000118154" data-lj_action_agent_name="韩迎" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="2511053258699" data-lj_action_resblock_name="明发滨江新城一期" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看明发滨江新城一期小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000001000118154" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000001000118154_2511053258699","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          22529
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c2511053258699/" title="明发滨江新城一期二手房">
+         <span>
+          133
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="1411000000783" data-id="1411000000783" data-index="19" data-is_focus="" data-log_index="19" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/1411000000783/" rel="nofollow" target="_blank">
+       <img alt="银城花园北片" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/1e96af3c-7631-4d6c-8ab0-95a889d36153.jpg.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/1411000000783/" target="_blank">
+         银城花园北片
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c1411000000783/" title="银城花园北片网签">
+         90天成交4套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c1411000000783/" title="银城花园北片租房">
+         25套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/gulou/" title="鼓楼小区">
+         鼓楼
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/longjiang/" title="龙江小区">
+         龙江
+        </a>
+        / 1996年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000020350319">
+         吴章亮
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000020350319" data-lj_action_agent_name="吴章亮" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1411000000783" data-lj_action_resblock_name="银城花园北片" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看银城花园北片小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000020350319" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000020350319_1411000000783","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁4号线龙江站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          62519
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c1411000000783/" title="银城花园北片二手房">
+         <span>
+          116
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="1411043590236" data-id="1411043590236" data-index="20" data-is_focus="" data-log_index="20" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/1411043590236/" rel="nofollow" target="_blank">
+       <img alt="雅居乐花园" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/0dca52e7-a801-464b-bf08-20cd9d4602cd.jpg.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/1411043590236/" target="_blank">
+         雅居乐花园
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c1411043590236/" title="雅居乐花园网签">
+         90天成交15套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c1411043590236/" title="雅居乐花园租房">
+         32套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/qinhuai/" title="秦淮小区">
+         秦淮
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/qinhong/" title="秦虹小区">
+         秦虹
+        </a>
+        / 2009年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000020113539">
+         鲁超
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000020113539" data-lj_action_agent_name="鲁超" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1411043590236" data-lj_action_resblock_name="雅居乐花园" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看雅居乐花园小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000020113539" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000020113539_1411043590236","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁3号线雨花门站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          40008
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c1411043590236/" title="雅居乐花园二手房">
+         <span>
+          107
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="2511052832045" data-id="2511052832045" data-index="21" data-is_focus="" data-log_index="21" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/2511052832045/" rel="nofollow" target="_blank">
+       <img alt="天润城第十街区" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/b58fab77-d06c-4481-a224-f82b8fd0818f.JPG.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/2511052832045/" target="_blank">
+         天润城第十街区
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c2511052832045/" title="天润城第十街区网签">
+         90天成交12套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c2511052832045/" title="天润城第十街区租房">
+         26套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/pukou/" title="浦口小区">
+         浦口
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/qiaobei/" title="桥北小区">
+         桥北
+        </a>
+        / 2009年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000020183191">
+         成天鸿
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000020183191" data-lj_action_agent_name="成天鸿" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="2511052832045" data-lj_action_resblock_name="天润城第十街区" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看天润城第十街区小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000020183191" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000020183191_2511052832045","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁3号线天润城站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          22911
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c2511052832045/" title="天润城第十街区二手房">
+         <span>
+          119
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="1412447592230243" data-id="1412447592230243" data-index="22" data-is_focus="" data-log_index="22" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/1412447592230243/" rel="nofollow" target="_blank">
+       <img alt="新城保利天地" class="lj-lazy" data-original="" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/1412447592230243/" target="_blank">
+         新城保利天地
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c1412447592230243/" title="新城保利天地网签">
+         90天成交5套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c1412447592230243/" title="新城保利天地租房">
+         139套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/jiangning/" title="江宁小区">
+         江宁
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/lukou/" title="禄口小区">
+         禄口
+        </a>
+        / 2017年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000026013084">
+         徐海玲
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000026013084" data-lj_action_agent_name="徐海玲" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1412447592230243" data-lj_action_resblock_name="新城保利天地" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看新城保利天地小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000026013084" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000026013084_1412447592230243","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁s1号线翔宇路北站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          22178
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c1412447592230243/" title="新城保利天地二手房">
+         <span>
+          103
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="1411000000686" data-id="1411000000686" data-index="23" data-is_focus="" data-log_index="23" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/1411000000686/" rel="nofollow" target="_blank">
+       <img alt="王府园小区" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/a19fa6f7-05ba-48ce-b2fb-886a2b2a6f77.jpg.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/1411000000686/" target="_blank">
+         王府园小区
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c1411000000686/" title="王府园小区网签">
+         90天成交16套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c1411000000686/" title="王府园小区租房">
+         36套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/qinhuai/" title="秦淮小区">
+         秦淮
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/shengzhoulu/" title="升州路小区">
+         升州路
+        </a>
+        / 1988年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000020240963">
+         沈冬生
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000020240963" data-lj_action_agent_name="沈冬生" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1411000000686" data-lj_action_resblock_name="王府园小区" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看王府园小区小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000020240963" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000020240963_1411000000686","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁3号线夫子庙站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          53525
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c1411000000686/" title="王府园小区二手房">
+         <span>
+          109
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="1411049794497" data-id="1411049794497" data-index="24" data-is_focus="" data-log_index="24" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/1411049794497/" rel="nofollow" target="_blank">
+       <img alt="托乐嘉单身公寓" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/30d87658-9d84-4a80-a04d-89efbd0dc7cf.JPG.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/1411049794497/" target="_blank">
+         托乐嘉单身公寓
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c1411049794497/" title="托乐嘉单身公寓网签">
+         90天成交9套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c1411049794497/" title="托乐嘉单身公寓租房">
+         37套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/jiangning/" title="江宁小区">
+         江宁
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/jiangjundadao11/" title="将军大道小区">
+         将军大道
+        </a>
+        / 2003年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000001000057285">
+         仲宁
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000001000057285" data-lj_action_agent_name="仲宁" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1411049794497" data-lj_action_resblock_name="托乐嘉单身公寓" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看托乐嘉单身公寓小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000001000057285" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000001000057285_1411049794497","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁s1号线翠屏山站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          23502
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c1411049794497/" title="托乐嘉单身公寓二手房">
+         <span>
+          105
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="1411049712745" data-id="1411049712745" data-index="25" data-is_focus="" data-log_index="25" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/1411049712745/" rel="nofollow" target="_blank">
+       <img alt="百家湖西花园伦敦城" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/395fa12b-65ee-4ad9-8146-83fceb42b3c7.jpg.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/1411049712745/" target="_blank">
+         百家湖西花园伦敦城
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c1411049712745/" title="百家湖西花园伦敦城网签">
+         90天成交13套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c1411049712745/" title="百家湖西花园伦敦城租房">
+         24套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/jiangning/" title="江宁小区">
+         江宁
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/baijiahu/" title="百家湖小区">
+         百家湖
+        </a>
+        / 2006年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000020238948">
+         陈奇
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000020238948" data-lj_action_agent_name="陈奇" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1411049712745" data-lj_action_resblock_name="百家湖西花园伦敦城" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看百家湖西花园伦敦城小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000020238948" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000020238948_1411049712745","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁3号线天元西路站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          28383
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c1411049712745/" title="百家湖西花园伦敦城二手房">
+         <span>
+          108
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="1411063103011" data-id="1411063103011" data-index="26" data-is_focus="" data-log_index="26" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/1411063103011/" rel="nofollow" target="_blank">
+       <img alt="银城蓝溪郡" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/a6b12b57-6979-468f-be03-d0f012c62498.jpg.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/1411063103011/" target="_blank">
+         银城蓝溪郡
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c1411063103011/" title="银城蓝溪郡网签">
+         90天成交13套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c1411063103011/" title="银城蓝溪郡租房">
+         88套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/jiangning/" title="江宁小区">
+         江宁
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/zhengfangxincheng/" title="正方新城小区">
+         正方新城
+        </a>
+        / 2009年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000026034953">
+         牛小禹
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000026034953" data-lj_action_agent_name="牛小禹" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1411063103011" data-lj_action_resblock_name="银城蓝溪郡" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看银城蓝溪郡小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000026034953" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000026034953_1411063103011","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          20520
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c1411063103011/" title="银城蓝溪郡二手房">
+         <span>
+          113
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="2511051140596" data-id="2511051140596" data-index="27" data-is_focus="" data-log_index="27" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/2511051140596/" rel="nofollow" target="_blank">
+       <img alt="21世纪国际公寓" class="lj-lazy" data-original="" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/2511051140596/" target="_blank">
+         21世纪国际公寓
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c2511051140596/" title="21世纪国际公寓网签">
+         90天成交11套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c2511051140596/" title="21世纪国际公寓租房">
+         39套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/jiangning/" title="江宁小区">
+         江宁
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/baijiahu/" title="百家湖小区">
+         百家湖
+        </a>
+        / 2011年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000020251560">
+         曹耀
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000020251560" data-lj_action_agent_name="曹耀" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="2511051140596" data-lj_action_resblock_name="21世纪国际公寓" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看21世纪国际公寓小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000020251560" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000020251560_2511051140596","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁1号线百家湖站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          31571
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c2511051140596/" title="21世纪国际公寓二手房">
+         <span>
+          112
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="1411041487932" data-id="1411041487932" data-index="28" data-is_focus="" data-log_index="28" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/1411041487932/" rel="nofollow" target="_blank">
+       <img alt="万科金域蓝湾" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/503b48ce-dc66-4562-9fda-6051ec3910e3.jpg.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/1411041487932/" target="_blank">
+         万科金域蓝湾
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c1411041487932/" title="万科金域蓝湾网签">
+         90天成交4套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c1411041487932/" title="万科金域蓝湾租房">
+         81套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/jiangning/" title="江宁小区">
+         江宁
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/jiulonghu/" title="九龙湖小区">
+         九龙湖
+        </a>
+        / 2010年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000020047253">
+         程博
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000020047253" data-lj_action_agent_name="程博" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1411041487932" data-lj_action_resblock_name="万科金域蓝湾" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看万科金域蓝湾小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000020047253" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000020047253_1411041487932","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁1号线小龙湾站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          37367
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c1411041487932/" title="万科金域蓝湾二手房">
+         <span>
+          107
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="clear xiaoquListItem" data-el="xiaoqu" data-housecode="1411041414549" data-id="1411041414549" data-index="29" data-is_focus="" data-log_index="29" data-sl="">
+      <a class="img" href="https://nj.lianjia.com/xiaoqu/1411041414549/" rel="nofollow" target="_blank">
+       <img alt="东渡国际青年城" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/c1915561-322d-4c5b-bc27-2f1d96897f7e.jpg.232x174.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+      </a>
+      <div class="info">
+       <div class="title">
+        <a href="https://nj.lianjia.com/xiaoqu/1411041414549/" target="_blank">
+         东渡国际青年城
+        </a>
+       </div>
+       <div class="houseInfo">
+        <span class="houseIcon">
+        </span>
+        <a href="https://nj.lianjia.com/chengjiao/c1411041414549/" title="东渡国际青年城网签">
+         90天成交21套
+        </a>
+        <span class="cutLine">
+         |
+        </span>
+        <a href="https://nj.lianjia.com/zufang/c1411041414549/" title="东渡国际青年城租房">
+         31套正在出租
+        </a>
+       </div>
+       <div class="positionInfo">
+        <span class="positionIcon">
+        </span>
+        <a class="district" href="https://nj.lianjia.com/xiaoqu/jiangning/" title="江宁小区">
+         江宁
+        </a>
+        <a class="bizcircle" href="https://nj.lianjia.com/xiaoqu/dongshanzhen/" title="东山镇小区">
+         东山镇
+        </a>
+        / 2009年建成
+       </div>
+       <div class="agentInfo">
+        <span class="agentIcon">
+        </span>
+        <a class="agentName" href="https://dianpu.lianjia.com/1000000020228410">
+         靳丹
+        </a>
+        <div class="agent_chat im-talk LOGCLICKDATA" data-lj_action_agent_id="1000000020228410" data-lj_action_agent_name="靳丹" data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1411041414549" data-lj_action_resblock_name="东渡国际青年城" data-lj_action_source_type="pc_xiaoqu_liebiao" data-lj_evtid="12951" data-msg-payload="HI，您好。我正在看东渡国际青年城小区" data-source-port="pc_lianjia_ershou_xiaoqu_liebiao" data-ucid="1000000020228410" data_lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000131,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000020228410_1411041414549","rid":"1130032446940803072"}'>
+         <i class="chatIcon">
+         </i>
+         <span>
+          免费咨询
+         </span>
+        </div>
+       </div>
+       <div class="tagList">
+        <span>
+         近地铁1号线竹山路站
+        </span>
+       </div>
+      </div>
+      <div class="xiaoquListItemRight">
+       <div class="xiaoquListItemPrice">
+        <div class="totalPrice">
+         <span>
+          29239
+         </span>
+         元/m
+         <sup>
+          2
+         </sup>
+        </div>
+        <div class="priceDesc">
+         4月二手房参考均价
+        </div>
+       </div>
+       <div class="xiaoquListItemSellCount">
+        <a class="totalSellCount" href="https://nj.lianjia.com/ershoufang/c1411041414549/" title="东渡国际青年城二手房">
+         <span>
+          83
+         </span>
+         套
+        </a>
+        <div class="sellCountDesc">
+         在售二手房
+        </div>
+       </div>
+      </div>
+     </li>
+    </ul>
+    <!-- 无搜索结果 -->
+    <div class="contentBottom clear">
+     <div class="crumbs fl">
+      <a href="/">
+       链家网南京站
+      </a>
+      <span>
+       &gt;
+      </span>
+      <h1>
+       <a href="/xiaoqu/">
+        南京小区
+       </a>
+      </h1>
+     </div>
+     <div class="page-box fr">
+      <div class="page-box house-lst-page-box" comp-module="page" page-data='{"totalPage":1,"curPage":1}' page-url="/xiaoqu/pg{page}/">
+      </div>
+     </div>
+    </div>
+    <div style="display:none;">
+     <p>
+      南京小区信息
+     </p>
+     <p>
+      链家网南京站南京小区频道提供真实、时时的南京小区房源信息，南京小区目前为30个，全&gt;部由线下经纪人确认核实上传，信息可靠，南京小区用户可以在链家网南京小区频道和南京小区频道移动端最快速、最及时的找到自己想要的真&gt;实、放心房源。链家网南京小区平台，真房源，如你所见！
+     </p>
+     <p>
+      小区均价:22529,建成年代:2004,物业费用:0.7,开发商:明发（集团）南京房地产开发有限公司,物业公司:南京紫竹物业管理有限公司,楼栋总数:64,容积率:1.89,房屋总数:4120,绿化率:40,小区均价:20519.7,建成年代:2009,物业费用:0.5,开发商:南京银卓房地产开发有限公司,物业公司:南京银城物业服务股份有限公司,楼栋总数:36,容积率:2.5,房屋总数:2811,绿化率:40
+     </p>
+    </div>
+   </div>
+   <!-- 右侧sidebar -->
+   <div class="rightContent">
+    <div class="sideBar_sellHouse" id="sellHouseContainer">
+     <div class="sellHouseTitle">
+      智能估价，就在链家
+     </div>
+     <div class="sellHouseDesc">
+      基于海量成交数据，帮您合理定价，预估市值
+     </div>
+     <a class="sellHoustBtn" href="/yezhu/gujia">
+      评估房价
+     </a>
+    </div>
+    <div class="sideBar_price" id="priceSideBarContainer">
+    </div>
+    <div class="sideBar_hotResblock" id="hotResblockContainer">
+     <div class="hotResblockTitle">
+      北京热门小区
+     </div>
+     <ul>
+     </ul>
+     <a class="moreResblock_sidebar">
+      查看更多热门小区 &gt;&gt;
+     </a>
+    </div>
+    <div class="sideBar_ADSuggest" id="ADSuggestContainer">
+    </div>
+    <div class="sideBar_zixun sideBar_wenda" id="pushZixunContainer">
+    </div>
+    <div class="sideBar_wenda" id="pushWendaContainer">
+    </div>
+    <div class="sideBar_wenda" id="pushBaikeContainer">
+    </div>
+    <div class="download">
+     <div class="title">
+      下载链家APP
+     </div>
+     <div class="qr-code">
+      <img alt="下载链家app" height="94" src="//ajax.api.lianjia.com/qr/getDownloadQr?location=right&amp;ljweb_channel_key=xiaoqu_list" width="94"/>
+      <div class="text">
+       <p>
+        扫描上方二维码
+       </p>
+       <p>
+        随时查看新房源
+       </p>
+       <p class="get-more">
+        <a href="//www.lianjia.com/client/">
+         了解更多
+         <img height="9" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAGFBMVEUAAACcn6Gfn5+an5+bnqCbnqGfn5+cn6EV6DbuAAAAB3RSTlMA0BAw8LAgvf5k9AAAAEdJREFUKM9jIBOkBqMJhBcqoAmUC6EKmJSjKWEWR1eiiK6ECZsSA3QlzuhKSihRghDA0EJ/BWIoCgzh4YMIZALRYBrMQAkAAF5bGMBkrwzqAAAAAElFTkSuQmCC" width="9"/>
+        </a>
+       </p>
+      </div>
+     </div>
+    </div>
+    <script id="priceSideBarTpl" type="text/template">
+     <%if(tag !== 'school'){%>
+  <div class="title"><%=name%>最新参考均价</div>
+  <div class="priceMap" id="priceChartContainer"></div>
+  <a href="<%=fangjia_url%>" class="unitPrice" target="_blank">
+    <span><%=month_trans%></span>元/平米
+  </a>
+  <div class="info">
+    <a href="<%=fangjia_url%>" target="_blank">环比上月均价<%=month_trans_ratio>=0?'上涨':'下降'%> <%=month_trans_ratio%>%</a>
+    <a href="<%=chengjiao_url%>" target="_blank">/ 近90天成交<%=sold_90_day%>套</a>
+    <%if(tag === '小区'){%>
+    <div>
+      <a class="cardMoreDetail" href="<%=url%>" target="_blank">查看小区详情>></a>
+    </div>
+    <%}%>
+  </div>
+<%}else{%>
+  <a class="title" href="<%=url%>" target="_blank"><%=name%></a>
+  <div class="unitPrice school">
+    <span><%=min_unit_price%></span>万元起
+  </div>
+  <div class="info">
+    <a href="<%=url%>" target="_blank">本学区目前有在售二手房<%=sell_num%>套，划片小区<%=resblock_nums%>个</a>
+    <a class="cardMoreDetail" href="<%=url%>"  target="_blank">查看学区详情>></a>
+  </div>
+<%}%>
+    </script>
+    <script id="hotResblockTpl" type="text/tempalte">
+     <div class="hotResblockTitle"><%=name%>成交量排行</div>
+  <ul>
+  <%for(var i = 0; i < rank.length; i++){%>
+    <li class="clear">
+    <%if(i < 3){%>
+      <div class="num top"><%=i+1%></div>
+    <%}else{%>
+      <div class="num"><%=i+1%></div>
+    <%}%>
+      <a href="<%=rank[i].url%>" class="resblockName_sidebar" title="<%=rank[i].resblock_name%>"><%=rank[i].resblock_name%></a>
+      <div class="reblockPrice_sidebar"><%=Math.round(rank[i].trans_price)%>元/㎡</div>
+    </li>
+  <%}%>
+  </ul>
+  <a href="<%=url%>" class="moreResblock_sidebar">查看更多小区成交量&nbsp;>></a>
+    </script>
+    <script id="pushWendaTpl" type="text/template">
+     <div class="title">热门问答</div>
+  <ul>
+  <%for(var i = 0;i < list.length; i++){%>
+    <li>
+      <a class="info" href="<%=list[i].url%>" target="_blank" data-bl="list" data-log_index="<%=i+1%>"><%=list[i].question_title%></a>
+      <span class="answer_count"><%=list[i].answer_count%>个回答 / </span><span class="time"><%=list[i].mtime%></span>
+    </li>
+  <%}%>
+  </ul>
+    </script>
+    <script id="pushBaikeTpl" type="text/template">
+     <div class="list-baike">
+    <div class="title">热门百科
+      <a href="<%=baike_data['more_url']%>" class="btn-more" target="_blank">更多</a>
+    </div>
+    <div class="bd">
+      <%for(var i = 0;i < baike_data['data'].length; i++){%>
+        <div class="item"><a href="<%=baike_data['data'][i].url%>" target="_blank" class="tit"><%=baike_data['data'][i].title%></a><div class="sub-tit"><%=baike_data['data'][i].summary%></div><span class="arrow"></span></div>
+      <%}%>
+    </div>
+  </div>
+    </script>
+    <script id="pushZixunTpl" type="text/template">
+     <div class="title">热点精选</div>
+  <ul>
+  <%for(var i = 0;i < list.length; i++){%>
+    <li>
+      <a class="info" href="<%=list[i].url%>" target="_blank" data-bl="list" data-log_index="<%=i+1%>">
+        <i class="opt<%=i%>"><%=i+1%></i>
+        <span><%=list[i].question_title%></span>
+      </a>
+    </li>
+  <%}%>
+  </ul>
+    </script>
+    <script id="sideBar_ADSuggest_tpl" type="text/template">
+     <a class="img" href="<%=url%>" target="_blank" data-bl="list" data-log_index="<%=index+1%>">
+    <img src="<%=img_url%>" alt="">
+    <div class="cover"></div>
+    <div class="title">
+      <span><%=title%></span>&nbsp;
+    </div>
+  </a>
+  <div class="pointContainer">
+  <%for(var i = 0; i < total; i++){%>
+    <%if(index === i){%>
+      <span data-index="<%=i%>" class="point selected"></span>
+    <%}else{%>
+      <span data-index="<%=i%>" class="point"></span>
+    <%}%>
+  <%}%>
+  </div>
+    </script>
+   </div>
+  </div>
+  <div class="pagination_group_a">
+   <a href="/xiaoqu/">
+   </a>
+  </div>
+  <div class="footer">
+   <div class="wrapper">
+    <div class="f-title">
+     <div class="fl">
+      <ul>
+       <li>
+        <a href="https://nj.lianjia.com/about/aboutlianjia/" rel="nofollow" target="_blank">
+         关于链家
+        </a>
+       </li>
+       <li>
+        <a href="https://nj.lianjia.com/about/contactus/" rel="nofollow" target="_blank">
+         联系我们
+        </a>
+       </li>
+       <li>
+        <a href="http://join.lianjia.com/" rel="nofollow" target="_blank">
+         加入我们
+        </a>
+       </li>
+       <li>
+        <a href="https://www.lianjia.com/privacy/" rel="nofollow" target="_blank">
+         隐私声明
+        </a>
+       </li>
+       <li>
+        <a href="https://nj.lianjia.com/sitemap/" target="_blank">
+         网站地图
+        </a>
+       </li>
+       <li>
+        <a href="https://page.lianjia.com/subject/youlian.html" rel="nofollow" target="_blank">
+         友情链接
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="fr">
+      官方客服 1010 9666
+     </div>
+    </div>
+    <div class="lianjia-link-box">
+     <div class="fl">
+      <div class="tab">
+       <span class="hover">
+        热门小区
+       </span>
+       <span>
+        商圈小区
+       </span>
+       <span>
+        城市小区
+       </span>
+       <span>
+        推荐城市小区
+       </span>
+       <span>
+        城市楼盘
+       </span>
+       <span>
+        推荐城市楼盘
+       </span>
+       <span>
+        合作与友情链接
+       </span>
+      </div>
+      <div class="link-list">
+       <div>
+        <dd>
+         <a href="https://nj.lianjia.com/xiaoqu/2511051425261/" target="_blank">
+          诚品城
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1412447592230243/" target="_blank">
+          新城保利天地
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411063380701/" target="_blank">
+          华府国际
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411050279764/" target="_blank">
+          丹佛小镇
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411099402978/" target="_blank">
+          左邻右里
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511053200629/" target="_blank">
+          明发城市广场
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511052708549/" target="_blank">
+          银河湾紫苑
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411100805511/" target="_blank">
+          东郊小镇第一街区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511052774154/" target="_blank">
+          威尼斯水城第十五街区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511052747714/" target="_blank">
+          威尼斯水城第十四街区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511053294953/" target="_blank">
+          威尼斯水城第三街区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/146669451670311/" target="_blank">
+          南方花园瑞阳居
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411063827536/" target="_blank">
+          翠屏诚园
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511052835655/" target="_blank">
+          天华硅谷
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511052766440/" target="_blank">
+          威尼斯水城第七街区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411099806148/" target="_blank">
+          天润城第十六街区南区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411063561439/" target="_blank">
+          万裕龙庭水岸
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411063979902/" target="_blank">
+          朗诗青春街区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511053684978/" target="_blank">
+          融侨观邸二期
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511052799272/" target="_blank">
+          泰来苑
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411042942570/" target="_blank">
+          时光澔韵
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/146941581783739/" target="_blank">
+          新城花漾紫郡
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411000000414/" target="_blank">
+          凯润金城
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411046930504/" target="_blank">
+          莲花嘉园
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511053013097/" target="_blank">
+          东郊小镇第二街区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411041466211/" target="_blank">
+          南方花园枫彩园
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511053367209/" target="_blank">
+          阳光之旅
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/147892132179463/" target="_blank">
+          城市之光大厦
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411041471015/" target="_blank">
+          21世纪现代城
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411049709724/" target="_blank">
+          翠屏湾花园城
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411041414549/" target="_blank">
+          东渡国际青年城
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411063414455/" target="_blank">
+          和昌湾景
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411063565913/" target="_blank">
+          江山星汉城
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511053015469/" target="_blank">
+          东郊小镇第六街区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511052751682/" target="_blank">
+          威尼斯水城第八街区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511051210158/" target="_blank">
+          武夷水岸家园
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1412832641134083/" target="_blank">
+          银亿东城第十一街区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411050646977/" target="_blank">
+          中航樾府
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411055185117/" target="_blank">
+          湖滨世纪花园
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511053225046/" target="_blank">
+          海德北岸城
+         </a>
+        </dd>
+       </div>
+       <div>
+        <dd>
+         <a href="https://nj.lianjia.com/xiaoqu/nanhu4/" target="_blank">
+          南湖小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/wandaguangchang1/" target="_blank">
+          万达广场小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/yueyuan/" target="_blank">
+          月苑小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/qinhuai/" target="_blank">
+          秦淮小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/lishuichengzhong/" target="_blank">
+          溧水城中小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/nengrenli/" target="_blank">
+          能仁里小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/lishui/" target="_blank">
+          溧水小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/laifengli/" target="_blank">
+          来凤里小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/zhengfangxincheng/" target="_blank">
+          正方新城小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/yaohuamen/" target="_blank">
+          尧化门小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/jinlingxiaoqu/" target="_blank">
+          金陵小区小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/longjiang/" target="_blank">
+          龙江小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/changfujie2/" target="_blank">
+          常府街小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/fenghuangxijie1/" target="_blank">
+          凤凰西街小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/jiangningqita11/" target="_blank">
+          江宁其它小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/dinghuaimendajie/" target="_blank">
+          定淮门大街小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/dingshanjiedao/" target="_blank">
+          顶山街道小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/danfengjie1/" target="_blank">
+          丹凤街小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/wanshou1/" target="_blank">
+          万寿小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/fuzimiao/" target="_blank">
+          夫子庙小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/hongjiayuan1/" target="_blank">
+          洪家园小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/baijiahu/" target="_blank">
+          百家湖小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/nanjingnanzhan1/" target="_blank">
+          宁南小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/xianhemen/" target="_blank">
+          仙鹤门小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/jiangjundadao11/" target="_blank">
+          将军大道小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/lishuihengda/" target="_blank">
+          溧水恒大小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/hunanlu/" target="_blank">
+          湖南路小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/pukouqita11/" target="_blank">
+          浦口其它小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/houzaimen/" target="_blank">
+          后宰门小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/xiaolingwei1/" target="_blank">
+          孝陵卫小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/jiangning/" target="_blank">
+          江宁小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/luhezhucheng/" target="_blank">
+          六合主城小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/ruijinlu1/" target="_blank">
+          瑞金路小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/huxijie/" target="_blank">
+          湖西街小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/taishanjiedao/" target="_blank">
+          泰山街道小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/liuhe/" target="_blank">
+          六合小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/jiangpujiedao/" target="_blank">
+          江浦街道小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/xiaoshi1/" target="_blank">
+          小市小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/qixia/" target="_blank">
+          栖霞小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/yingtuohuayuan/" target="_blank">
+          樱驼花园小区
+         </a>
+        </dd>
+       </div>
+       <div>
+        <dd>
+         <a href="https://nj.lianjia.com/xiaoqu/" target="_blank">
+          南京小区
+         </a>
+         <a href="https://sh.lianjia.com/xiaoqu/" target="_blank">
+          上海小区
+         </a>
+         <a href="https://bj.lianjia.com/xiaoqu/" target="_blank">
+          北京小区
+         </a>
+         <a href="https://dl.lianjia.com/xiaoqu/" target="_blank">
+          大连小区
+         </a>
+         <a href="https://tj.lianjia.com/xiaoqu/" target="_blank">
+          天津小区
+         </a>
+         <a href="https://cd.lianjia.com/xiaoqu/" target="_blank">
+          成都小区
+         </a>
+         <a href="https://qd.lianjia.com/xiaoqu/" target="_blank">
+          青岛小区
+         </a>
+         <a href="https://hz.lianjia.com/xiaoqu/" target="_blank">
+          杭州小区
+         </a>
+         <a href="https://xm.lianjia.com/xiaoqu/" target="_blank">
+          厦门小区
+         </a>
+         <a href="https://sz.lianjia.com/xiaoqu/" target="_blank">
+          深圳小区
+         </a>
+         <a href="https://cs.lianjia.com/xiaoqu/" target="_blank">
+          长沙小区
+         </a>
+         <a href="https://wh.lianjia.com/xiaoqu/" target="_blank">
+          武汉小区
+         </a>
+         <a href="https://cq.lianjia.com/xiaoqu/" target="_blank">
+          重庆小区
+         </a>
+         <a href="https://jn.lianjia.com/xiaoqu/" target="_blank">
+          济南小区
+         </a>
+         <a href="https://sjz.lianjia.com/xiaoqu/" target="_blank">
+          石家庄小区
+         </a>
+         <a href="https://gz.lianjia.com/xiaoqu/" target="_blank">
+          广州小区
+         </a>
+         <a href="https://dg.lianjia.com/xiaoqu/" target="_blank">
+          东莞小区
+         </a>
+         <a href="https://fs.lianjia.com/xiaoqu/" target="_blank">
+          佛山小区
+         </a>
+         <a href="https://hf.lianjia.com/xiaoqu/" target="_blank">
+          合肥小区
+         </a>
+         <a href="https://yt.lianjia.com/xiaoqu/" target="_blank">
+          烟台小区
+         </a>
+         <a href="https://sy.lianjia.com/xiaoqu/" target="_blank">
+          沈阳小区
+         </a>
+         <a href="https://hui.lianjia.com/xiaoqu/" target="_blank">
+          惠州小区
+         </a>
+         <a href="https://zh.lianjia.com/xiaoqu/" target="_blank">
+          珠海小区
+         </a>
+         <a href="https://lf.lianjia.com/xiaoqu/" target="_blank">
+          廊坊小区
+         </a>
+         <a href="https://zz.lianjia.com/xiaoqu/" target="_blank">
+          郑州小区
+         </a>
+         <a href="https://wx.lianjia.com/xiaoqu/" target="_blank">
+          无锡小区
+         </a>
+         <a href="https://su.lianjia.com/xiaoqu/" target="_blank">
+          苏州小区
+         </a>
+         <a href="https://hk.lianjia.com/xiaoqu/" target="_blank">
+          海口小区
+         </a>
+        </dd>
+       </div>
+       <div>
+        <dd>
+         <a href="https://nj.ke.com/xiaoqu/" target="_blank">
+          南京小区
+         </a>
+         <a href="https://sh.ke.com/xiaoqu/" target="_blank">
+          上海小区
+         </a>
+         <a href="https://bj.ke.com/xiaoqu/" target="_blank">
+          北京小区
+         </a>
+         <a href="https://dl.ke.com/xiaoqu/" target="_blank">
+          大连小区
+         </a>
+         <a href="https://tj.ke.com/xiaoqu/" target="_blank">
+          天津小区
+         </a>
+         <a href="https://cd.ke.com/xiaoqu/" target="_blank">
+          成都小区
+         </a>
+         <a href="https://qd.ke.com/xiaoqu/" target="_blank">
+          青岛小区
+         </a>
+         <a href="https://hz.ke.com/xiaoqu/" target="_blank">
+          杭州小区
+         </a>
+         <a href="https://xm.ke.com/xiaoqu/" target="_blank">
+          厦门小区
+         </a>
+         <a href="https://sz.ke.com/xiaoqu/" target="_blank">
+          深圳小区
+         </a>
+         <a href="https://cs.ke.com/xiaoqu/" target="_blank">
+          长沙小区
+         </a>
+         <a href="https://wh.ke.com/xiaoqu/" target="_blank">
+          武汉小区
+         </a>
+         <a href="https://cq.ke.com/xiaoqu/" target="_blank">
+          重庆小区
+         </a>
+         <a href="https://xa.ke.com/xiaoqu/" target="_blank">
+          西安小区
+         </a>
+         <a href="https://jn.ke.com/xiaoqu/" target="_blank">
+          济南小区
+         </a>
+         <a href="https://sjz.ke.com/xiaoqu/" target="_blank">
+          石家庄小区
+         </a>
+         <a href="https://gz.ke.com/xiaoqu/" target="_blank">
+          广州小区
+         </a>
+         <a href="https://dg.ke.com/xiaoqu/" target="_blank">
+          东莞小区
+         </a>
+         <a href="https://fs.ke.com/xiaoqu/" target="_blank">
+          佛山小区
+         </a>
+         <a href="https://hf.ke.com/xiaoqu/" target="_blank">
+          合肥小区
+         </a>
+         <a href="https://yt.ke.com/xiaoqu/" target="_blank">
+          烟台小区
+         </a>
+         <a href="https://sy.ke.com/xiaoqu/" target="_blank">
+          沈阳小区
+         </a>
+         <a href="https://hui.ke.com/xiaoqu/" target="_blank">
+          惠州小区
+         </a>
+         <a href="https://zh.ke.com/xiaoqu/" target="_blank">
+          珠海小区
+         </a>
+         <a href="https://zs.ke.com/xiaoqu/" target="_blank">
+          中山小区
+         </a>
+         <a href="https://lf.ke.com/xiaoqu/" target="_blank">
+          廊坊小区
+         </a>
+         <a href="https://zz.ke.com/xiaoqu/" target="_blank">
+          郑州小区
+         </a>
+         <a href="https://wx.ke.com/xiaoqu/" target="_blank">
+          无锡小区
+         </a>
+         <a href="https://su.ke.com/xiaoqu/" target="_blank">
+          苏州小区
+         </a>
+         <a href="https://xz.ke.com/xiaoqu/" target="_blank">
+          徐州小区
+         </a>
+         <a href="https://hk.ke.com/xiaoqu/" target="_blank">
+          海口小区
+         </a>
+         <a href="https://cc.ke.com/xiaoqu/" target="_blank">
+          长春小区
+         </a>
+        </dd>
+       </div>
+       <div>
+        <dd>
+         <a href="https://bj.fang.lianjia.com/loupan/" target="_blank">
+          北京楼盘
+         </a>
+         <a href="https://cc.fang.lianjia.com/loupan/" target="_blank">
+          长春楼盘
+         </a>
+         <a href="https://cd.fang.lianjia.com/loupan/" target="_blank">
+          成都楼盘
+         </a>
+         <a href="https://cq.fang.lianjia.com/loupan/" target="_blank">
+          重庆楼盘
+         </a>
+         <a href="https://cs.fang.lianjia.com/loupan/" target="_blank">
+          长沙楼盘
+         </a>
+         <a href="https://dl.fang.lianjia.com/loupan/" target="_blank">
+          大连楼盘
+         </a>
+         <a href="https://fs.fang.lianjia.com/loupan/" target="_blank">
+          佛山楼盘
+         </a>
+         <a href="https://gz.fang.lianjia.com/loupan/" target="_blank">
+          广州楼盘
+         </a>
+         <a href="https://hf.fang.lianjia.com/loupan/" target="_blank">
+          合肥楼盘
+         </a>
+         <a href="https://hz.fang.lianjia.com/loupan/" target="_blank">
+          杭州楼盘
+         </a>
+         <a href="https://jn.fang.lianjia.com/loupan/" target="_blank">
+          济南楼盘
+         </a>
+         <a href="https://km.fang.lianjia.com/loupan/" target="_blank">
+          昆明楼盘
+         </a>
+         <a href="https://nj.fang.lianjia.com/loupan/" target="_blank">
+          南京楼盘
+         </a>
+         <a href="https://qd.fang.lianjia.com/loupan/" target="_blank">
+          青岛楼盘
+         </a>
+         <a href="https://sh.fang.lianjia.com/loupan/" target="_blank">
+          上海楼盘
+         </a>
+         <a href="https://sjz.fang.lianjia.com/loupan/" target="_blank">
+          石家庄楼盘
+         </a>
+         <a href="https://su.fang.lianjia.com/loupan/" target="_blank">
+          苏州楼盘
+         </a>
+         <a href="https://sy.fang.lianjia.com/loupan/" target="_blank">
+          沈阳楼盘
+         </a>
+         <a href="https://sz.fang.lianjia.com/loupan/" target="_blank">
+          深圳楼盘
+         </a>
+         <a href="https://tj.fang.lianjia.com/loupan/" target="_blank">
+          天津楼盘
+         </a>
+         <a href="https://ty.fang.lianjia.com/loupan/" target="_blank">
+          太原楼盘
+         </a>
+         <a href="https://wh.fang.lianjia.com/loupan/" target="_blank">
+          武汉楼盘
+         </a>
+         <a href="https://wx.fang.lianjia.com/loupan/" target="_blank">
+          无锡楼盘
+         </a>
+         <a href="https://xa.fang.lianjia.com/loupan/" target="_blank">
+          西安楼盘
+         </a>
+         <a href="https://xm.fang.lianjia.com/loupan/" target="_blank">
+          厦门楼盘
+         </a>
+         <a href="https://yt.fang.lianjia.com/loupan/" target="_blank">
+          烟台楼盘
+         </a>
+         <a href="https://zz.fang.lianjia.com/loupan/" target="_blank">
+          郑州楼盘
+         </a>
+        </dd>
+       </div>
+       <div>
+        <dd>
+         <a href="https://bj.fang.ke.com/loupan/" target="_blank">
+          北京楼盘
+         </a>
+         <a href="https://cc.fang.ke.com/loupan/" target="_blank">
+          长春楼盘
+         </a>
+         <a href="https://cd.fang.ke.com/loupan/" target="_blank">
+          成都楼盘
+         </a>
+         <a href="https://cq.fang.ke.com/loupan/" target="_blank">
+          重庆楼盘
+         </a>
+         <a href="https://cs.fang.ke.com/loupan/" target="_blank">
+          长沙楼盘
+         </a>
+         <a href="https://dl.fang.ke.com/loupan/" target="_blank">
+          大连楼盘
+         </a>
+         <a href="https://fs.fang.ke.com/loupan/" target="_blank">
+          佛山楼盘
+         </a>
+         <a href="https://gz.fang.ke.com/loupan/" target="_blank">
+          广州楼盘
+         </a>
+         <a href="https://hf.fang.ke.com/loupan/" target="_blank">
+          合肥楼盘
+         </a>
+         <a href="https://hz.fang.ke.com/loupan/" target="_blank">
+          杭州楼盘
+         </a>
+         <a href="https://jn.fang.ke.com/loupan/" target="_blank">
+          济南楼盘
+         </a>
+         <a href="https://km.fang.ke.com/loupan/" target="_blank">
+          昆明楼盘
+         </a>
+         <a href="https://nj.fang.ke.com/loupan/" target="_blank">
+          南京楼盘
+         </a>
+         <a href="https://qd.fang.ke.com/loupan/" target="_blank">
+          青岛楼盘
+         </a>
+         <a href="https://sh.fang.ke.com/loupan/" target="_blank">
+          上海楼盘
+         </a>
+         <a href="https://sjz.fang.ke.com/loupan/" target="_blank">
+          石家庄楼盘
+         </a>
+         <a href="https://su.fang.ke.com/loupan/" target="_blank">
+          苏州楼盘
+         </a>
+         <a href="https://sy.fang.ke.com/loupan/" target="_blank">
+          沈阳楼盘
+         </a>
+         <a href="https://sz.fang.ke.com/loupan/" target="_blank">
+          深圳楼盘
+         </a>
+         <a href="https://tj.fang.ke.com/loupan/" target="_blank">
+          天津楼盘
+         </a>
+         <a href="https://ty.fang.ke.com/loupan/" target="_blank">
+          太原楼盘
+         </a>
+         <a href="https://wh.fang.ke.com/loupan/" target="_blank">
+          武汉楼盘
+         </a>
+         <a href="https://wx.fang.ke.com/loupan/" target="_blank">
+          无锡楼盘
+         </a>
+         <a href="https://xa.fang.ke.com/loupan/" target="_blank">
+          西安楼盘
+         </a>
+         <a href="https://xm.fang.ke.com/loupan/" target="_blank">
+          厦门楼盘
+         </a>
+         <a href="https://yt.fang.ke.com/loupan/" target="_blank">
+          烟台楼盘
+         </a>
+         <a href="https://zz.fang.ke.com/loupan/" target="_blank">
+          郑州楼盘
+         </a>
+         <a href="https://nc.fang.ke.com/loupan/" target="_blank">
+          南昌楼盘
+         </a>
+        </dd>
+       </div>
+       <div>
+        <dd>
+         <a href="https://nj.58.com/chuzu/" target="_blank">
+          南京出租房网
+         </a>
+         <a href="http://nj.sp.anjuke.com/" target="_blank">
+          南京商铺
+         </a>
+         <a href="http://nj.hgzzj.cn" target="_blank">
+          南京装修队
+         </a>
+         <a href="https://www.tujia.com/gongyu/nanjing-s988/" target="_blank">
+          南京秦淮区酒店民宿
+         </a>
+         <a href="http://nanjing.liebiao.com/shangpu/ " target="_blank">
+          南京商铺
+         </a>
+        </dd>
+       </div>
+      </div>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+    <div class="bottom">
+     <div class="copyright">
+      链家网（北京）科技有限公司 | 网络经营许可证 京ICP备16057509号-2 | © Copyright©2010-2019 链家网Lianjia.com版权所有 |
+      <a href="https://img.ljcdn.com/beike/lianjia-web/1550576952648.png" target="_blank">
+       营业执照
+      </a>
+      <br/>
+      违法和不良信息举报电话：010-86440676 违法和不良信息举报邮箱：jubaoyouxiang@lianjia.com
+     </div>
+     <div style="width:300px;color: #888c8e;font-size: 12px;line-height: 20px;">
+      <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802024019" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;" target="_blank">
+       <img src="https://s1.ljcdn.com/feroot/pc/asset/img/home/beian.png?_v=201905161639093" style="float:left;"/>
+       <p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px;color: #888c8e;">
+        京公网安备 11010802024019号
+       </p>
+      </a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script crossorigin="" src="https://s1.ljcdn.com/feroot/pc/asset/base/fe.js?_v=201905161639093">
+  </script>
+  <script crossorigin="" src="https://s1.ljcdn.com/feroot/pc/asset/common/common.js?_v=201905161639093">
+  </script>
+  <div style="display:none">
+   <script crossorigin="" src="https://s1.ljcdn.com/feroot/dep/ljanalytics.js?_v=201905161639093">
+   </script>
+  </div>
+  <div data-city="nj" data-page="xiaoqu_list" id="only">
+  </div>
+  <script>
+   var path = 'https://s1.ljcdn.com/feroot/pc/asset?_v=201905161639093'.split("?");require.config({baseUrl: path[0],paths: {'echarts' : '../../dep/echarts-1.4.1/build/echarts','echarts/chart/bar' : '../../dep/echarts-1.4.1/build/echarts','echarts/chart/line' : '../../dep/echarts-1.4.1/build/echarts','echarts/chart/pie' : '../../dep/echarts-1.4.1/build/echarts','echarts3' : '../../dep/echarts3/echarts3','common': 'common','jquery-ui': '../../dep/jquery-ui/jquery-ui.min','zeroclipboard': '../../dep/zeroclipboard-2.2.0/ZeroClipboard'},urlArgs:  path[1]});var feData = {"cityName": "北京","getFavHouseUrl":       "/api/gethousefav","setFavHouseUrl":       "/api/sethousefav","getLastSearch":        "/api/getlastsearch","getCommunityHistory":  "/api/getcommunityhistory","verifyHouse":          "/api/verifyHouse","getUser":              "/api/getUser","verifyCode":           "/verifycode/getVerifyCode","complaint":            "/api/complaint","getDecoration":        "/api/getDecoration","trendData" :           "/site/getpicinfo"}
+  </script>
+  <script type="text/javascript">
+   require(['ershoufang/xiaoquList/index'], function (main) {
+  main({
+    sidebar:{"type":"city","cityId":320100,"uuid":"b42959ee-f8e3-4df7-b938-d233590aebdb","ucid":null,"id":320100}
+  });
+});
+require(['common/backtopV3'], function (main) {
+  main({
+    ucid: '',
+    uuid: 'b42959ee-f8e3-4df7-b938-d233590aebdb',
+    loadingImg: 'https://s1.ljcdn.com/feroot/pc/asset/ershoufang/sellDetail/img/loading.gif?_v=201905161639093',
+    qrImg: '//ajax.api.lianjia.com/qr/getDownloadQr'
+  });
+});
+require(['common/initTalk'], function(initTalk) {
+  initTalk()
+});
+;;+function() {
+    LjUserTrack.send({
+        "ljweb_id": "10001",
+        "ljweb_mod": "xiaoqu_list_view",
+        "ljweb_bl": "spk_0",
+        "ljweb_el": "30",
+        "ljweb_value": "",
+    });
+    var isHaveAgentCard = false
+    var clickLinkBl = 'list';
+    var resblockId = '';
+    if(isHaveAgentCard){
+      clickLinkBl = 'list_have_sem_card';
+      resblockId = ""
+    }
+    $(document.body).on("click", "[data-el='xiaoqu']", function() {
+        var $m = $(this);
+        LjUserTrack.send({
+            "ljweb_id": "10002",
+            "ljweb_mod": "xiaoqu_list_list",
+            "ljweb_bl": clickLinkBl,
+            "ljweb_el": "xiaoqu",
+            "ljweb_index": $m.attr("data-log_index"),
+            "ljweb_url": $m.attr("href"),
+            "ljweb_value":resblockId,
+            "ljweb_is_focus" : $m.attr("data-is_focus") || 0,
+            "ljweb_house_code" : $m.attr('data-housecode')
+        });
+
+    });
+
+    $(document.body).on("mousedown", ".input [data-bl='sug'] [data-log_value]", function() {
+        var $m = $(this);
+        var actionId = $m.closest('[data-bl="sug"]').attr("data-el") === 'history' ? '10004' : '10003';
+        LjUserTrack.send({
+            "ljweb_id": actionId,
+            "ljweb_mod": "xiaoqu_list_search",
+            "ljweb_bl": "search",
+            "ljweb_el": $m.attr("data-log_value"),
+            "ljweb_index": $m.attr("data-log_index"),
+            "ljweb_value": $.trim($("#searchInput").val()),
+            "ljweb_url": $m.attr("href")
+        });
+    });
+    $("#searchForm").on("submit", function() {
+        var $m = $(this);
+        LjUserTrack.send({
+            "ljweb_id": "10008",
+            "ljweb_mod": "xiaoqu_list_search",
+            "ljweb_bl": "search",
+            "ljweb_value": $.trim($("#searchInput").val())
+        });
+    });
+
+}();
+  </script>
+  <script>
+   require(['common/suggestion'], function (suggestion) {window.defaultSuggest = suggestion.init({requestOptions: {cityId: '320100',cityName: '南京'},url: '/api/headerSearch?channel=xiaoqu&q=',main: '#keyword-box',appendTo: '#suggest-cont',redirect: true});});
+  </script>
+  <div class="loninContaner">
+   <div class="overlay_bg">
+   </div>
+   <div class="panel_login animated" id="dialog">
+    <div class="panel_info">
+     <i class="close_login">
+      &amp;times
+     </i>
+     <div class="panel_tab">
+      <div class="title">
+       <div class="fl">
+        账号密码登录
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+      <div id="con_login_user">
+       <form action="" method="post">
+        <ul>
+         <li class="item border-t userName">
+          <input class="the_input topSpecial users" maxlength="11" placeholder="请输入手机号" type="text"/>
+         </li>
+         <li class="item border-b pwd">
+          <input class="the_input password" maxlength="20" placeholder="请输入登录密码" type="password"/>
+          <em class="password-view">
+          </em>
+         </li>
+         <li class="item checkVerimg" style="display:none;">
+          <input class="the_input ver-img" maxlength="6" placeholder="请输入验证码" type="text"/>
+          <img class="verImg"/>
+         </li>
+         <li class="item drag" style="display:none;">
+          <div id="drag">
+          </div>
+         </li>
+         <li class="show-error">
+          <dd>
+           用户名或密码错误
+          </dd>
+         </li>
+         <li class="li_01">
+          <label class="checkbox-btn">
+           <span class="active">
+            <input checked="" class="mind-login" name="remember" type="checkbox" value="1"/>
+           </span>
+           7天内免登录
+          </label>
+          <a class="toforget" href="javascript:;" rel="nofollow">
+           忘记密码
+          </a>
+         </li>
+         <li class="li_btn">
+          <a class="login-user-btn">
+          </a>
+          登录
+         </li>
+         <li class="footer-link">
+          <a class="totellogin" href="javascript:;" rel="nofollow">
+           手机快捷登录
+          </a>
+         </li>
+        </ul>
+       </form>
+      </div>
+      <div class="undis" id="con_login_agent">
+       <form action="" method="post">
+        <ul>
+         <li class="item">
+          <dd>
+          </dd>
+          <input class="the_input users" placeholder="输入经纪人ID号码" type="text"/>
+         </li>
+         <li class="item">
+          <input class="the_input password" placeholder="登录密码" type="password"/>
+         </li>
+         <li class="li_01">
+          <label class="checkbox-btn">
+           <span class="active">
+            <input checked="" class="mind-login" name="remember" type="checkbox" value="1"/>
+           </span>
+           7天内免登录
+          </label>
+          <a href="https://passport.lianjia.com/register/resources/lianjia/forget.html?service=http://bj.lianjia.com/" rel="nofollow">
+           忘记密码
+          </a>
+         </li>
+         <li>
+          <input class="login-agent-btn" value="立即登录"/>
+         </li>
+        </ul>
+       </form>
+      </div>
+     </div>
+    </div>
+    <div class="registered">
+    </div>
+   </div>
+   <div class="panel_login animated" id="dialog_tel">
+    <div class="panel_info">
+     <i class="close_login">
+      &amp;times
+     </i>
+     <div class="panel_tab">
+      <div class="title">
+       <div class="fl">
+        手机快捷登录
+       </div>
+       <div class="register_text_tel">
+        别担心，无账号自动注册不会导致手机号被泄露
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+      <div id="con_login_user_tel">
+       <form action="" method="post">
+        <ul>
+         <li class="item border-t userName">
+          <input class="the_input topSpecial users_tel" maxlength="11" placeholder="请输入手机号" type="text"/>
+         </li>
+         <!-- <li class="item pwd"><input type="password" class="the_input password_tel"  placeholder="请输入短信验证码"/></li> -->
+         <li class="item checkVerimg" style="">
+          <input class="the_input ver-img" maxlength="6" placeholder="请输入验证码" type="text"/>
+          <img class="verImg"/>
+         </li>
+         <li class="item border-b Verify">
+          <input class="the_input verifycode" maxlength="6" placeholder="请输入短信验证码" type="text"/>
+          <a class="send_verify_code" href="javascript:;" id="send_verify_code_tel" rel="nofollow">
+           <em>
+            获取验证码
+           </em>
+          </a>
+         </li>
+         <li class="send_verify_code_s" href="javascript:;" id="send_verify_code_tel_s" rel="nofollow">
+          <em>
+           没有收到验证码？
+          </em>
+          <a class="voice_a">
+           发送语音验证码
+          </a>
+         </li>
+         <li class="show-error">
+          <dd>
+           用户名或密码错误
+          </dd>
+         </li>
+         <li class="li_01">
+          <label class="checkbox-btn">
+           <span class="active">
+            <input checked="" class="mind-login" name="remember" type="checkbox" value="1"/>
+           </span>
+           7天内免登录
+          </label>
+         </li>
+         <li class="li_btn">
+          <a class="login-user-tel-btn">
+          </a>
+          登录
+         </li>
+         <li class="footer-link">
+          <a class="tologin" href="javascript:;" rel="nofollow">
+           账号密码登录
+          </a>
+         </li>
+        </ul>
+       </form>
+      </div>
+     </div>
+    </div>
+    <div class="registered">
+    </div>
+   </div>
+   <div class="panel_login animated" id="dialog_reg">
+    <div class="panel_info">
+     <i class="close_login">
+      &amp;times
+     </i>
+     <div class="panel_tab">
+      <div class="title">
+       <div class="fl">
+        手机号码注册
+       </div>
+       <label class="fr register_text">
+        已有账号？
+        <a class="tologin" href="javascript:;" rel="nofollow">
+         去登录
+        </a>
+       </label>
+      </div>
+      <div class="clear">
+      </div>
+      <div id="con_login_user_reg">
+       <form action="" method="post">
+        <ul>
+         <li class="item border-t userName">
+          <input class="the_input topSpecial users_reg" maxlength="11" placeholder="请输入手机号" type="text"/>
+         </li>
+         <li class="item checkVerimg" style="">
+          <input class="the_input ver-img" maxlength="6" placeholder="请输入验证码" type="text"/>
+          <img class="verImg"/>
+         </li>
+         <li class="item border-c Verify">
+          <input class="the_input verifycode" maxlength="6" placeholder="请输入短信验证码" type="text"/>
+          <a class="send_verify_code" href="javascript:;" id="send_verify_code_reg" rel="nofollow">
+           <em>
+            获取验证码
+           </em>
+          </a>
+         </li>
+         <li class="item border-b pwd">
+          <input class="the_input password_reg" maxlength="20" placeholder="请输入密码（最少8位，数字+字母）" type="password"/>
+          <em class="password-view">
+          </em>
+         </li>
+         <li class="send_verify_code_s" href="javascript:;" id="send_verify_code_reg_s" rel="nofollow">
+          <em>
+           没有收到验证码？
+          </em>
+          <a class="voice_a">
+           发送语音验证码
+          </a>
+         </li>
+         <li class="show-error">
+          <dd>
+           用户名或密码错误
+          </dd>
+         </li>
+         <li class="li_01">
+          <label class="checkbox-btn">
+           <span class="active">
+            <input checked="" class="read-protocol" name="read" type="checkbox" value="1"/>
+           </span>
+           我已阅读并同意
+          </label>
+          <a class="toprotocol" href="//www.lianjia.com/zhuanti/protocol" target="_blank">
+           《链家用户使用协议》
+          </a>
+         </li>
+         <li class="li_btn">
+          <a class="register-user-btn">
+          </a>
+          注册
+         </li>
+        </ul>
+       </form>
+      </div>
+     </div>
+    </div>
+    <div class="registered">
+    </div>
+   </div>
+   <div class="panel_login animated" id="dialog_forget">
+    <div class="panel_info">
+     <i class="close_login">
+      &amp;times
+     </i>
+     <div class="panel_tab">
+      <div class="title">
+       <div class="fl">
+        找回密码
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="con_forget_user_tel" id="con_forget_user_tel">
+       <form action="" method="post">
+        <ul>
+         <li class="item border-t userName">
+          <input class="the_input topSpecial user_forget_phone" maxlength="11" placeholder="请输入手机号" type="text"/>
+         </li>
+         <li class="item checkVerimg" style="">
+          <input class="the_input ver-img" maxlength="6" placeholder="请输入验证码" type="text"/>
+          <img class="verImg"/>
+         </li>
+         <li class="item border-b Verify">
+          <input class="the_input verifycode" maxlength="6" placeholder="请输入短信验证码" type="text"/>
+          <a class="send_verify_code" href="javascript:;" id="send_verify_code_forget" rel="nofollow">
+           <em>
+            获取验证码
+           </em>
+          </a>
+         </li>
+         <li class="item border-t pwd" style="margin-top:-1px;">
+          <input class="the_input password_reg" maxlength="20" placeholder="请输入密码（最少8位，数字+字母）" type="password"/>
+          <em class="password-view">
+          </em>
+         </li>
+         <li class="send_verify_code_s" id="send_verify_code_forget_s">
+          <em>
+           没有收到验证码？
+          </em>
+          <a class="voice_a">
+           发送语音验证码
+          </a>
+         </li>
+         <li class="show-error">
+          <dd>
+           用户名或密码错误
+          </dd>
+         </li>
+         <li class="li_btn">
+          <a class="user-forget">
+          </a>
+          修改密码
+         </li>
+        </ul>
+       </form>
+      </div>
+      <div class="con_forget_user_pw" id="con_forget_user_pw">
+       <form action="" method="post">
+        <ul>
+         <li class="item border-t pwd">
+          <input class="the_input password_reg" maxlength="20" placeholder="请输入密码（最少8位，数字+字母）" type="password"/>
+          <em class="password-view">
+          </em>
+         </li>
+         <li class="show-error">
+          <dd>
+           用户名或密码错误
+          </dd>
+         </li>
+         <li class="li_btn">
+          <a class="modify-user-pswd">
+          </a>
+          修改密码
+         </li>
+        </ul>
+       </form>
+      </div>
+     </div>
+    </div>
+    <div class="registered">
+    </div>
+   </div>
+  </div>
+  <!-- LianjiaIM Style -->
+  <link href="https://s1.ljcdn.com/feroot/pc/asset/lianjiaIM/css/lianjiaim.css?_v=201905161639093" property="stylesheet" rel="stylesheet"/>
+  <script src="//s1.ljcdn.com/web-im-sdk/static/1.1/lianjiaim1.1.min.js?v=20190519">
+  </script>
+  <script>
+   (function() {var imConf = {"ajaxroot":"https:\/\/ajax.api.lianjia.com\/","imAppid":"LIANJIA_WEB_20160624","imAppkey":"6dfdcee27d78b1107fceeca55d80b7bd"};let login = require('common/login');$.listener.on('userInfo', function (data) {if (data.code === 1) {data.ucid = '';}window.LJIM = new LianjiaIM({appid: imConf.imAppid,appkey: imConf.imAppkey,login: login.openLoginDialog,is_ljbb: true,userData: data,downAppUrl: '//www.lianjia.com/client/',appDesc: '立即下载链家APP，随时随地聊~',staticRoot: 'https://s1.ljcdn.com/feroot/?_v=201905161639093'})});})();
+  </script>
+  <script crossorigin="anonymous" src="//s1.ljcdn.com/link-static/resource/plat_framework/fee/js/1.1.10/index.js">
+  </script>
+  <script>
+   var uuid = document.cookie.match(/lianjia_uuid=([^;]+)/) ? document.cookie.match(/lianjia_uuid=([^;]+)/)[1] : '';
+  var ucid = document.cookie.match(/lianjia_token=([^;]+)/) ? document.cookie.match(/lianjia_token=([^;]+)/)[1] : '';
+  var is_test = $.env.getEnv() !== 'online';
+  function _plog (evtId, data, pageId) {
+      var defData = {
+          'plat_form': navigator.platform,
+          'page_url': window.location.href
+      }
+      data = $.extend(defData, data);
+      dt.notify(evtId,         // 错误名, 不能超过200个字符
+          pageId || window['js_ns'],               // 错误页面
+          data
+      );
+  }
+  window.dt && dt.set({
+    pid: 'lianjia-web', // [必填]项目id, 由灯塔项目组统一分配
+    uuid: uuid, // [可选]设备唯一id, 用于计算uv数&设备分布. 一般在cookie中可以取到, 没有uuid可用设备mac/idfa/imei替代. 或者在storage的key中存入随机数字, 模拟设备唯一id.
+    //uuid为必填选项，如果传空或不能保证唯一会导致设备版本等统计无法生效
+    ucid: ucid, // [可选]用户ucid, 用于发生异常时追踪用户信息, 一般在cookie中可以取到, 没有可传空字符串
+
+    is_test: is_test, // 是否为测试数据, 默认为false(测试模式下打点数据仅供浏览, 不会展示在系统中)
+    record: {
+      time_on_page: true,
+      performance: true,
+      js_error: true,
+      js_error_report_config: {
+        ERROR_RUNTIME: true,
+        ERROR_SCRIPT: false,
+        ERROR_STYLE: false,
+        ERROR_IMAGE: false,
+        ERROR_AUDIO: true,
+        ERROR_VIDEO: true,
+        ERROR_CONSOLE: false,
+        ERROR_TRY_CATCH: true,
+        checkErrorNeedReport: function (desc, stack) {
+          if (!/\/\/(s1\.ljcdn\.com\/)/.test(desc) &&
+            !/\/\/(s1\.ljcdn\.com\/)/.test(stack)) {
+            return false;
+          }
+          if (/\/\/s1\.ljcdn\.com\/(link\-static\/resource\/plat_framework|web\-im\-sdk|vrlab)/.test(desc) ||
+            /\/\/s1\.ljcdn\.com\/(link\-static\/resource\/plat_framework|web\-im\-sdk|vrlab)/.test(stack)) {
+            return false;
+          }
+          return true;
+        }
+      }
+    },
+
+    // 业务方的js版本号, 会随着打点数据一起上传, 方便区分数据来源
+    // 可以不填, 默认为1.0.0
+    version: '1.0.0',
+
+    // 对于如同
+    // xxx.com/detail/1.html
+    // xxx.com/detail/2.html
+    // xxx.com/detail/3.html
+    // ...
+    // 这种页面来说, 虽然url不同, 但他们本质上是同一个页面
+    // 因此需要业务方传入一个处理函数, 根据当前url解析出真实的页面类型(例如: 二手房列表/经纪人详情页), 以便灯塔系统对错误来源进行分类
+    // 回调函数说明
+    // 传入参数 => window.location
+    // 返回值 => 对应的的页面类型(50字以内, 建议返回汉字, 方便查看), 默认是返回当前页面的url
+    getPageType: function(location){ return (location.host+location.pathname) }
+  });
+  function _plog(evtId, data, pageId) {
+    var defData = {
+      'plat_form': navigator.platform,
+      'page_url': window.location.href
+    };
+    data = $.extend(defData, data);
+    dt.notify(evtId,
+      pageId || window.location.href,
+      data
+    );
+  }
+  </script>
+  <script type="text/javascript">
+   var advert = 'https://s1.ljcdn.com/feroot/pc/asset/common/advert.js?_v=201905161639093';
+    $.listener.on('userInfo', function (data) {
+      window.loginData = data;
+    });
+    var mvl = document.createElement('script');
+    mvl.type = 'text/javascript';
+    mvl.async = true;
+    mvl.src = advert;
+    mvl.crossOrigin = 'anonymous';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(mvl, s);
+  </script>
+  <script type="text/javascript">
+   (function(){var canonicalURL, curProtocol;var x=document.getElementsByTagName("link");if(x.length > 0){for (i=0;i<x.length;i++){if(x[i].rel.toLowerCase() == 'canonical' && x[i].href){canonicalURL=x[i].href;}}}if (!canonicalURL){curProtocol = window.location.protocol.split(':')[0];}else{curProtocol = canonicalURL.split(':')[0];}if (!canonicalURL) canonicalURL = window.location.href;(function() {var e = /([http|https]:\/\/[a-zA-Z0-9\_\.]+\.baidu\.com)/gi,r = canonicalURL,t = document.referrer;if (!e.test(r)) {var n = (String(curProtocol).toLowerCase() === 'https') ? "https://sp0.baidu.com/9_Q4simg2RQJ8t7jm9iCKT-xh_/s.gif" : "//api.share.baidu.com/s.gif";t ? (n += "?r=" + encodeURIComponent(document.referrer), r && (n += "&l=" + r)) : r && (n += "?l=" + r);var i = new Image;i.src = n}})(window);})();
+  </script>
+ </body>
+</html>

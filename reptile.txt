@@ -1,0 +1,136 @@
+import urllib.request
+from bs4 import BeautifulSoup
+import os
+import re
+import json
+import codecs
+
+json_dic = {"item": "a","page": "a","turn": "0","unit":"a","position": "a","interest_num": "a","price_m2": "a","url_unit": "a",
+            "broker": "a","job": "a","tel": "a","group": "a","href_broker": "a"}
+json_arr=[]
+
+j_file=open('json_data.txt','w',encoding='utf-8')
+
+item=1
+page=1
+while page < 12:
+    
+    url_page = "https://nj.lianjia.com/xiaoqu/pukou/pg"+str(page)+"cro21/"  
+    page_open=urllib.request.urlopen(url_page)
+    page_read=page_open.read()
+    page_bs=BeautifulSoup(page_read)
+    page_bsdata = page_bs.decode("utf-8")
+    
+    '''
+    page_file = open('web'+str(page)+'.txt','w+',encoding='utf-8')
+    page_file.write(page_bsdata)
+    page_file.close()
+    '''
+
+    infos = page_bs.select(".info")
+    
+
+
+    turn = 1    
+    for info in infos:
+        titles = info.select(".title")     
+        for title in titles:                                    
+            value_as = title.select("a")  
+            for value_a in value_as:
+                url = value_a.get("href")
+                
+                
+                resp=urllib.request.urlopen(url)
+                html=resp.read()
+                bs=BeautifulSoup(html) 
+                bsdata = bs.decode("utf-8")                                                 #不要删除从此开始
+                '''
+                file_house_code = open('item_code'+str(item)+'.txt','w+',encoding='utf-8')
+                file_house_code.write(bsdata)
+                file_house_code.close()                                                     #不要删除到此结束
+                '''
+
+                try:
+                
+                    item_exclude = [44,343,13,34,54,66,71,124,189,190,271,286,288,298,312]
+                    if item in item_exclude:          # 44\343   \13\34\54\66\71\124\154\219\220\301\316\318\328\342                       
+                        pass
+                    else:
+                        #print(str(item))
+                        #print(url)
+                        #print(str(page))
+                        #print(str(turn))
+                        name = bs.select("h1")
+                        #print(name[0].string)
+                    
+                        json_dic["item"] = str(item)                                     #json格式
+                        json_dic["url_unit"] = str(url)
+                        json_dic["page"] = str(page)
+                        json_dic["turn"] = str(turn)
+                        json_dic["unit"] = name[0].string
+                    
+                        descs = bs.select(".detailDesc")
+                        for desc in descs:
+                            #print(desc.string)
+                            json_dic["position"] = desc.string
+                        
+                        follownumber = bs.select('span[data-role="followNumber"]')
+                        #print(follownumber[0].string+'位用户关注')
+
+                        json_dic["interest_num"] = follownumber[0].string
+                    
+                        #此处应该有爬取的图片
+
+                        unitprice = bs.select(".xiaoquUnitPrice")
+                        unitpricedesc = bs.select(".xiaoquUnitPriceDesc")
+                        #print(unitprice[0].string+'元/m2'+' '+unitpricedesc[0].string)
+                    
+                        json_dic["price_unit"] =unitprice[0].string
+                    
+                        #此处应为附近门店信息开始
+ 
+                    
+                    
+                        agent = bs.select('a[class="agentName LOGCLICK LOGCLICKDATA"]')
+                        agent_href= agent[0].get("href")
+                        #print(agent_href)
+                        agent = urllib.request.urlopen(agent_href,timeout=10)
+                        ag_html=agent.read()
+                        ag=BeautifulSoup(ag_html) 
+                    
+            
+                        ag_name = ag.select(".agent-name")
+                        ag_pub = ag.select(".pub-tag")
+                        ag_tel = ag.select(".agent-tel")
+                        ag_map = ag.select(".map-text")
+
+                        #print(ag_name[0].string)
+                        #print(ag_pub[0].string)
+                        #print(ag_tel[0].string)
+                        #print(ag_map[0].string)
+                    
+                        json_dic["href_broker"] = agent_href
+                        json_dic["broker"] = ag_name[0].string
+                        json_dic["job"] = ag_pub[0].string
+                        json_dic["tel"] = ag_tel[0].string
+                        json_dic["group"] = ag_map[0].string
+                    
+                    
+                        j_string = json.dumps(json_dic)
+                        #json_arr.append(j_string)
+                        #print(j_string)
+                    
+                        print(item)
+                        j_file.write(j_string)
+                        j_file.write('\n')
+                except IOError:
+                    print("Error: 没有找到网页或写入文件失败")
+                else:    
+                    pass
+                    
+                turn += 1                                                        #不要删除
+                item += 1
+    page += 1
+
+print('end')
+j_file.close()

@@ -1,0 +1,2833 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="no-transform" http-equiv="Cache-Control"/>
+  <meta content="no-siteapp" http-equiv="Cache-Control"/>
+  <meta content="zh-CN" http-equiv="Content-language"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="pc" name="applicable-device"/>
+  <link href="https://m.lianjia.com/nj/xiaoqu/1420021456162821/" media="only screen and (max-width: 640px)" rel="alternate"/>
+  <meta content="format=html5;url=https://m.lianjia.com/nj/xiaoqu/1420021456162821/" name="mobile-agent"/>
+  <script>
+   ljConf = {
+    city_id: '320100',
+    city_abbr: 'nj',
+    city_name: '南京',
+    channel: 'xiaoqu',
+    page: 'xiaoqu_detail',
+    pageConfig: {"ajaxroot":"https:\/\/ajax.api.lianjia.com\/","imAppid":"LIANJIA_WEB_20160624","imAppkey":"6dfdcee27d78b1107fceeca55d80b7bd"},
+    feroot: '//s1.ljcdn.com/feroot/',
+    ucid:'',
+    cdn:'0',
+};
+  </script>
+  <!-- 2017.11.8 市场需求加上新的统计 -->
+  <script async="" defer="" src="//s.union.360.cn/200116.js" type="text/javascript">
+  </script>
+  <!-- 2017.7.18 开放全国 -->
+  <script>
+   var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?9152f8221cb6243a53c83b956842be8a";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+  </script>
+  <script src="https://s1.ljcdn.com/feroot/pc/asset/common/tingyun-rum.js?_v=201905161639093">
+  </script>
+  <title>
+   天润城第三街区|天润城第三街区二手房,房价
+  </title>
+  <meta content="南京天润城第三街区位于桥北商圈,本月参考均价20844元,在售房源51套,已有60人关注本小区,天润城第三街区建筑年代:2006年建成年,物业公司：南京江鸿物业发展有限责任公司." name="description"/>
+  <meta content="天润城第三街区,天润城第三街区二手房,天润城第三街区房价,天润城第三街区租房" name="keywords"/>
+  <link href="/favicon.ico" rel="icon" type="image/x-icon"/>
+  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+  <link href="https://s1.ljcdn.com/feroot/pc/asset/common.css?_v=201905161639093" rel="stylesheet"/>
+  <link href="https://s1.ljcdn.com/feroot/pc/asset/ershoufang/xiaoquDetail/index.css?_v=201905161639093" rel="stylesheet"/>
+  <link href="https://s1.ljcdn.com/feroot/dep/ueditor/themes/iframe.css?_v=201905161639093" rel="stylesheet"/>
+  <!--[if lt IE 9]><script type="text/javascript" src="https://s1.ljcdn.com/feroot/dep/common-require/html5.js?_v=201905161639093"></script><![endif]-->
+  <script>
+   function RESIZEIMG(b,k,l,m){var c=b.parentNode;var d=parseInt(c.offsetWidth)||k;var e=parseInt(c.offsetHeight)||l;var f=d/e;var g=b.naturalWidth||b.width;var h=b.naturalHeight||b.height;var i=g/h;var j="width";if(f<i){j="height";try{b.style["left"]="-"+parseInt(Math.abs((d-(g*e/h))/2))+"px"}catch(e){}}else if(m){try{b.style["top"]="-"+parseInt(Math.abs((e-(h*d/g))/2))+"px"}catch(e){}};b.style[j]="100%";};
+  </script>
+  <script>
+   var _czc = _czc || [];
+_czc.push(["_setAccount", "1254525948"]);
+  </script>
+  <script type="text/javascript">
+   var _smq = _smq || [];
+_smq.push(['_setAccount', '41331c2', new Date()]);
+_smq.push(['_setDomainName', 'lianjia.com']);
+_smq.push(['pageview']);
+(function() {
+var sm = document.createElement('script'); sm.type = 'text/javascript'; sm.async = true;
+sm.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdnmaster.com/sitemaster/collect.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sm, s);
+})();
+  </script>
+  <script src="https://dlswbr.baidu.com/heicha/mw/abclite-2011-s2.js" type="application/javascript">
+  </script>
+ </head>
+ <body>
+  <script>
+   __STAT_LJ_CONF = {
+    params: {
+        ljweb_group: ['SEARCH','BIGDATA_PC'],
+        ljweb_id: '',
+        ljweb_mod: '',
+        ljweb_bl: '',
+        ljweb_el: '',
+        ljweb_sl: '',
+        ljweb_index: '',
+        ljweb_value: '',
+        ljweb_url: '',
+        ljweb_ljref: (document.cookie.match(/(?:^| )ljref=([^;]*)(?:;|$)/) || ['',''])[1],
+        ljweb_sample: (document.cookie.match(/(?:^| )sample_traffic_test=([^;]*)(?:;|$)/) || ['',''])[1],
+        ljweb_ref: document.referrer,
+        ljweb_cid: '320100',
+        ljweb_channel: 'xiaoqu',
+        ljweb_page: 'xiaoqu_detail',
+        ljweb_source: '',
+        ljweb_stat_id: ''
+    }
+};
+
+
+
+var UT = {
+    send: function() {
+
+    }
+};
+var LjUserTrack = {
+    log: [],
+    initInterval: false,
+    intervalLog: function() {
+        setTimeout(function() {
+            if(window.$ULOG && $ULOG.send) {
+                for(var i = 0, l = LjUserTrack.log.length; i < l; i++) {
+                    LjUserTrack.__send(LjUserTrack.log[i]);
+                }
+
+                for(var m = 0, n = LjUserTrack.logIds.length; m < n; m++) {
+                    LjUserTrack.__sendId(LjUserTrack.logIds[m]);
+                }
+                for(var j = 0, k = LjUserTrack.logDatas.length; j < k; j++) {
+                    LjUserTrack.__sendData(LjUserTrack.logDatas[j].id, LjUserTrack.logDatas[j].data);
+                }
+            } else {
+                LjUserTrack.intervalLog();
+            }
+        }, 16.7);
+    },
+    _start_time: +new Date,
+    logDatas: [],
+    __sendData: function(id, data) {
+        if(id && (typeof(data) == 'object')){
+          data.pid = (window.__UDL_CONFIG && window.__UDL_CONFIG.pid && window.__UDL_CONFIG.pid)||"lianjiaweb";
+          data.key = window.location.href;
+          window.$ULOG && $ULOG.send(id, data);
+        }
+    },
+    sendData: function(id, data) {
+        if(window.$ULOG && $ULOG.send) {
+            LjUserTrack.__sendData(id, data);
+        } else {
+            LjUserTrack.logDatas.push({id: id, data: data});
+
+            LjUserTrack.initInterval || (LjUserTrack.initInterval = true, LjUserTrack.intervalLog());
+
+        }
+    },
+    __send: function(data) {
+        var evt_id = data.evt_id || '10043';
+        if('evt_id' in data) {
+            delete data.evt_id;
+        }
+
+        window.$ULOG && $ULOG.send(evt_id, {
+            "pid": (window.__UDL_CONFIG && window.__UDL_CONFIG.pid && window.__UDL_CONFIG.pid)||"lianjiaweb",
+            "key": window.location.href,
+            "action": $.extend(__ocpc ? {'ad_loginurl': __ocpc.getValue()} : {}, data)
+        });
+    },
+    logIds: [],
+    __sendId: function(id) {
+        id && window.$ULOG && window.$ULOG && $ULOG.send(id, {
+            "pid": (window.__UDL_CONFIG && window.__UDL_CONFIG.pid && window.__UDL_CONFIG.pid)||"lianjiaweb",
+            "key": window.location.href
+        });
+    },
+    sendId: function(id) {
+        if(window.$ULOG && $ULOG.send) {
+            LjUserTrack.__sendId(id);
+        } else {
+            LjUserTrack.logIds.push(id);
+
+            LjUserTrack.initInterval || (LjUserTrack.initInterval = true, LjUserTrack.intervalLog());
+
+        }
+    },
+    send: function(data, el, config) {
+
+        var utConf = __STAT_LJ_CONF;
+        var params = config || utConf.params,
+            win = window,
+            j;
+
+        data.groupIndex = data.ljweb_group || 0;
+
+        if (params) {
+            for (var d in params) {
+                if(params[d] !== j && data[d] === j) {
+                    data[d] = params[d];
+                }
+            }
+        }
+
+        if(el) {
+            this.checkClick(el, data);
+        }
+
+        data.ljweb_group = params['ljweb_group'][data.groupIndex || 0];
+
+        delete data.groupIndex;
+
+        if(data.typ) {
+            data.ljweb_bl = (data.ljweb_bl || '') + '_' + data.typ;
+            delete data.typ;
+        }
+
+        if(window.$ULOG && $ULOG.send) {
+            LjUserTrack.__send(data);
+        } else {
+            LjUserTrack.log.push(data);
+
+            LjUserTrack.initInterval || (LjUserTrack.initInterval = true, LjUserTrack.intervalLog());
+
+        }
+
+    },
+    checkClick: function(el, data) {
+
+        var TAG_LINK = 'A';
+        var href = '';
+        var elParent = null;
+
+        href = (el.tagName.toUpperCase() === TAG_LINK ? el.getAttribute("href", 2) : '');
+        if(!href && (elParent = el.parentNode) && elParent.nodeType === 1) {
+            href = (elParent.tagName.toUpperCase() === TAG_LINK ? elParent.getAttribute("href", 2) : '');
+        }
+
+        if(href) {
+            data.ljweb_url = href;
+        } else {
+            data.ljweb_url = data.ljweb_url
+                  || el.getAttribute("data-log_url")
+                  || (elParent=el.parentNode||el).getAttribute("data-log_url")
+                  || (
+                        (elParent=elParent.parentNode||elParent)
+                     && (elParent.nodeType === 1)
+                     && elParent.getAttribute("data-log_url")
+                     )
+                  || "";
+        }
+
+        this.attr(el, data);
+
+    },
+    path: function() {
+
+    },
+    attr: function(el, data) {
+        var modId     = el.getAttribute("log-mod");
+        var blAttr    = el.getAttribute("data-bl");
+        var elAttr    = el.getAttribute("data-el");
+        var slAttr    = el.getAttribute("data-sl");
+        var InAttr    = el.getAttribute("data-log_index");
+        var valAttr   = el.getAttribute("data-log_value");
+        var idAttr    = el.getAttribute("data-log_id");
+        var groupAttr = el.getAttribute("data-log_group");
+        var sourceAttr = el.getAttribute("data-log_source");
+        var statIdAttr = el.getAttribute("data-log_statId");
+        var evtId     = el.getAttribute("data-log_evtid");
+
+        data.ljweb_bl    = data.ljweb_bl || blAttr || '';
+        data.ljweb_el    = data.ljweb_el || elAttr || '';
+        data.ljweb_sl    = data.ljweb_sl || slAttr || '';
+        data.ljweb_index = data.ljweb_index || InAttr || '';
+        data.ljweb_value = data.ljweb_value || valAttr || '';
+        data.ljweb_id    = data.ljweb_id || idAttr || '';
+        data.ljweb_source    = data.ljweb_source || sourceAttr || '';
+        data.ljweb_stat_id    = data.ljweb_stat_id || statIdAttr || 0;
+        data.groupIndex  = data.groupIndex || groupAttr || 0;
+        data.evt_id      = data.evt_id || evtId || '';
+
+        if (!modId) {
+            if (el.parentNode && el.parentNode.nodeType === 1 && el.parentNode.tagName.toUpperCase() !== 'BODY') {
+                this.attr(el.parentNode, data);
+            }
+        } else {
+            data.ljweb_mod = modId;
+        }
+    }
+};
+
+;;(function() {
+    var isW3c = !!document.addEventListener;
+
+    LjUserTrack.send({
+        ljweb_mod: 'pv',
+        ljweb_group: 1
+    });
+
+    /*window[isW3c ? 'addEventListener' : 'attachEvent'](
+        (isW3c ? '': 'on') + 'beforeunload',
+        function(e) {
+            var _end_time = +new Date;
+            UT.send({type: 'show', subtype: 'stay', time: (_end_time-UT._start_time)/1000});
+        },
+        false);*/
+})();
+  </script>
+  <div class="banner">
+   <div class="container">
+    <ul class="channelList">
+     <li>
+      <a href="//www.lianjia.com/">
+       首页
+      </a>
+     </li>
+     <li class="">
+      <a href="https://nj.lianjia.com/ershoufang/">
+       二手房
+      </a>
+     </li>
+     <li class="">
+      <a href="https://nj.fang.lianjia.com/">
+       新房
+      </a>
+     </li>
+     <li class="">
+      <a href="https://nj.lianjia.com/zufang/">
+       租房
+      </a>
+     </li>
+     <li class="">
+      <a href="https://us.lianjia.com">
+       海外
+      </a>
+     </li>
+     <li class="selected">
+      <a href="https://nj.lianjia.com/xiaoqu/">
+       小区
+      </a>
+     </li>
+     <li class="">
+      <a href="https://nj.lianjia.com/jingjiren/">
+       经纪人
+      </a>
+     </li>
+     <li class="">
+      <a href="https://nj.lianjia.com/wenda/">
+       指南
+      </a>
+      <div class="childList">
+       <a href="https://nj.lianjia.com/wenda/">
+        问答
+       </a>
+       <a href="https://news.lianjia.com/nj/baike/">
+        百科
+       </a>
+      </div>
+     </li>
+     <li class="">
+      <a href="https://nj.lianjia.com/fangjia/">
+       房价
+      </a>
+     </li>
+     <li class="">
+      <a href="https://nj.lianjia.com/tool.html" target="_blank">
+       工具
+      </a>
+     </li>
+     <li class="">
+      <a href="https://nj.lianjia.com/yezhu/" target="_blank">
+       发布房源
+      </a>
+     </li>
+    </ul>
+    <div class="banner-right">
+     <div class="login" id="userInfoContainer">
+      <i>
+      </i>
+      <a href="https://upassport.lianjia.com/login?service=https%3A%2F%2Fwww.lianjia.com%2Fuser%2Fchecklogin%3Fredirect%3Dhttps%253A%252F%252Fnj.lianjia.com%252Fxiaoqu%252F1420021456162821%252F" id="loginBtn" rel="nofollow">
+       登录
+      </a>
+      /
+      <a href="https://passport.lianjia.com/register/resources/lianjia/register.html?service=https%3A%2F%2Fwww.lianjia.com%2Fuser%2Fchecklogin%3Fredirect%3Dhttps%253A%252F%252Fnj.lianjia.com%252Fxiaoqu%252F1420021456162821%252F" id="registerBtn" rel="nofollow">
+       注册
+      </a>
+     </div>
+     <div class="phone">
+      <i>
+      </i>
+      <span>
+       热线电话1010-9666
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script id="userInfoTpl" type="text/template">
+   <i></i>
+  <%if(isAgent){%>
+    <a id="userNameContainer" href="<%=$.env.fixedUrl('//agent.lianjia.com/')%>"><%=username%></a>
+  <%}else{%>
+    <a id="userNameContainer" href="<%=$.env.fixedUrl('//user.lianjia.com/')%>" rel="nofollow"><%=username%></a>
+  <%}%>
+  <span id="tipContainer"></span>
+  &nbsp;&nbsp;<a href="<%=logoutUrl%>">退出</a>
+  <span id="pushNewsListContainer"></span>
+  </script>
+  <script id="pushNewsListTpl" type="text/template">
+   <div class="pushNewsList">
+    <%for(var i in group_by_type){%>
+      <%if(group_by_type[i].unread !== 0 && pushMsgMap.hasOwnProperty(i)){%>
+        <a href="<%=pushMsgMap[i].url%>"><%=$.replaceTpl(pushMsgMap[i].text, {unread:group_by_type[i].unread})%></a>
+      <%}%>
+    <%}%>
+  </div>
+  </script>
+  <div class="header">
+   <div class="menu clear">
+    <div class="menuLeft">
+     <a class="logo" href="/ershoufang/">
+     </a>
+     <!-- <span class="channelName">二手房</span> -->
+     <ul class="typeList">
+      <li>
+       <a href="/ershoufang/">
+        在售
+       </a>
+      </li>
+      <li>
+       <a href="/chengjiao/">
+        成交
+       </a>
+      </li>
+      <li class="selected">
+       <a href="/xiaoqu/">
+        小区
+       </a>
+      </li>
+      <li>
+       <a href="/fangjia/">
+        房价
+       </a>
+      </li>
+      <li>
+       <a href="/ditu/">
+        地图找房
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="search">
+     <div class="input" log-mod="search">
+      <form action="/ershoufang/rs" id="searchForm">
+       <span class="downArrow" data-bl="switch">
+        <span class="state">
+         在售
+        </span>
+        <i>
+        </i>
+       </span>
+       <span class="sstate" data-bl="switch">
+        <span data-state="1">
+         在售
+        </span>
+        <span data-state="2">
+         成交
+        </span>
+        <span data-state="3">
+         小区
+        </span>
+       </span>
+       <input autocomplete="off" id="searchInput" placeholder="请输入关键字搜索" type="text"/>
+       <button class="searchButton" data-bl="search" data-el="search" type="submit">
+        <i>
+        </i>
+       </button>
+      </form>
+      <div class="searchMsg" id="searchMsgContainer">
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script id="searchSuggestionTpl" type="text/template">
+   <div class="searchMsgTitle">
+    <span class="searchMsgName">你可能在找</span>
+  </div>
+  <ul data-bl="sug" data-el="sug">
+  <%for(var i = 0;i < list.length;i++){%>
+    <li>
+      <a href="<%=list[i].url%>" role="addHistory" data-log_index="<%=i+1%>" data-log_value="<%=list[i].title%>">
+        <span class="msgListTitle">
+          <%=list[i].title%>
+          <%if(list[i].region){%>
+            <span class="msgListArea"><%=list[i].region%></span>
+          <%}%>
+        </span>
+        <%if(type === 'sell'){%>
+          <span class="msgListAdd">约<%=list[i].count%>套在售</span>
+        <%}else if(type === 'deal'){%>
+          <span class="msgListAdd">约<%=list[i].count%>套成交</span>
+        <%}%>
+      </a>
+    </li>
+  <%}%>
+  </ul>
+  </script>
+  <div class="download_layer">
+   <div class="download_layer_ewmframe">
+    <span class="close black">
+     &amp;times
+    </span>
+    <img src="//ajax.api.lianjia.com/qr/getDownloadQr?location=list&amp;ljweb_channel_key=xiaoquchengjiao"/>
+    <p class="gray">
+     查看最新成交价格
+    </p>
+    <p class="gray">
+     下载链家APP
+    </p>
+   </div>
+  </div>
+  <div class="xiaoquDetailHeader">
+   <div class="xiaoquDetailHeaderContent clear">
+    <div class="detailHeader fl">
+     <h1 class="detailTitle">
+      天润城第三街区
+     </h1>
+     <div class="detailDesc">
+      (浦口桥北)南浦路311号
+     </div>
+    </div>
+    <div class="DetailFollow fr">
+     <button class="followBtn" data-role="followBtn">
+      关注小区
+     </button>
+     <div class="detailFollowedNum">
+      <span data-role="followNumber">
+       60
+      </span>
+      位用户已关注
+     </div>
+     <span class="layer-qrcode followLayer" style="display: none;">
+      <span class="icon-qrcode">
+       <img alt="下载链家app" height="100" src="//ajax.api.lianjia.com/qr/getDownloadQr?location=follow_app&amp;jweb_channel_key=xiaoqu_detail" width="100"/>
+      </span>
+      <span class="txt">
+       下载链家APP
+      </span>
+      <span class="sub-txt">
+       房源动态早知道
+      </span>
+      <span class="icon-close">
+      </span>
+     </span>
+    </div>
+   </div>
+  </div>
+  <div class="xiaoquDetailbreadCrumbs" mod-id="lj-common-bread">
+   <div class="fl l-txt">
+    <a href="/">
+     链家网南京站
+    </a>
+    <span class="stp">
+     &gt;
+    </span>
+    <a href="/xiaoqu/">
+     南京小区
+    </a>
+    <span class="stp">
+     &gt;
+    </span>
+    <a href="https://nj.lianjia.com/xiaoqu/pukou/">
+     浦口小区
+    </a>
+    <span class="stp">
+     &gt;
+    </span>
+    <a href="https://nj.lianjia.com/xiaoqu/qiaobei/">
+     桥北小区
+    </a>
+    <span class="stp">
+     &gt;
+    </span>
+    <a href="/xiaoqu/1420021456162821/">
+     天润城第三街区
+    </a>
+   </div>
+   <div class="fr">
+    <span class="shareIcon">
+    </span>
+    分享此小区
+    <div class="shareInfomation">
+     <img alt="" src="/verifycode/getresblockqr?rid=1420021456162821"/>
+     <div class="desc1">
+      使用微信扫一扫
+     </div>
+     <div class="desc2">
+      查看小区信息分享给好友
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="xiaoquOverview">
+   <div class="xiaoquImg fl">
+    <div class="xiaoquBigImg">
+     <img alt="" class="new-default-icon" id="overviewBigImg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+     <div class="imgDesc">
+      查看剩余15张大图
+     </div>
+     <div class="overviewImgLoading">
+      <span>
+      </span>
+     </div>
+    </div>
+    <div class="xiaoquImgThumbnail clear">
+     <div class="imgControllLeft fl" id="overviewImgLeft">
+      &lt;
+     </div>
+     <div class="imgControllRight fr" id="overviewImgRight">
+      &gt;
+     </div>
+     <div class="imgThumbnailList">
+      <ol id="overviewThumbnail">
+       <li data-src="https://image1.ljcdn.com/hdic-resblock/241addee-6164-4c78-8eff-e745a7564c2e.jpg.710x400.jpg">
+        <img alt="天润城第三街区0" src="https://image1.ljcdn.com/hdic-resblock/241addee-6164-4c78-8eff-e745a7564c2e.jpg.118x80.jpg"/>
+       </li>
+       <li data-src="https://image1.ljcdn.com/hdic-resblock/c16f52a0-98cc-4bca-9580-915b255a7cc9.jpg.710x400.jpg">
+        <img alt="天润城第三街区1" src="https://image1.ljcdn.com/hdic-resblock/c16f52a0-98cc-4bca-9580-915b255a7cc9.jpg.118x80.jpg"/>
+       </li>
+       <li data-src="https://image1.ljcdn.com/hdic-resblock/93c665b6-b1cd-4900-a3fc-317e0848c3d0.jpg.710x400.jpg">
+        <img alt="天润城第三街区2" src="https://image1.ljcdn.com/hdic-resblock/93c665b6-b1cd-4900-a3fc-317e0848c3d0.jpg.118x80.jpg"/>
+       </li>
+       <li data-src="https://image1.ljcdn.com/hdic-resblock/0da808fb-45b6-455d-9739-381e3d04b740.jpg.710x400.jpg">
+        <img alt="天润城第三街区3" src="https://image1.ljcdn.com/hdic-resblock/0da808fb-45b6-455d-9739-381e3d04b740.jpg.118x80.jpg"/>
+       </li>
+       <li data-src="https://image1.ljcdn.com/hdic-resblock/aebd072e-cf62-4b55-b748-4c42bbe2bb42.jpg.710x400.jpg">
+        <img alt="天润城第三街区4" src="https://image1.ljcdn.com/hdic-resblock/aebd072e-cf62-4b55-b748-4c42bbe2bb42.jpg.118x80.jpg"/>
+       </li>
+       <li data-src="https://image1.ljcdn.com/hdic-resblock/a2ab3306-29f9-4a4d-a184-262a52dc0d27.jpg.710x400.jpg">
+        <img alt="天润城第三街区5" src="https://image1.ljcdn.com/hdic-resblock/a2ab3306-29f9-4a4d-a184-262a52dc0d27.jpg.118x80.jpg"/>
+       </li>
+       <li data-src="https://image1.ljcdn.com/hdic-resblock/4689aa01-5ff6-4c53-8a7a-c25f76fcb9be.jpg.710x400.jpg">
+        <img alt="天润城第三街区6" src="https://image1.ljcdn.com/hdic-resblock/4689aa01-5ff6-4c53-8a7a-c25f76fcb9be.jpg.118x80.jpg"/>
+       </li>
+       <li data-src="https://image1.ljcdn.com/hdic-resblock/d6ce09f2-24ba-45bb-961a-a9537fcabf17.jpg.710x400.jpg">
+        <img alt="天润城第三街区7" src="https://image1.ljcdn.com/hdic-resblock/d6ce09f2-24ba-45bb-961a-a9537fcabf17.jpg.118x80.jpg"/>
+       </li>
+       <li data-src="https://image1.ljcdn.com/hdic-resblock/b0ca8436-a8e9-4610-979e-e75ad1cff94c.jpg.710x400.jpg">
+        <img alt="天润城第三街区8" src="https://image1.ljcdn.com/hdic-resblock/b0ca8436-a8e9-4610-979e-e75ad1cff94c.jpg.118x80.jpg"/>
+       </li>
+       <li data-src="https://image1.ljcdn.com/hdic-resblock/ab19f1fe-212c-4f0f-bd71-6cff7728217f.jpg.710x400.jpg">
+        <img alt="天润城第三街区9" src="https://image1.ljcdn.com/hdic-resblock/ab19f1fe-212c-4f0f-bd71-6cff7728217f.jpg.118x80.jpg"/>
+       </li>
+       <li data-src="https://image1.ljcdn.com/hdic-resblock/99a1ab03-f039-4ccb-8d01-b65aeb8fa710.jpg.710x400.jpg">
+        <img alt="天润城第三街区10" src="https://image1.ljcdn.com/hdic-resblock/99a1ab03-f039-4ccb-8d01-b65aeb8fa710.jpg.118x80.jpg"/>
+       </li>
+       <li data-src="https://image1.ljcdn.com/hdic-resblock/c28075a8-7b20-49ea-a518-396186128cb9.jpg.710x400.jpg">
+        <img alt="天润城第三街区11" src="https://image1.ljcdn.com/hdic-resblock/c28075a8-7b20-49ea-a518-396186128cb9.jpg.118x80.jpg"/>
+       </li>
+       <li data-src="https://image1.ljcdn.com/hdic-resblock/100a44f0-b933-480d-84f2-d8e75f5ae67f.jpg.710x400.jpg">
+        <img alt="天润城第三街区12" src="https://image1.ljcdn.com/hdic-resblock/100a44f0-b933-480d-84f2-d8e75f5ae67f.jpg.118x80.jpg"/>
+       </li>
+       <li data-src="https://image1.ljcdn.com/hdic-resblock/da60b345-0715-42bf-a523-1876e0bfc7ff.jpg.710x400.jpg">
+        <img alt="天润城第三街区13" src="https://image1.ljcdn.com/hdic-resblock/da60b345-0715-42bf-a523-1876e0bfc7ff.jpg.118x80.jpg"/>
+       </li>
+       <li data-src="https://image1.ljcdn.com/hdic-resblock/4b3ccf16-061a-4ee2-a957-0b4984169e2c.jpg.710x400.jpg">
+        <img alt="天润城第三街区14" src="https://image1.ljcdn.com/hdic-resblock/4b3ccf16-061a-4ee2-a957-0b4984169e2c.jpg.118x80.jpg"/>
+       </li>
+      </ol>
+     </div>
+    </div>
+   </div>
+   <div class="xiaoquDescribe fr">
+    <div class="xiaoquPrice clear">
+     <div class="fl">
+      <span class="xiaoquUnitPrice">
+       20844
+      </span>
+      元/㎡
+      <span class="xiaoquUnitPriceDesc">
+       4月参考均价
+      </span>
+     </div>
+    </div>
+    <div class="xiaoquInfo">
+     <div class="xiaoquInfoItem">
+      <span class="xiaoquInfoLabel">
+       建筑年代
+      </span>
+      <span class="xiaoquInfoContent">
+       2006年建成
+      </span>
+     </div>
+     <div class="xiaoquInfoItem">
+      <span class="xiaoquInfoLabel">
+       建筑类型
+      </span>
+      <span class="xiaoquInfoContent">
+       板楼
+      </span>
+     </div>
+     <div class="xiaoquInfoItem">
+      <span class="xiaoquInfoLabel">
+       物业费用
+      </span>
+      <span class="xiaoquInfoContent">
+       0.8元/平米/月
+      </span>
+     </div>
+     <div class="xiaoquInfoItem">
+      <span class="xiaoquInfoLabel">
+       物业公司
+      </span>
+      <span class="xiaoquInfoContent">
+       南京江鸿物业发展有限责任公司
+      </span>
+     </div>
+     <div class="xiaoquInfoItem">
+      <span class="xiaoquInfoLabel">
+       开发商
+      </span>
+      <span class="xiaoquInfoContent">
+       暂无信息
+      </span>
+     </div>
+     <div class="xiaoquInfoItem">
+      <span class="xiaoquInfoLabel">
+       楼栋总数
+      </span>
+      <span class="xiaoquInfoContent">
+       22栋
+      </span>
+     </div>
+     <div class="xiaoquInfoItem">
+      <span class="xiaoquInfoLabel">
+       房屋总数
+      </span>
+      <span class="xiaoquInfoContent">
+       1726户
+      </span>
+     </div>
+     <div class="xiaoquInfoItem">
+      <span class="xiaoquInfoLabel">
+       附近门店
+      </span>
+      <span class="xiaoquInfoContent">
+       <span class="actshowMap" mendian="118.740642,32.15207" xiaoqu="[118.741999,32.151269]">
+        天润城一街区店B店
+       </span>
+       /浦口区天润城第四街区51幢4单元108室
+      </span>
+     </div>
+    </div>
+    <div class="xiaoquAgent clear LOGVIEWDATA" data-lj_action_agent_ucid="1000000020396360" data-lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000107,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"rid":"1130032888790548480","sid":"1000000020396360_1420021456162821"}' data-lj_action_event="ModuleExpo" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1420021456162821" data-lj_action_source_type="小区详情页小区顾问展位曝光" data-lj_view_evtid="13138" log-mod="xiaoqu_detail_diamond-first">
+     <a class="xiaoquAgentImg fl LOGVIEW LOGCLICK" data-bl="agent" data-el="1000000020396360" data-log_id="20001" href="https://dianpu.lianjia.com/1000000020396360" target="_blank">
+      <img alt="王丽丽" class="LOGCLICKDATA" data-lj_action_agent_ucid="1000000020396360" data-lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000107,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"rid":"1130032888790548480","sid":"1000000020396360_1420021456162821"}' data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1420021456162821" data-lj_action_source_type="小区详情页小区顾问经纪人头像点击" data-lj_evtid="13140" src="https://image1.ljcdn.com/usercenter/images/uc_ehr_avatar/77339ce1-a3e3-492d-9130-26d01c567f80.jpg.81x108.jpg"/>
+     </a>
+     <div class="agentInfo fr">
+      <div class="agentTitle clear">
+       <div class="fl">
+        <a class="agentName LOGCLICK LOGCLICKDATA" data-bl="agent" data-el="1000000020396360" data-lj_action_agent_ucid="1000000020396360" data-lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000107,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"rid":"1130032888790548480","sid":"1000000020396360_1420021456162821"}' data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_source_type="小区详情页小区顾问经纪人名字点击" data-lj_evtid="13141" data-log_id="20001" href="https://dianpu.lianjia.com/1000000020396360" target="_blank">
+         王丽丽
+        </a>
+       </div>
+       <div class="agentScore fl">
+        暂无评价
+       </div>
+      </div>
+      <div class="agentDesc">
+       有任何选房、买房、缴税过户问题，欢迎咨询
+      </div>
+      <div class="phone">
+       4008779101转9146
+      </div>
+      <span class="agent_chat LOGCLICK LOGCLICKDATA im-talk" data-bl="agentim" data-digv='{"v":"V1","s":"NATURAL","adId":100000107,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"rid":"1130032888790548480","sid":"1000000020396360_1420021456162821"}' data-el="1000000020396360" data-lj_action_agent_ucid="1000000020396360" data-lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000107,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"rid":"1130032888790548480","sid":"1000000020396360_1420021456162821"}' data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1420021456162821" data-lj_action_source_type="小区详情页小区顾问IM点击" data-lj_evtid="13142" data-log_id="20001" data-msg-payload="HI，您好。我正在看天润城第三街区小区" data-role="" data-source-extends='{"community_id":"1420021456162821"}' data-source-port="PC:ershou_xiaoqu_sp" data-ucid="1000000020396360">
+       <i>
+       </i>
+       <span>
+        在线咨询
+       </span>
+      </span>
+     </div>
+    </div>
+    <div class="download">
+     <div class="qr-code">
+      <img alt="下载链家app" height="94" src="//ajax.api.lianjia.com/qr/getDownloadQr?location=right&amp;ljweb_channel_key=xiaoqu_detail" width="94"/>
+      <span class="text">
+       扫描下载APP 随时查看新房源
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="fixedContent">
+   <div class="fixedTabs">
+    <div class="fixedTabsContent">
+     <a href="#goodSell">
+      优质二手房
+     </a>
+     <a href="#frameDeal">
+      小区成交记录
+     </a>
+     <a href="#brokerList">
+      优秀经纪人
+     </a>
+     <a href="#around">
+      周边配套
+     </a>
+     <a href="#nearby">
+      附近小区
+     </a>
+    </div>
+   </div>
+  </div>
+  <div class="m-content">
+   <div class="box-l xiaoquMainContent">
+    <div class="goodSell" id="goodSell">
+     <div class="goodSellHeader clear">
+      <h3 class="fl">
+       天润城第三街区优质二手房
+      </h3>
+      <a class="fr" href="https://nj.lianjia.com/ershoufang/c1420021456162821/">
+       查看小区全部在售二手房
+      </a>
+     </div>
+     <ol class="clear">
+      <li class="fl">
+       <a class="goodSellItemPic" href="https://nj.lianjia.com/ershoufang/103104145319.html" target="_blank">
+        <img alt="" class="lj-lazy" data-original="https://image1.ljcdn.com/320100-inspection/prod-74815f42-ea8b-4ef4-aa07-7c15be5f047a.jpg.230x160.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+        <span class="goodSellItemPrice">
+         ¥184万
+        </span>
+       </a>
+       <div class="goodSellItemTitle">
+        <a href="https://nj.lianjia.com/ershoufang/103104145319.html">
+         此房满五年唯一，生活方便，居住舒适，采光充足。
+        </a>
+       </div>
+       <div class="goodSellItemDesc">
+        88.83平/2室2厅
+       </div>
+      </li>
+      <li class="fl">
+       <a class="goodSellItemPic" href="https://nj.lianjia.com/ershoufang/103104653252.html" target="_blank">
+        <img alt="" class="lj-lazy" data-original="https://image1.ljcdn.com/320100-inspection/prod-e324d970-25d8-4ac9-80b1-ec2bdf520e3d.jpg.230x160.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+        <span class="goodSellItemPrice">
+         ¥229万
+        </span>
+       </a>
+       <div class="goodSellItemTitle">
+        <a href="https://nj.lianjia.com/ershoufang/103104653252.html">
+         居家精装修 三开间朝南 采光好 银城物业 诚心出售
+        </a>
+       </div>
+       <div class="goodSellItemDesc">
+        109.62平/3室2厅
+       </div>
+      </li>
+      <li class="fl">
+       <a class="goodSellItemPic" href="https://nj.lianjia.com/ershoufang/103104728445.html" target="_blank">
+        <img alt="" class="lj-lazy" data-original="https://image1.ljcdn.com/320100-inspection/test-d4c26ecb-266b-405b-a9cd-26061ecb1bf4.png.230x160.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+        <span class="goodSellItemPrice">
+         ¥179万
+        </span>
+       </a>
+       <div class="goodSellItemTitle">
+        <a href="https://nj.lianjia.com/ershoufang/103104728445.html">
+         户型方正，楼层好，视野宽阔，采光充足
+        </a>
+       </div>
+       <div class="goodSellItemDesc">
+        80.83平/2室1厅
+       </div>
+      </li>
+     </ol>
+    </div>
+    <div class="frameDeal" id="frameDeal">
+     <h3 class="frameDealHeader">
+      天润城第三街区小区成交记录
+     </h3>
+     <div class="frameDealList">
+      <div class="frameDealListHeader">
+       <div class="frameDealInfo">
+        房屋户型
+       </div>
+       <div class="frameDealArea">
+        面积
+       </div>
+       <div class="frameDealDate">
+        签约日期
+       </div>
+       <div class="frameDealPrice">
+        成交价
+       </div>
+       <div class="frameDealUnitPrice">
+        成交单价
+       </div>
+      </div>
+      <ol class="frameDealListItem">
+       <li>
+        <div class="frameDealInfo">
+         <a class="frameDealImg" href="https://nj.lianjia.com/chengjiao/103104281061.html" target="_blank">
+          <img alt="" class="lj-lazy" data-original="https://image1.ljcdn.com/x-se/hdic-frame/test-a27c089f-3b48-433e-a576-481d4c43e6b3.png.68x50.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+         </a>
+         <div class="frameDealDesc">
+          <a class="frameDealTitle" href="https://nj.lianjia.com/chengjiao/103104281061.html" target="_blank">
+           2室1厅
+          </a>
+          <div class="frameDealFloor">
+           低楼层/11层 南 北
+          </div>
+          <div class="frameDealResblock">
+           2006年建成
+          </div>
+         </div>
+        </div>
+        <div class="frameDealArea">
+         93.22平米
+        </div>
+        <div class="frameDealDate">
+         2019-04-09
+        </div>
+        <div class="frameDealPrice">
+         171.6万
+        </div>
+        <div class="frameDealUnitPrice">
+         18409元/平
+        </div>
+       </li>
+       <li>
+        <div class="frameDealInfo">
+         <a class="frameDealImg" href="https://nj.lianjia.com/chengjiao/103104031588.html" target="_blank">
+          <img alt="" class="lj-lazy" data-original="https://image1.ljcdn.com/x-se/hdic-frame/prod-b0cc6078-8628-43a7-bc10-041928742c76.png.68x50.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+         </a>
+         <div class="frameDealDesc">
+          <a class="frameDealTitle" href="https://nj.lianjia.com/chengjiao/103104031588.html" target="_blank">
+           3室1厅
+          </a>
+          <div class="frameDealFloor">
+           中楼层/11层 南 北
+          </div>
+          <div class="frameDealResblock">
+           2006年建成
+          </div>
+         </div>
+        </div>
+        <div class="frameDealArea">
+         109.27平米
+        </div>
+        <div class="frameDealDate">
+         2019-04-09
+        </div>
+        <div class="frameDealPrice">
+         230万
+        </div>
+        <div class="frameDealUnitPrice">
+         21049元/平
+        </div>
+       </li>
+       <li>
+        <div class="frameDealInfo">
+         <a class="frameDealImg" href="https://nj.lianjia.com/chengjiao/103103945972.html" target="_blank">
+          <img alt="" class="lj-lazy" data-original="" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+         </a>
+         <div class="frameDealDesc">
+          <a class="frameDealTitle" href="https://nj.lianjia.com/chengjiao/103103945972.html" target="_blank">
+           3室1厅
+          </a>
+          <div class="frameDealFloor">
+           低楼层/11层 南 北
+          </div>
+          <div class="frameDealResblock">
+           2006年建成
+          </div>
+         </div>
+        </div>
+        <div class="frameDealArea">
+         104平米
+        </div>
+        <div class="frameDealDate">
+         2019-03-23
+        </div>
+        <div class="frameDealPrice">
+         219.6万
+        </div>
+        <div class="frameDealUnitPrice">
+         21116元/平
+        </div>
+       </li>
+      </ol>
+     </div>
+     <a class="btn-large" href="https://nj.lianjia.com/chengjiao/c1420021456162821/" target="_blank">
+      查看全部成交记录
+     </a>
+    </div>
+    <div class="brokerList LOGVIEWDATA" data-lj_action_agent_ucid="1000000020396360" data-lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000107,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"rid":"1130032888790548480","sid":"1000000020396360_1420021456162821"}' data-lj_action_event="ModuleExpo" data-lj_action_pid="lianjiaweb" data-lj_action_source_type="小区详情页经纪人列表展位曝光" data-lj_view_evtid="13139" id="brokerList" log-mod="xiaoqu_detail_diamond-many">
+     <div class="broheader">
+      <h3 class="title">
+       联系经纪人
+      </h3>
+      <span class="subTitle">
+       您可以通过电话联系经纪人
+      </span>
+     </div>
+     <ul>
+      <li>
+       <a href="https://dianpu.lianjia.com/1000000023101328" target="_blank">
+        <img alt="" class="lj-lazy LOGVIEW LOGCLICK LOGCLICKDATA" data-bl="agent" data-el="1000000023101328" data-lj_action_agent_ucid="1000000023101328" data-lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000108,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000023101328_1420021456162821","rid":"1130032888857268224"}' data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_source_type="小区详情页经纪人列表经纪人头像点击" data-lj_evtid="13143" data-log_id="20001" data-log_index="1" data-original="https://image1.ljcdn.com/usercenter/images/uc_ehr_avatar/eb1ac7fb-21e1-4720-ab98-eeb7da904590.jpg.60x80.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/jingjiren/noimg.jpg?_v=201905161639093"/>
+       </a>
+       <div class="desc">
+        <div class="brotitle">
+         <a class="name LOGCLICK LOGCLICKDATA" data-bl="agent" data-el="1000000023101328" data-lj_action_agent_ucid="1000000023101328" data-lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000108,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000023101328_1420021456162821","rid":"1130032888857268224"}' data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_source_type="小区详情页经纪人列表经纪人名字点击" data-lj_evtid="13144" data-log_id="20001" data-log_index="1" href="https://dianpu.lianjia.com/1000000023101328" target="_blank">
+          郭晓恒
+         </a>
+         <div class="phone">
+          4008781799转3888
+         </div>
+         <!-- <a class="agentIMIcon im-talk LOGCLICK LOGCLICKDATA" title="在线咨询" data-role="" data-ucid="1000000023101328" data-log_id="20001" data-bl="agentim" data-el="1000000023101328" data-log_index="1" data-source-port="PC:ershou_xiaoqu_goodagents" data-source-extends={"community_id":"1420021456162821"} data-msg-payload="HI，您好。我正在看天润城第三街区小区" data-lj_evtid="13145" data-lj_action_pid="lianjiaweb" data-lj_action_event="WebClick" data-lj_action_source_type="小区详情页经纪人列表IM点击" data-lj_action_agent_ucid="1000000023101328" data-lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000108,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000023101328_1420021456162821","rid":"1130032888857268224"}' data-digV='{"v":"V1","s":"NATURAL","adId":100000108,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000023101328_1420021456162821","rid":"1130032888857268224"}'></a> -->
+         <div class="rate">
+          <span>
+           经纪人
+          </span>
+          暂无评价
+         </div>
+         <div class="describes">
+          本小区好评经纪人
+         </div>
+        </div>
+       </div>
+       <span class="agent_chat LOGCLICK LOGCLICKDATA im-talk" data-bl="agentim" data-digv='{"v":"V1","s":"NATURAL","adId":100000108,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000023101328_1420021456162821","rid":"1130032888857268224"}' data-el="1000000023101328" data-lj_action_agent_ucid="1000000023101328" data-lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000108,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000000023101328_1420021456162821","rid":"1130032888857268224"}' data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_source_type="小区详情页经纪人列表IM点击" data-lj_evtid="13145" data-log_id="20001" data-log_index="1" data-msg-payload="HI，您好。我正在看天润城第三街区小区" data-role="" data-source-extends='{"community_id":"1420021456162821"}' data-source-port="PC:ershou_xiaoqu_goodagents" data-ucid="1000000023101328">
+        <i>
+        </i>
+        <span>
+         在线咨询
+        </span>
+       </span>
+      </li>
+      <li>
+       <a href="https://dianpu.lianjia.com/1000001000086645" target="_blank">
+        <img alt="" class="lj-lazy LOGVIEW LOGCLICK LOGCLICKDATA" data-bl="agent" data-el="1000001000086645" data-lj_action_agent_ucid="1000001000086645" data-lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000108,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000001000086645_1420021456162821","rid":"1130032888857268224"}' data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_source_type="小区详情页经纪人列表经纪人头像点击" data-lj_evtid="13143" data-log_id="20001" data-log_index="2" data-original="https://image1.ljcdn.com/usercenter/images/uc_ehr_avatar/bcffde7d-dbd7-4822-a22c-c7a0d64f0006.jpg.60x80.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/jingjiren/noimg.jpg?_v=201905161639093"/>
+       </a>
+       <div class="desc">
+        <div class="brotitle">
+         <a class="name LOGCLICK LOGCLICKDATA" data-bl="agent" data-el="1000001000086645" data-lj_action_agent_ucid="1000001000086645" data-lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000108,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000001000086645_1420021456162821","rid":"1130032888857268224"}' data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_source_type="小区详情页经纪人列表经纪人名字点击" data-lj_evtid="13144" data-log_id="20001" data-log_index="2" href="https://dianpu.lianjia.com/1000001000086645" target="_blank">
+          刘黎明
+         </a>
+         <div class="dy no_f" style="top:5px;">
+          <span class="dy_tag">
+           德佑
+          </span>
+          <i class="xiaowenhao">
+          </i>
+          <b class="dy_desc">
+           德佑地产是链家集团旗下品牌，致力于为消费者提供个性化的房产服务。
+          </b>
+         </div>
+         <div class="phone">
+          4008950185转5752
+         </div>
+         <!-- <a class="agentIMIcon im-talk LOGCLICK LOGCLICKDATA" title="在线咨询" data-role="" data-ucid="1000001000086645" data-log_id="20001" data-bl="agentim" data-el="1000001000086645" data-log_index="2" data-source-port="PC:ershou_xiaoqu_goodagents" data-source-extends={"community_id":"1420021456162821"} data-msg-payload="HI，您好。我正在看天润城第三街区小区" data-lj_evtid="13145" data-lj_action_pid="lianjiaweb" data-lj_action_event="WebClick" data-lj_action_source_type="小区详情页经纪人列表IM点击" data-lj_action_agent_ucid="1000001000086645" data-lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000108,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000001000086645_1420021456162821","rid":"1130032888857268224"}' data-digV='{"v":"V1","s":"NATURAL","adId":100000108,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000001000086645_1420021456162821","rid":"1130032888857268224"}'></a> -->
+         <div class="rate">
+          <span>
+           高级经纪人
+          </span>
+          暂无评价
+         </div>
+         <div class="describes">
+          本小区好评经纪人
+         </div>
+        </div>
+       </div>
+       <span class="agent_chat LOGCLICK LOGCLICKDATA im-talk" data-bl="agentim" data-digv='{"v":"V1","s":"NATURAL","adId":100000108,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000001000086645_1420021456162821","rid":"1130032888857268224"}' data-el="1000001000086645" data-lj_action_agent_ucid="1000001000086645" data-lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000108,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"sid":"1000001000086645_1420021456162821","rid":"1130032888857268224"}' data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_source_type="小区详情页经纪人列表IM点击" data-lj_evtid="13145" data-log_id="20001" data-log_index="2" data-msg-payload="HI，您好。我正在看天润城第三街区小区" data-role="" data-source-extends='{"community_id":"1420021456162821"}' data-source-port="PC:ershou_xiaoqu_goodagents" data-ucid="1000001000086645">
+        <i>
+        </i>
+        <span>
+         在线咨询
+        </span>
+       </span>
+      </li>
+     </ul>
+    </div>
+    <div class="rentList">
+     <div class="rentListHeader clear">
+      <h3 class="rentListTitle fl">
+       天润城第三街区正在出租
+      </h3>
+      <a class="fr" href="https://nj.lianjia.com/zufang/c1420021456162821/">
+       查看小区全部出租房
+      </a>
+     </div>
+     <div class="rentListContent clear">
+      <div class="rentItem fl">
+       <a class="rentItemImg" href="https://nj.lianjia.com/zufang/NJ2243263709755744256.html" target="_blank">
+        <img alt="" class="lj-lazy" data-original="https://image1.ljcdn.com/320100-inspection/prod-1f760a82-7f81-4c61-9d63-6cc62c9689dc.jpg.280x210.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+       </a>
+       <div class="rentItemTitle">
+        <a href="https://nj.lianjia.com/zufang/NJ2243263709755744256.html" target="_blank">
+         2室1厅1卫/81㎡/南
+        </a>
+       </div>
+       <div class="rentItemInfo clear">
+        <div class="rentItemRoom fl">
+         81平/2室1厅1卫
+        </div>
+        <div class="rentItemPrice fr">
+         <span>
+          2200
+         </span>
+         元/月
+        </div>
+       </div>
+      </div>
+      <div class="rentItem fl">
+       <a class="rentItemImg" href="https://nj.lianjia.com/zufang/NJ2238186328292868096.html" target="_blank">
+        <img alt="" class="lj-lazy" data-original="https://image1.ljcdn.com/320100-inspection/5962fbab-b3d5-4647-8fd8-fee66d8a7c71.png.280x210.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+       </a>
+       <div class="rentItemTitle">
+        <a href="https://nj.lianjia.com/zufang/NJ2238186328292868096.html" target="_blank">
+         3室2厅1卫/120㎡/南
+        </a>
+       </div>
+       <div class="rentItemInfo clear">
+        <div class="rentItemRoom fl">
+         120平/3室2厅1卫
+        </div>
+        <div class="rentItemPrice fr">
+         <span>
+          3000
+         </span>
+         元/月
+        </div>
+       </div>
+      </div>
+      <div class="rentItem fl">
+       <a class="rentItemImg" href="https://nj.lianjia.com/zufang/NJ2255050335951257600.html" target="_blank">
+        <img alt="" class="lj-lazy" data-original="https://image1.ljcdn.com/320100-inspection/1f20157a-459e-4496-aeda-4484de9f6b6b.jpg.280x210.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+       </a>
+       <div class="rentItemTitle">
+        <a href="https://nj.lianjia.com/zufang/NJ2255050335951257600.html" target="_blank">
+         3室1厅1卫/108㎡/南
+        </a>
+       </div>
+       <div class="rentItemInfo clear">
+        <div class="rentItemRoom fl">
+         108平/3室1厅1卫
+        </div>
+        <div class="rentItemPrice fr">
+         <span>
+          1600
+         </span>
+         元/月
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="box-r fixedAgent" log-mod="xiaoqu_detail_diamond-first">
+    <div class="fixedAgentMain">
+     <div class="fixedRelationInfo clear">
+      <div class="fl">
+       小区顾问
+      </div>
+      <div class="fr">
+       <a>
+        天润城第三街区
+       </a>
+      </div>
+     </div>
+     <div class="fixedAgentInfo clear U_VIEWDATA" data-lj_action_agent_ucid="1000000020396360" data-lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000107,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"rid":"1130032888790548480","sid":"1000000020396360_1420021456162821"}' data-lj_action_event="ModuleExpo" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1420021456162821" data-lj_action_source_type="小区详情页小区顾问展位曝光" data-lj_view_evtid="13138">
+      <a class="agentImg fl LOGCLICK" data-bl="agent" data-el="1000000020396360" data-log_id="20001" href="https://dianpu.lianjia.com/1000000020396360" target="_blank">
+       <img alt="王丽丽" class="LOGCLICKDATA" data-lj_action_agent_ucid="1000000020396360" data-lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000107,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"rid":"1130032888790548480","sid":"1000000020396360_1420021456162821"}' data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1420021456162821" data-lj_action_source_type="小区详情页小区顾问经纪人头像点击" data-lj_evtid="13140" src="https://image1.ljcdn.com/usercenter/images/uc_ehr_avatar/77339ce1-a3e3-492d-9130-26d01c567f80.jpg.81x108.jpg"/>
+      </a>
+      <div class="fixedAgentMainInfo fr">
+       <div class="fixedAgentTitle clear">
+        <div class="fl">
+         <a class="agentName LOGCLICK LOGCLICKDATA" data-bl="agent" data-el="1000000020396360" data-lj_action_agent_ucid="1000000020396360" data-lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000107,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"rid":"1130032888790548480","sid":"1000000020396360_1420021456162821"}' data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_source_type="小区详情页小区顾问经纪人名字点击" data-lj_evtid="13141" data-log_id="20001" href="https://dianpu.lianjia.com/1000000020396360" target="_blank">
+          王丽丽
+         </a>
+        </div>
+        <div class="agentScore" style="padding-left:8px;overflow:hidden">
+         暂无评价
+        </div>
+       </div>
+       <div class="fixedAgentDesc">
+        有任何选房、买房、缴税过户问题，欢迎咨询
+       </div>
+       <div class="fixedAgentPhone">
+        4008779101转9146
+       </div>
+       <span class="agent_chat LOGCLICK LOGCLICKDATA im-talk" data-bl="agentim" data-digv='{"v":"V1","s":"NATURAL","adId":100000107,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"rid":"1130032888790548480","sid":"1000000020396360_1420021456162821"}' data-el="1000000020396360" data-lj_action_agent_ucid="1000000020396360" data-lj_action_e_plan='{"v":"V1","s":"NATURAL","adId":100000107,"flow":"natural","b":"DisplayTopAgentBuilder","p":null,"rid":"1130032888790548480","sid":"1000000020396360_1420021456162821"}' data-lj_action_event="WebClick" data-lj_action_pid="lianjiaweb" data-lj_action_resblock_id="1420021456162821" data-lj_action_source_type="小区详情页小区顾问IM点击" data-lj_evtid="13142" data-log_id="20001" data-msg-payload="HI，您好。我正在看天润城第三街区小区" data-role="" data-source-extends='{"community_id":"1420021456162821"}' data-source-port="PC:ershou_xiaoqu_sp" data-ucid="1000000020396360">
+        <i>
+        </i>
+        <span>
+         在线咨询
+        </span>
+       </span>
+      </div>
+     </div>
+     <button class="btn-large followFrameBtn" data-role="followBtn">
+      关注小区
+     </button>
+     <div class="followedLine">
+     </div>
+     <div class="followedDesc">
+      <span class="followedDescContent">
+       已有
+       <span data-role="followNumber">
+        60
+       </span>
+       人关注此小区
+      </span>
+     </div>
+    </div>
+   </div>
+   <div class="xiaoquAround">
+    <div class="around" id="around">
+     <h2 class="aroundTitle">
+      天润城第三街区周边配套
+     </h2>
+     <div class="aroundContainer">
+      <div class="aroundMap" id="map">
+      </div>
+      <div class="tabBox">
+       <ul class="aroundType">
+        <li class="LOGCLICK" data-bl="traffic" data-index="subway,bus" data-key="地铁站,公交站" data-length="10,10" data-log_evtid="10242">
+         交通
+        </li>
+        <li class="LOGCLICK" data-bl="education" data-index="kindergarten,primary-school,middle-school,University" data-key="幼儿园,小学,中学,大学" data-length="5,5,5,5" data-log_evtid="10242">
+         教育
+        </li>
+        <li class="LOGCLICK" data-bl="medical" data-index="hospital,pharmacy" data-key="医院,药店" data-length="10,10" data-log_evtid="10242">
+         医疗
+        </li>
+        <li class="LOGCLICK" data-bl="shopping" data-index="mall,supermarket,market" data-key="商场,超市,市场" data-length="7,7,6" data-log_evtid="10242">
+         购物
+        </li>
+        <li class="LOGCLICK" data-bl="life" data-index="bank,atm,restaurant,coffee" data-key="银行,ATM,餐厅,咖啡馆" data-length="5,5,5,5" data-log_evtid="10242">
+         生活
+        </li>
+        <li class="LOGCLICK" data-bl="entertainment" data-index="park,cinema,gym,sport" data-key="公园,电影院,健身房,体育馆" data-length="5,5,5,5" data-log_evtid="10242">
+         娱乐
+        </li>
+       </ul>
+       <div class="itemTagBox">
+       </div>
+       <div class="aroundList" id="mapListContainer">
+       </div>
+       <div class="loading">
+        <img class="loadingImg" src="https://s1.ljcdn.com/feroot/pc/asset/ershoufang/sellDetail/img/loading.gif?_v=201905161639093"/>
+        <span class="loadingText">
+         努力加载中...
+        </span>
+       </div>
+      </div>
+     </div>
+    </div>
+    <script id="mapListTpl" type="text/template">
+     <div class="name"><%=keyword%></div>
+<ul>
+  <%for(var i = 0;i < list.length;i++){%>
+  <li data-index="<%=i%>">
+    <i>&#<%=i+65%>;</i>
+    <div class="item">
+      <div class="itemTitle"><%=list[i].title%></div>
+      <div class="itemInfo"><%=list[i].address%></div>
+    </div>
+  </li>
+  <%}%>
+</ul>
+    </script>
+    <div class="nearby" id="nearby">
+     <div class="nearbyHeader clear">
+      <h3 class="nearByTitle fl">
+       天润城第三街区附近小区
+      </h3>
+      <a class="fr" href="https://nj.lianjia.com/xiaoqu/qiaobei/">
+       查看同商圈小区
+      </a>
+     </div>
+     <div class="nearbyList clear">
+      <div class="nearbyItem fl">
+       <a href="https://nj.lianjia.com/xiaoqu/2511052897865/" target="_blank">
+        <img alt="" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/446f7ae2-30fe-47d5-a267-91572cc49647.JPG.170x125.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+        <div class="bg">
+        </div>
+        <div class="desc">
+         <div class="nearbyItemTitle">
+          弘阳旭日上城三区
+         </div>
+         <div class="nearbyItemType">
+          <span>
+           26277元/㎡
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="nearbyItem fl">
+       <a href="https://nj.lianjia.com/xiaoqu/2511053251006/" target="_blank">
+        <img alt="" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/e8c68238-349c-42fd-bd74-e7872cc0f683.jpg.170x125.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+        <div class="bg">
+        </div>
+        <div class="desc">
+         <div class="nearbyItemTitle">
+          明发滨江新城三期
+         </div>
+         <div class="nearbyItemType">
+          <span>
+           22173元/㎡
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="nearbyItem fl">
+       <a href="https://nj.lianjia.com/xiaoqu/2511053237258/" target="_blank">
+        <img alt="" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/b313d405-4829-404e-994b-68e94222dfeb.JPG.170x125.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+        <div class="bg">
+        </div>
+        <div class="desc">
+         <div class="nearbyItemTitle">
+          江岸水城
+         </div>
+         <div class="nearbyItemType">
+          <span>
+           20366元/㎡
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="nearbyItem fl">
+       <a href="https://nj.lianjia.com/xiaoqu/1411099898926/" target="_blank">
+        <img alt="" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/02717317-15b1-4b84-b648-7a26dc9a4a9f.JPG.170x125.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+        <div class="bg">
+        </div>
+        <div class="desc">
+         <div class="nearbyItemTitle">
+          天润城第十二街区
+         </div>
+         <div class="nearbyItemType">
+          <span>
+           23709元/㎡
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="nearbyItem fl">
+       <a href="https://nj.lianjia.com/xiaoqu/2511053234687/" target="_blank">
+        <img alt="" class="lj-lazy" data-original="https://image1.ljcdn.com/hdic-resblock/85140213-6d27-422f-a4b5-ef9e41a417e1.jpg.170x125.jpg" src="https://s1.ljcdn.com/feroot/pc/asset/img/blank.gif?_v=201905161639093"/>
+        <div class="bg">
+        </div>
+        <div class="desc">
+         <div class="nearbyItemTitle">
+          弘阳旭日上城一区
+         </div>
+         <div class="nearbyItemType">
+          <span>
+           24366元/㎡
+          </span>
+         </div>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="m-yezhu">
+   <div class="wrap">
+    <div class="hd">
+     我有房子要卖
+    </div>
+    <ul>
+     <li class="item-gujia">
+      <div class="marsk">
+      </div>
+      <div class="tit">
+       不知道如何定价
+      </div>
+      <div class="sub-tit">
+       每天超过30000次估价请求量
+      </div>
+      <a class="btn-link" href="/yezhu/gujia/" target="_blank">
+       我要估价 &gt;
+      </a>
+     </li>
+     <li class="item-maifang">
+      <div class="marsk">
+      </div>
+      <div class="tit">
+       把房源委托给链家
+      </div>
+      <div class="sub-tit">
+       10万+专业经纪人·8000+链家门店
+      </div>
+      <a class="btn-link" href="/yezhu/maifang/" target="_blank">
+       发布房源 &gt;
+      </a>
+     </li>
+     <li class="item-xiazai">
+      <div class="marsk">
+      </div>
+      <div class="tit">
+       已有房源在链家销售
+      </div>
+      <div class="sub-tit">
+       去链家APP业主中心管理委托
+      </div>
+      <span class="btn-link btn-app" href="javascript:;">
+       <span>
+        去APP管理委托 &gt;
+       </span>
+       <span class="layer-qrcode">
+        <span class="icon-qrcode">
+        </span>
+        <span class="txt">
+         去链家APP提升卖房速度
+        </span>
+        <span class="sub-txt">
+         APP·移动卖房新体验
+        </span>
+       </span>
+      </span>
+     </li>
+    </ul>
+   </div>
+  </div>
+  <!-- 地图浮层 -->
+  <div id="ditufloat" style="display:none">
+   <div class="floatmap clear">
+    <i class="close">
+    </i>
+    <div class="top clear">
+     <div class="dis fl">
+      <i class="icon1">
+      </i>
+      <span class="first">
+       天润城第三街区
+      </span>
+      <p class="second">
+       浦口桥北
+      </p>
+     </div>
+     <span class="three">
+      <i class="icon2">
+      </i>
+     </span>
+     <div class="shop fl">
+      <i class="icon3">
+      </i>
+      <span class="five">
+       天润城一街区店B店
+      </span>
+      <p class="six">
+       浦口区天润城第四街区51幢4单元108室
+      </p>
+     </div>
+    </div>
+    <div class="mapcon">
+     <div class="map" id="mapInitalize">
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="bigImg">
+   <div class="mask">
+   </div>
+   <div class="list">
+    <img alt="" src=""/>
+    <div class="loading">
+    </div>
+    <div class="pre">
+     <span>
+     </span>
+    </div>
+    <div class="next">
+     <span>
+     </span>
+    </div>
+   </div>
+   <div class="close">
+   </div>
+   <div class="slide">
+    <div class="desc">
+    </div>
+    <ul>
+     <li data-src="https://image1.ljcdn.com/hdic-resblock/241addee-6164-4c78-8eff-e745a7564c2e.jpg.1000x750.jpg">
+      <img alt="" src="https://image1.ljcdn.com/hdic-resblock/241addee-6164-4c78-8eff-e745a7564c2e.jpg.118x80.jpg"/>
+     </li>
+     <li data-src="https://image1.ljcdn.com/hdic-resblock/c16f52a0-98cc-4bca-9580-915b255a7cc9.jpg.1000x750.jpg">
+      <img alt="" src="https://image1.ljcdn.com/hdic-resblock/c16f52a0-98cc-4bca-9580-915b255a7cc9.jpg.118x80.jpg"/>
+     </li>
+     <li data-src="https://image1.ljcdn.com/hdic-resblock/93c665b6-b1cd-4900-a3fc-317e0848c3d0.jpg.1000x750.jpg">
+      <img alt="" src="https://image1.ljcdn.com/hdic-resblock/93c665b6-b1cd-4900-a3fc-317e0848c3d0.jpg.118x80.jpg"/>
+     </li>
+     <li data-src="https://image1.ljcdn.com/hdic-resblock/0da808fb-45b6-455d-9739-381e3d04b740.jpg.1000x750.jpg">
+      <img alt="" src="https://image1.ljcdn.com/hdic-resblock/0da808fb-45b6-455d-9739-381e3d04b740.jpg.118x80.jpg"/>
+     </li>
+     <li data-src="https://image1.ljcdn.com/hdic-resblock/aebd072e-cf62-4b55-b748-4c42bbe2bb42.jpg.1000x750.jpg">
+      <img alt="" src="https://image1.ljcdn.com/hdic-resblock/aebd072e-cf62-4b55-b748-4c42bbe2bb42.jpg.118x80.jpg"/>
+     </li>
+     <li data-src="https://image1.ljcdn.com/hdic-resblock/a2ab3306-29f9-4a4d-a184-262a52dc0d27.jpg.1000x750.jpg">
+      <img alt="" src="https://image1.ljcdn.com/hdic-resblock/a2ab3306-29f9-4a4d-a184-262a52dc0d27.jpg.118x80.jpg"/>
+     </li>
+     <li data-src="https://image1.ljcdn.com/hdic-resblock/4689aa01-5ff6-4c53-8a7a-c25f76fcb9be.jpg.1000x750.jpg">
+      <img alt="" src="https://image1.ljcdn.com/hdic-resblock/4689aa01-5ff6-4c53-8a7a-c25f76fcb9be.jpg.118x80.jpg"/>
+     </li>
+     <li data-src="https://image1.ljcdn.com/hdic-resblock/d6ce09f2-24ba-45bb-961a-a9537fcabf17.jpg.1000x750.jpg">
+      <img alt="" src="https://image1.ljcdn.com/hdic-resblock/d6ce09f2-24ba-45bb-961a-a9537fcabf17.jpg.118x80.jpg"/>
+     </li>
+     <li data-src="https://image1.ljcdn.com/hdic-resblock/b0ca8436-a8e9-4610-979e-e75ad1cff94c.jpg.1000x750.jpg">
+      <img alt="" src="https://image1.ljcdn.com/hdic-resblock/b0ca8436-a8e9-4610-979e-e75ad1cff94c.jpg.118x80.jpg"/>
+     </li>
+     <li data-src="https://image1.ljcdn.com/hdic-resblock/ab19f1fe-212c-4f0f-bd71-6cff7728217f.jpg.1000x750.jpg">
+      <img alt="" src="https://image1.ljcdn.com/hdic-resblock/ab19f1fe-212c-4f0f-bd71-6cff7728217f.jpg.118x80.jpg"/>
+     </li>
+     <li data-src="https://image1.ljcdn.com/hdic-resblock/99a1ab03-f039-4ccb-8d01-b65aeb8fa710.jpg.1000x750.jpg">
+      <img alt="" src="https://image1.ljcdn.com/hdic-resblock/99a1ab03-f039-4ccb-8d01-b65aeb8fa710.jpg.118x80.jpg"/>
+     </li>
+     <li data-src="https://image1.ljcdn.com/hdic-resblock/c28075a8-7b20-49ea-a518-396186128cb9.jpg.1000x750.jpg">
+      <img alt="" src="https://image1.ljcdn.com/hdic-resblock/c28075a8-7b20-49ea-a518-396186128cb9.jpg.118x80.jpg"/>
+     </li>
+     <li data-src="https://image1.ljcdn.com/hdic-resblock/100a44f0-b933-480d-84f2-d8e75f5ae67f.jpg.1000x750.jpg">
+      <img alt="" src="https://image1.ljcdn.com/hdic-resblock/100a44f0-b933-480d-84f2-d8e75f5ae67f.jpg.118x80.jpg"/>
+     </li>
+     <li data-src="https://image1.ljcdn.com/hdic-resblock/da60b345-0715-42bf-a523-1876e0bfc7ff.jpg.1000x750.jpg">
+      <img alt="" src="https://image1.ljcdn.com/hdic-resblock/da60b345-0715-42bf-a523-1876e0bfc7ff.jpg.118x80.jpg"/>
+     </li>
+     <li data-src="https://image1.ljcdn.com/hdic-resblock/4b3ccf16-061a-4ee2-a957-0b4984169e2c.jpg.1000x750.jpg">
+      <img alt="" src="https://image1.ljcdn.com/hdic-resblock/4b3ccf16-061a-4ee2-a957-0b4984169e2c.jpg.118x80.jpg"/>
+     </li>
+    </ul>
+   </div>
+  </div>
+  <div class="footer">
+   <div class="wrapper">
+    <div class="f-title">
+     <div class="fl">
+      <ul>
+       <li>
+        <a href="https://nj.lianjia.com/about/aboutlianjia/" rel="nofollow" target="_blank">
+         关于链家
+        </a>
+       </li>
+       <li>
+        <a href="https://nj.lianjia.com/about/contactus/" rel="nofollow" target="_blank">
+         联系我们
+        </a>
+       </li>
+       <li>
+        <a href="http://join.lianjia.com/" rel="nofollow" target="_blank">
+         加入我们
+        </a>
+       </li>
+       <li>
+        <a href="https://www.lianjia.com/privacy/" rel="nofollow" target="_blank">
+         隐私声明
+        </a>
+       </li>
+       <li>
+        <a href="https://nj.lianjia.com/sitemap/" target="_blank">
+         网站地图
+        </a>
+       </li>
+       <li>
+        <a href="https://page.lianjia.com/subject/youlian.html" rel="nofollow" target="_blank">
+         友情链接
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="fr">
+      官方客服 1010 9666
+     </div>
+    </div>
+    <div class="lianjia-link-box">
+     <div class="fl">
+      <div class="tab">
+       <span class="hover">
+        商圈小区
+       </span>
+       <span>
+        小区
+       </span>
+       <span>
+        城市小区
+       </span>
+       <span>
+        热门小区
+       </span>
+       <span>
+        推荐小区
+       </span>
+       <span>
+        推荐楼盘
+       </span>
+      </div>
+      <div class="link-list">
+       <div>
+        <dd>
+         <a href="https://nj.lianjia.com/xiaoqu/taishanjiedao/" target="_blank">
+          泰山街道小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/yaohuamen/" target="_blank">
+          尧化门小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/yanziji/" target="_blank">
+          燕子矶小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/tiexinqiao/" target="_blank">
+          铁心桥小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/fujianlu/" target="_blank">
+          福建路小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/changjianglu2/" target="_blank">
+          长江路小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/qilinzhen/" target="_blank">
+          麒麟镇小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/wandaguangchang1/" target="_blank">
+          万达广场小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/maqun1/" target="_blank">
+          马群小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/longjiang/" target="_blank">
+          龙江小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/dinghuaimendajie/" target="_blank">
+          定淮门大街小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/lukou/" target="_blank">
+          禄口小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/aoti3/" target="_blank">
+          奥体小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/jiangjundadao11/" target="_blank">
+          将军大道小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/gulou/" target="_blank">
+          鼓楼小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/pukouqita11/" target="_blank">
+          浦口其它小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/jiangningbinjiang/" target="_blank">
+          江宁滨江小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/qinhong/" target="_blank">
+          秦虹小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/luhezhucheng/" target="_blank">
+          六合主城小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/dingshanjiedao/" target="_blank">
+          顶山街道小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/tangshanzhen/" target="_blank">
+          汤山镇小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/jiangdong2/" target="_blank">
+          江东小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/hongshan1/" target="_blank">
+          红山小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/banqiao/" target="_blank">
+          板桥小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/yuhuaxincun/" target="_blank">
+          雨花新村小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/daishanxincheng/" target="_blank">
+          岱山新城小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/andemen/" target="_blank">
+          安德门小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/gaochun11/" target="_blank">
+          高淳小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/xinglongdajie/" target="_blank">
+          兴隆大街小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/nengrenli/" target="_blank">
+          能仁里小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/qiaobei/" target="_blank">
+          桥北小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/huxijie/" target="_blank">
+          湖西街小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/qinhuai/" target="_blank">
+          秦淮小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/xiaoxing/" target="_blank">
+          小行小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/xufuxiang/" target="_blank">
+          许府巷小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/jiangxinzhou/" target="_blank">
+          江心洲小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/weigang1/" target="_blank">
+          卫岗小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/wulaocun/" target="_blank">
+          五老村小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/hanzhongmendajie/" target="_blank">
+          汉中门大街小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/longchi/" target="_blank">
+          龙池小区
+         </a>
+        </dd>
+       </div>
+       <div>
+        <dd>
+         <a href="https://nj.lianjia.com/xiaoqu/1411041184670/" target="_blank">
+          琥珀巷小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411044054857/" target="_blank">
+          慧园街
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/146945714221378/" target="_blank">
+          世茂梦享家
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411046500482/" target="_blank">
+          银城东苑东篱苑
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411046505991/" target="_blank">
+          钟山花园城博雅居
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511053643181/" target="_blank">
+          珠泉花园
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511053838251/" target="_blank">
+          金宁新村小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511053531934/" target="_blank">
+          燕歌园1园
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1415660785087389/" target="_blank">
+          中海御山府二期
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411044135125/" target="_blank">
+          民佳园小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/149098739592256/" target="_blank">
+          东福金座
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511051707296/" target="_blank">
+          中电颐和家园尚璟
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411051305349/" target="_blank">
+          美丽新世界金德茂花园
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/147329568272154/" target="_blank">
+          永安花苑
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1420032583120698/" target="_blank">
+          琴韵华庭
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511051239044/" target="_blank">
+          雍景园小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411099524789/" target="_blank">
+          冶山道院小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511053729106/" target="_blank">
+          兴贤佳园
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411063124179/" target="_blank">
+          复地新都荟
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411046907847/" target="_blank">
+          古平岗22号
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411100856741/" target="_blank">
+          润龙锦园
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411099652485/" target="_blank">
+          金基公寓
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411000000320/" target="_blank">
+          虹苑新寓三村
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511051949648/" target="_blank">
+          明都雅苑
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411100860013/" target="_blank">
+          瑞阳街1号
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411063431820/" target="_blank">
+          龙海骏景
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/149092557975771/" target="_blank">
+          碧水华庭
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411000000199/" target="_blank">
+          高教新村
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411046997443/" target="_blank">
+          凤凰和熙二期
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511052344567/" target="_blank">
+          摄山星城观梅苑
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411000000276/" target="_blank">
+          黄埔花园
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411046686187/" target="_blank">
+          五塘村
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411063473056/" target="_blank">
+          仁恒绿洲新岛
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1413376856011079/" target="_blank">
+          恒大滨江
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411000000134/" target="_blank">
+          典雅居
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511053321347/" target="_blank">
+          江城人家
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411047389599/" target="_blank">
+          路子铺小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411047703545/" target="_blank">
+          边城世家
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/1411041652830/" target="_blank">
+          丽晶国际
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/148054884807479/" target="_blank">
+          朗诗国际街区北园
+         </a>
+        </dd>
+       </div>
+       <div>
+        <dd>
+         <a href="https://cs.lianjia.com/xiaoqu/" target="_blank">
+          长沙小区二手房
+         </a>
+         <a href="https://changde.lianjia.com/xiaoqu/" target="_blank">
+          常德小区二手房
+         </a>
+         <a href="https://wf.lianjia.com/xiaoqu/" target="_blank">
+          潍坊小区二手房
+         </a>
+         <a href="https://sr.lianjia.com/xiaoqu/" target="_blank">
+          上饶小区二手房
+         </a>
+         <a href="https://hhht.lianjia.com/xiaoqu/" target="_blank">
+          呼和浩特小区二手房
+         </a>
+         <a href="https://changzhou.lianjia.com/xiaoqu/" target="_blank">
+          常州小区二手房
+         </a>
+         <a href="https://xa.lianjia.com/xiaoqu/" target="_blank">
+          西安小区二手房
+         </a>
+         <a href="https://zhangzhou.lianjia.com/xiaoqu/" target="_blank">
+          漳州小区二手房
+         </a>
+         <a href="https://hrb.lianjia.com/xiaoqu/" target="_blank">
+          哈尔滨小区二手房
+         </a>
+         <a href="https://gz.lianjia.com/xiaoqu/" target="_blank">
+          广州小区二手房
+         </a>
+         <a href="https://zj.lianjia.com/xiaoqu/" target="_blank">
+          镇江小区二手房
+         </a>
+         <a href="https://sy.lianjia.com/xiaoqu/" target="_blank">
+          沈阳小区二手房
+         </a>
+         <a href="https://dl.lianjia.com/xiaoqu/" target="_blank">
+          大连小区二手房
+         </a>
+         <a href="https://sjz.lianjia.com/xiaoqu/" target="_blank">
+          石家庄小区二手房
+         </a>
+         <a href="https://sx.lianjia.com/xiaoqu/" target="_blank">
+          绍兴小区二手房
+         </a>
+         <a href="https://dazhou.lianjia.com/xiaoqu/" target="_blank">
+          达州小区二手房
+         </a>
+         <a href="https://xc.lianjia.com/xiaoqu/" target="_blank">
+          许昌小区二手房
+         </a>
+         <a href="https://wx.lianjia.com/xiaoqu/" target="_blank">
+          无锡小区二手房
+         </a>
+         <a href="https://nb.lianjia.com/xiaoqu/" target="_blank">
+          宁波小区二手房
+         </a>
+         <a href="https://liuzhou.lianjia.com/xiaoqu/" target="_blank">
+          柳州小区二手房
+         </a>
+         <a href="https://wh.lianjia.com/xiaoqu/" target="_blank">
+          武汉小区二手房
+         </a>
+         <a href="https://jh.lianjia.com/xiaoqu/" target="_blank">
+          金华小区二手房
+         </a>
+         <a href="https://hk.lianjia.com/xiaoqu/" target="_blank">
+          海口小区二手房
+         </a>
+         <a href="https://qd.lianjia.com/xiaoqu/" target="_blank">
+          青岛小区二手房
+         </a>
+         <a href="https://liangshan.lianjia.com/xiaoqu/" target="_blank">
+          凉山小区二手房
+         </a>
+         <a href="https://wuhu.lianjia.com/xiaoqu/" target="_blank">
+          芜湖小区二手房
+         </a>
+         <a href="https://cd.lianjia.com/xiaoqu/" target="_blank">
+          成都小区二手房
+         </a>
+         <a href="https://dg.lianjia.com/xiaoqu/" target="_blank">
+          东莞小区二手房
+         </a>
+         <a href="https://nt.lianjia.com/xiaoqu/" target="_blank">
+          南通小区二手房
+         </a>
+         <a href="https://lf.lianjia.com/xiaoqu/" target="_blank">
+          廊坊小区二手房
+         </a>
+         <a href="https://aq.lianjia.com/xiaoqu/" target="_blank">
+          安庆小区二手房
+         </a>
+         <a href="https://zb.lianjia.com/xiaoqu/" target="_blank">
+          淄博小区二手房
+         </a>
+         <a href="https://huzhou.lianjia.com/xiaoqu/" target="_blank">
+          湖州小区二手房
+         </a>
+         <a href="https://gy.lianjia.com/xiaoqu/" target="_blank">
+          贵阳小区二手房
+         </a>
+         <a href="https://xz.lianjia.com/xiaoqu/" target="_blank">
+          徐州小区二手房
+         </a>
+         <a href="https://hanzhong.lianjia.com/xiaoqu/" target="_blank">
+          汉中小区二手房
+         </a>
+         <a href="https://xianyang.lianjia.com/xiaoqu/" target="_blank">
+          咸阳小区二手房
+         </a>
+         <a href="https://fs.lianjia.com/xiaoqu/" target="_blank">
+          佛山小区二手房
+         </a>
+         <a href="https://yc.lianjia.com/xiaoqu/" target="_blank">
+          盐城小区二手房
+         </a>
+         <a href="https://yinchuan.lianjia.com/xiaoqu/" target="_blank">
+          银川小区二手房
+         </a>
+        </dd>
+       </div>
+       <div>
+        <dd>
+         <a href="https://bj.lianjia.com/xiaoqu/1111027374230/" target="_blank">
+          泛海国际香海园
+         </a>
+         <a href="https://cd.lianjia.com/xiaoqu/1611043448572/" target="_blank">
+          金沙苑
+         </a>
+         <a href="https://cd.lianjia.com/xiaoqu/1611047602684/" target="_blank">
+          华润金悦湾
+         </a>
+         <a href="https://cd.lianjia.com/xiaoqu/1620026621378206/" target="_blank">
+          得月楼
+         </a>
+         <a href="https://cd.lianjia.com/xiaoqu/1620036480141917/" target="_blank">
+          邮电公寓
+         </a>
+         <a href="https://cd.lianjia.com/xiaoqu/3011053459346/" target="_blank">
+          康郡
+         </a>
+         <a href="https://cd.lianjia.com/xiaoqu/3011054400416/" target="_blank">
+          工人村
+         </a>
+         <a href="https://cs.lianjia.com/xiaoqu/3511060767376/" target="_blank">
+          可可小城
+         </a>
+         <a href="https://dg.lianjia.com/xiaoqu/547740578345725/" target="_blank">
+          文华花园
+         </a>
+         <a href="https://gz.lianjia.com/xiaoqu/2111103831721/" target="_blank">
+          石牌东路
+         </a>
+         <a href="https://gz.lianjia.com/xiaoqu/2111793713868050/" target="_blank">
+          御湖名邸
+         </a>
+         <a href="https://hf.lianjia.com/xiaoqu/5111062753120/" target="_blank">
+          瑞景家园
+         </a>
+         <a href="https://hf.lianjia.com/xiaoqu/5116212067125255/" target="_blank">
+          文一名门湖畔
+         </a>
+         <a href="https://hz.lianjia.com/xiaoqu/1811043641563/" target="_blank">
+          坤和和家园
+         </a>
+         <a href="https://hz.lianjia.com/xiaoqu/1811043642255/" target="_blank">
+          长兴公寓
+         </a>
+         <a href="https://hz.lianjia.com/xiaoqu/1811046442389/" target="_blank">
+          颐景园
+         </a>
+         <a href="https://hz.lianjia.com/xiaoqu/1820036128667334/" target="_blank">
+          春晓苑
+         </a>
+         <a href="https://hz.lianjia.com/xiaoqu/187485262410409/" target="_blank">
+          CBC时代大观
+         </a>
+         <a href="https://jn.lianjia.com/xiaoqu/4511100855786/" target="_blank">
+          路劲御景城
+         </a>
+         <a href="https://lf.lianjia.com/xiaoqu/2020022497618621/" target="_blank">
+          金光小区
+         </a>
+         <a href="https://nj.lianjia.com/xiaoqu/2511051776177/" target="_blank">
+          上善居
+         </a>
+         <a href="https://qd.lianjia.com/xiaoqu/158620509769164/" target="_blank">
+          台东三路
+         </a>
+         <a href="https://qd.lianjia.com/xiaoqu/4011054119301/" target="_blank">
+          长安家园
+         </a>
+         <a href="https://sh.lianjia.com/xiaoqu/5011000017668/" target="_blank">
+          山水国际
+         </a>
+         <a href="https://su.lianjia.com/xiaoqu/2311054945866/" target="_blank">
+          富华苑
+         </a>
+         <a href="https://su.lianjia.com/xiaoqu/2317930397954486/" target="_blank">
+          帝豪花园
+         </a>
+         <a href="https://su.lianjia.com/xiaoqu/239821887922670/" target="_blank">
+          紫藤园
+         </a>
+         <a href="https://sy.lianjia.com/xiaoqu/3111056269040/" target="_blank">
+          科技园
+         </a>
+         <a href="https://sy.lianjia.com/xiaoqu/3117747618837314/" target="_blank">
+          新湖仙林金谷
+         </a>
+         <a href="https://sz.lianjia.com/xiaoqu/2411051971599/" target="_blank">
+          塘朗雅苑
+         </a>
+         <a href="https://sz.lianjia.com/xiaoqu/2411100353300/" target="_blank">
+          景华新村
+         </a>
+         <a href="https://tj.lianjia.com/xiaoqu/1211045995517/" target="_blank">
+          浩天天娇源
+         </a>
+         <a href="https://tj.lianjia.com/xiaoqu/1211046053321/" target="_blank">
+          景观花园
+         </a>
+         <a href="https://tj.lianjia.com/xiaoqu/1211046281076/" target="_blank">
+          保利金香槟
+         </a>
+         <a href="https://tj.lianjia.com/xiaoqu/1211046885702/" target="_blank">
+          大悦公寓
+         </a>
+         <a href="https://tj.lianjia.com/xiaoqu/1211062072596/" target="_blank">
+          丽水园
+         </a>
+         <a href="https://tj.lianjia.com/xiaoqu/2811053535601/" target="_blank">
+          雅园
+         </a>
+         <a href="https://xm.lianjia.com/xiaoqu/3911057841812/" target="_blank">
+          丰融尚城
+         </a>
+         <a href="https://zh.lianjia.com/xiaoqu/6315211607919246/" target="_blank">
+          中珠九悦
+         </a>
+         <a href="https://zz.lianjia.com/xiaoqu/3311059738320/" target="_blank">
+          电力小区
+         </a>
+        </dd>
+       </div>
+       <div>
+        <dd>
+         <a href="https://bj.ke.com/xiaoqu/1111027375764/" target="_blank">
+          北大街
+         </a>
+         <a href="https://bj.ke.com/xiaoqu/1111027381093/" target="_blank">
+          新桥家园
+         </a>
+         <a href="https://cd.ke.com/xiaoqu/1611062687228/" target="_blank">
+          东原亲亲里
+         </a>
+         <a href="https://cq.ke.com/xiaoqu/3611058103400/" target="_blank">
+          西城尚景
+         </a>
+         <a href="https://cs.ke.com/xiaoqu/3511060234670/" target="_blank">
+          山水湾
+         </a>
+         <a href="https://cs.ke.com/xiaoqu/3511060595072/" target="_blank">
+          四方小区
+         </a>
+         <a href="https://dg.ke.com/xiaoqu/5411100519524/" target="_blank">
+          中惠卡丽兰
+         </a>
+         <a href="https://dl.ke.com/xiaoqu/13000000000001/" target="_blank">
+          华润海中国七期
+         </a>
+         <a href="https://dl.ke.com/xiaoqu/1310684544070194/" target="_blank">
+          朝阳小区
+         </a>
+         <a href="https://dl.ke.com/xiaoqu/1311054100313/" target="_blank">
+          香周首府
+         </a>
+         <a href="https://dl.ke.com/xiaoqu/1320027114478605/" target="_blank">
+          招商海德公园
+         </a>
+         <a href="https://fs.ke.com/xiaoqu/6217280317797289/" target="_blank">
+          万科金色领域
+         </a>
+         <a href="https://gz.ke.com/xiaoqu/2110110541508424/" target="_blank">
+          广州大道南
+         </a>
+         <a href="https://gz.ke.com/xiaoqu/2110343238336821/" target="_blank">
+          时代糖果二期
+         </a>
+         <a href="https://gz.ke.com/xiaoqu/2110343238861397/" target="_blank">
+          海滨花园
+         </a>
+         <a href="https://gz.ke.com/xiaoqu/219160983065122/" target="_blank">
+          康王北路
+         </a>
+         <a href="https://hf.ke.com/xiaoqu/5111062364937/" target="_blank">
+          汉嘉都市森林
+         </a>
+         <a href="https://hui.ke.com/xiaoqu/5311063182496/" target="_blank">
+          天安珑城
+         </a>
+         <a href="https://hz.ke.com/xiaoqu/1811043641249/" target="_blank">
+          丹桂公寓
+         </a>
+         <a href="https://hz.ke.com/xiaoqu/1820026836605115/" target="_blank">
+          西溪银泰城
+         </a>
+         <a href="https://hz.ke.com/xiaoqu/187574428070181/" target="_blank">
+          郡望府
+         </a>
+         <a href="https://hz.ke.com/xiaoqu/187620204965952/" target="_blank">
+          广厦天都城紫韵公寓
+         </a>
+         <a href="https://lf.ke.com/xiaoqu/207103739081203/" target="_blank">
+          K2京南狮子城
+         </a>
+         <a href="https://nj.ke.com/xiaoqu/146944473493426/" target="_blank">
+          新城香溢紫郡
+         </a>
+         <a href="https://qd.ke.com/xiaoqu/1511063027351/" target="_blank">
+          青岛碧桂园
+         </a>
+         <a href="https://sh.ke.com/xiaoqu/5011000012788/" target="_blank">
+          凯润金城
+         </a>
+         <a href="https://sh.ke.com/xiaoqu/5011000015875/" target="_blank">
+          名都新城
+         </a>
+         <a href="https://sjz.ke.com/xiaoqu/3211056556341/" target="_blank">
+          心海假日
+         </a>
+         <a href="https://su.ke.com/xiaoqu/239821887922334/" target="_blank">
+          狮山峰汇
+         </a>
+         <a href="https://sy.ke.com/xiaoqu/3111055617770/" target="_blank">
+          卉盛家园
+         </a>
+         <a href="https://sz.ke.com/xiaoqu/2411049517913/" target="_blank">
+          翡翠名园
+         </a>
+         <a href="https://sz.ke.com/xiaoqu/2411050305734/" target="_blank">
+          天泽花园
+         </a>
+         <a href="https://sz.ke.com/xiaoqu/2411063865235/" target="_blank">
+          现代之窗
+         </a>
+         <a href="https://sz.ke.com/xiaoqu/2420023644205304/" target="_blank">
+          前海时代广场
+         </a>
+         <a href="https://wh.ke.com/xiaoqu/3711057867606/" target="_blank">
+          建设新村
+         </a>
+         <a href="https://wh.ke.com/xiaoqu/376992638520667/" target="_blank">
+          恒大龙城
+         </a>
+         <a href="https://wx.ke.com/xiaoqu/4120028622990387/" target="_blank">
+          长江国际雅园
+         </a>
+         <a href="https://xm.ke.com/xiaoqu/3911057693514/" target="_blank">
+          德盛大厦
+         </a>
+         <a href="https://yt.ke.com/xiaoqu/5211062414174/" target="_blank">
+          万科假日风景
+         </a>
+         <a href="https://zz.ke.com/xiaoqu/3320029631102118/" target="_blank">
+          绿地海珀兰轩
+         </a>
+        </dd>
+       </div>
+       <div>
+        <dd>
+         <a href="https://bj.fang.ke.com/loupan/p_fcsjabjhc/" target="_blank">
+          翡翠四季
+         </a>
+         <a href="https://cd.fang.ke.com/loupan/p_lriaaquc/" target="_blank">
+          蓝润ISC
+         </a>
+         <a href="https://cd.fang.ke.com/loupan/p_wkczyabbdc/" target="_blank">
+          万科城臻园
+         </a>
+         <a href="https://cq.fang.ke.com/loupan/p_ralycfbirco/" target="_blank">
+          荣安林语春风
+         </a>
+         <a href="https://cq.fang.ke.com/loupan/p_stdcsabaiq/" target="_blank">
+          盛唐叠彩山
+         </a>
+         <a href="https://cs.fang.ke.com/loupan/p_bcacsdw/" target="_blank">
+          碧桂园高尔夫花园
+         </a>
+         <a href="https://cs.fang.ke.com/loupan/p_bcbitme/" target="_blank">
+          福晟翡翠湾
+         </a>
+         <a href="https://fs.fang.ke.com/loupan/p_gfxsjabepm/" target="_blank">
+          广佛新世界
+         </a>
+         <a href="https://fs.fang.ke.com/loupan/p_wkjslyabcxs/" target="_blank">
+          万科金色领域
+         </a>
+         <a href="https://gz.fang.ke.com/loupan/p_lgmjgcaaurq/" target="_blank">
+          萝岗敏捷广场
+         </a>
+         <a href="https://hf.fang.ke.com/loupan/p_lldsbindg/" target="_blank">
+          玲珑大厦
+         </a>
+         <a href="https://hz.fang.ke.com/loupan/p_bcgsfaftfd/" target="_blank">
+          北辰国颂府
+         </a>
+         <a href="https://hz.fang.ke.com/loupan/p_blrxhgcybimvz/" target="_blank">
+          保利融信和光尘樾
+         </a>
+         <a href="https://hz.fang.ke.com/loupan/p_fdhlhsaaoat/" target="_blank">
+          复地黄龙和山
+         </a>
+         <a href="https://hz.fang.ke.com/loupan/p_jatxyxabfhr/" target="_blank">
+          金岸提香
+         </a>
+         <a href="https://hz.fang.ke.com/loupan/p_rcjcsjtbjdck/" target="_blank">
+          融创金成十锦台
+         </a>
+         <a href="https://hz.fang.ke.com/loupan/p_thsexsabawl/" target="_blank">
+          通和十二橡树
+         </a>
+         <a href="https://hz.fang.ke.com/loupan/p_wkmyfafmhb/" target="_blank">
+          万科缦云坊
+         </a>
+         <a href="https://nj.fang.ke.com/loupan/p_hxjmfbitdt/" target="_blank">
+          河西金茂府
+         </a>
+         <a href="https://qd.fang.ke.com/loupan/p_aaghr/" target="_blank">
+          万科桃花源
+         </a>
+         <a href="https://qd.fang.ke.com/loupan/p_aakbt/" target="_blank">
+          大溪谷
+         </a>
+         <a href="https://qd.fang.ke.com/loupan/p_bcadfas/" target="_blank">
+          中车小镇
+         </a>
+         <a href="https://qd.fang.ke.com/loupan/p_hemgltabitb/" target="_blank">
+          海尔玫瑰兰庭
+         </a>
+         <a href="https://sh.fang.ke.com/loupan/p_bcadqqr/" target="_blank">
+          滨江凯旋门
+         </a>
+         <a href="https://sh.fang.ke.com/loupan/p_bcadsen/" target="_blank">
+          宫园巧筑
+         </a>
+         <a href="https://sh.fang.ke.com/loupan/p_jlcbjysbabpht/" target="_blank">
+          九龙仓滨江壹十八
+         </a>
+         <a href="https://sh.fang.ke.com/loupan/p_xyldabtuv/" target="_blank">
+          象源丽都
+         </a>
+         <a href="https://su.fang.ke.com/loupan/p_bybgbiqmr/" target="_blank">
+          宝韵铂宫
+         </a>
+         <a href="https://su.fang.ke.com/loupan/p_wyhsjdaaqrm/" target="_blank">
+          万业湖墅金典
+         </a>
+         <a href="https://sy.fang.ke.com/loupan/p_bcadfwq/" target="_blank">
+          步阳江南壹号
+         </a>
+         <a href="https://sz.fang.ke.com/loupan/p_bcbjnbi/" target="_blank">
+          山海四季城王座
+         </a>
+         <a href="https://wh.fang.ke.com/loupan/p_bazgyzaarzs/" target="_blank">
+          宝安中国院子
+         </a>
+         <a href="https://wh.fang.ke.com/loupan/p_dyljcywbjnko/" target="_blank">
+          东原乐见城
+         </a>
+         <a href="https://wh.fang.ke.com/loupan/p_hdcaaszj/" target="_blank">
+          恒大城
+         </a>
+         <a href="https://wh.fang.ke.com/loupan/p_xygcabeqj/" target="_blank">
+          新阳广场
+         </a>
+         <a href="https://wh.fang.ke.com/loupan/p_zsjwgjabamh/" target="_blank">
+          招商江湾国际
+         </a>
+         <a href="https://xa.fang.ke.com/loupan/p_lhhqsaailf/" target="_blank">
+          龙湖花千树
+         </a>
+         <a href="https://xm.fang.ke.com/loupan/p_bcadhzq/" target="_blank">
+          水晶湖郡
+         </a>
+         <a href="https://yt.fang.ke.com/loupan/p_ytbhkjyafrtc/" target="_blank">
+          烟台北航科技园
+         </a>
+         <a href="https://yt.fang.ke.com/loupan/p_zjcbiyru/" target="_blank">
+          紫郡城
+         </a>
+        </dd>
+       </div>
+      </div>
+     </div>
+     <div class="clear">
+     </div>
+    </div>
+    <div class="bottom">
+     <div class="copyright">
+      链家网（北京）科技有限公司 | 网络经营许可证 京ICP备16057509号-2 | © Copyright©2010-2019 链家网Lianjia.com版权所有 |
+      <a href="https://img.ljcdn.com/beike/lianjia-web/1550576952648.png" target="_blank">
+       营业执照
+      </a>
+      <br/>
+      违法和不良信息举报电话：010-86440676 违法和不良信息举报邮箱：jubaoyouxiang@lianjia.com
+     </div>
+     <div style="width:300px;color: #888c8e;font-size: 12px;line-height: 20px;">
+      <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802024019" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;" target="_blank">
+       <img src="https://s1.ljcdn.com/feroot/pc/asset/img/home/beian.png?_v=201905161639093" style="float:left;"/>
+       <p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px;color: #888c8e;">
+        京公网安备 11010802024019号
+       </p>
+      </a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script crossorigin="" src="https://s1.ljcdn.com/feroot/pc/asset/base/fe.js?_v=201905161639093">
+  </script>
+  <script crossorigin="" src="https://s1.ljcdn.com/feroot/pc/asset/common/common.js?_v=201905161639093">
+  </script>
+  <div style="display:none">
+   <script crossorigin="" src="https://s1.ljcdn.com/feroot/dep/ljanalytics.js?_v=201905161639093">
+   </script>
+  </div>
+  <div data-city="nj" data-page="xiaoqu_detail" id="only">
+  </div>
+  <script>
+   var path = 'https://s1.ljcdn.com/feroot/pc/asset?_v=201905161639093'.split("?");require.config({baseUrl: path[0],paths: {'echarts' : '../../dep/echarts-1.4.1/build/echarts','echarts/chart/bar' : '../../dep/echarts-1.4.1/build/echarts','echarts/chart/line' : '../../dep/echarts-1.4.1/build/echarts','echarts/chart/pie' : '../../dep/echarts-1.4.1/build/echarts','echarts3' : '../../dep/echarts3/echarts3','common': 'common','jquery-ui': '../../dep/jquery-ui/jquery-ui.min','zeroclipboard': '../../dep/zeroclipboard-2.2.0/ZeroClipboard'},urlArgs:  path[1]});var feData = {"cityName": "北京","getFavHouseUrl":       "/api/gethousefav","setFavHouseUrl":       "/api/sethousefav","getLastSearch":        "/api/getlastsearch","getCommunityHistory":  "/api/getcommunityhistory","verifyHouse":          "/api/verifyHouse","getUser":              "/api/getUser","verifyCode":           "/verifycode/getVerifyCode","complaint":            "/api/complaint","getDecoration":        "/api/getDecoration","trendData" :           "/site/getpicinfo"}
+  </script>
+  <script type="text/javascript">
+   require(['ershoufang/xiaoquDetail/index'], function(main) {
+  main({
+    id:1420021456162821,
+    resblockPosition:'118.741999,32.151269',
+    resblockName:'天润城第三街区'
+  });
+});
+
+require(['common/initTalk'], function(initTalk) {
+  initTalk()
+});
+
+require(['common/backtopV3'], function (main) {
+  main({
+    ucid: '',
+    uuid: 'fc8c6219-c6a1-46a7-a1be-45e46cef03d5',
+    loadingImg: 'https://s1.ljcdn.com/feroot/pc/asset/ershoufang/sellDetail/img/loading.gif?_v=201905161639093',
+    qrImg: '//ajax.api.lianjia.com/qr/getDownloadQr'
+  });
+});
+  </script>
+  <script>
+   require(['common/suggestion'], function (suggestion) {window.defaultSuggest = suggestion.init({requestOptions: {cityId: '320100',cityName: '南京'},url: '/api/headerSearch?channel=xiaoqu&q=',main: '#keyword-box',appendTo: '#suggest-cont',redirect: true});});
+  </script>
+  <div class="loninContaner">
+   <div class="overlay_bg">
+   </div>
+   <div class="panel_login animated" id="dialog">
+    <div class="panel_info">
+     <i class="close_login">
+      &amp;times
+     </i>
+     <div class="panel_tab">
+      <div class="title">
+       <div class="fl">
+        账号密码登录
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+      <div id="con_login_user">
+       <form action="" method="post">
+        <ul>
+         <li class="item border-t userName">
+          <input class="the_input topSpecial users" maxlength="11" placeholder="请输入手机号" type="text"/>
+         </li>
+         <li class="item border-b pwd">
+          <input class="the_input password" maxlength="20" placeholder="请输入登录密码" type="password"/>
+          <em class="password-view">
+          </em>
+         </li>
+         <li class="item checkVerimg" style="display:none;">
+          <input class="the_input ver-img" maxlength="6" placeholder="请输入验证码" type="text"/>
+          <img class="verImg"/>
+         </li>
+         <li class="item drag" style="display:none;">
+          <div id="drag">
+          </div>
+         </li>
+         <li class="show-error">
+          <dd>
+           用户名或密码错误
+          </dd>
+         </li>
+         <li class="li_01">
+          <label class="checkbox-btn">
+           <span class="active">
+            <input checked="" class="mind-login" name="remember" type="checkbox" value="1"/>
+           </span>
+           7天内免登录
+          </label>
+          <a class="toforget" href="javascript:;" rel="nofollow">
+           忘记密码
+          </a>
+         </li>
+         <li class="li_btn">
+          <a class="login-user-btn">
+          </a>
+          登录
+         </li>
+         <li class="footer-link">
+          <a class="totellogin" href="javascript:;" rel="nofollow">
+           手机快捷登录
+          </a>
+         </li>
+        </ul>
+       </form>
+      </div>
+      <div class="undis" id="con_login_agent">
+       <form action="" method="post">
+        <ul>
+         <li class="item">
+          <dd>
+          </dd>
+          <input class="the_input users" placeholder="输入经纪人ID号码" type="text"/>
+         </li>
+         <li class="item">
+          <input class="the_input password" placeholder="登录密码" type="password"/>
+         </li>
+         <li class="li_01">
+          <label class="checkbox-btn">
+           <span class="active">
+            <input checked="" class="mind-login" name="remember" type="checkbox" value="1"/>
+           </span>
+           7天内免登录
+          </label>
+          <a href="https://passport.lianjia.com/register/resources/lianjia/forget.html?service=http://bj.lianjia.com/" rel="nofollow">
+           忘记密码
+          </a>
+         </li>
+         <li>
+          <input class="login-agent-btn" value="立即登录"/>
+         </li>
+        </ul>
+       </form>
+      </div>
+     </div>
+    </div>
+    <div class="registered">
+    </div>
+   </div>
+   <div class="panel_login animated" id="dialog_tel">
+    <div class="panel_info">
+     <i class="close_login">
+      &amp;times
+     </i>
+     <div class="panel_tab">
+      <div class="title">
+       <div class="fl">
+        手机快捷登录
+       </div>
+       <div class="register_text_tel">
+        别担心，无账号自动注册不会导致手机号被泄露
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+      <div id="con_login_user_tel">
+       <form action="" method="post">
+        <ul>
+         <li class="item border-t userName">
+          <input class="the_input topSpecial users_tel" maxlength="11" placeholder="请输入手机号" type="text"/>
+         </li>
+         <!-- <li class="item pwd"><input type="password" class="the_input password_tel"  placeholder="请输入短信验证码"/></li> -->
+         <li class="item checkVerimg" style="">
+          <input class="the_input ver-img" maxlength="6" placeholder="请输入验证码" type="text"/>
+          <img class="verImg"/>
+         </li>
+         <li class="item border-b Verify">
+          <input class="the_input verifycode" maxlength="6" placeholder="请输入短信验证码" type="text"/>
+          <a class="send_verify_code" href="javascript:;" id="send_verify_code_tel" rel="nofollow">
+           <em>
+            获取验证码
+           </em>
+          </a>
+         </li>
+         <li class="send_verify_code_s" href="javascript:;" id="send_verify_code_tel_s" rel="nofollow">
+          <em>
+           没有收到验证码？
+          </em>
+          <a class="voice_a">
+           发送语音验证码
+          </a>
+         </li>
+         <li class="show-error">
+          <dd>
+           用户名或密码错误
+          </dd>
+         </li>
+         <li class="li_01">
+          <label class="checkbox-btn">
+           <span class="active">
+            <input checked="" class="mind-login" name="remember" type="checkbox" value="1"/>
+           </span>
+           7天内免登录
+          </label>
+         </li>
+         <li class="li_btn">
+          <a class="login-user-tel-btn">
+          </a>
+          登录
+         </li>
+         <li class="footer-link">
+          <a class="tologin" href="javascript:;" rel="nofollow">
+           账号密码登录
+          </a>
+         </li>
+        </ul>
+       </form>
+      </div>
+     </div>
+    </div>
+    <div class="registered">
+    </div>
+   </div>
+   <div class="panel_login animated" id="dialog_reg">
+    <div class="panel_info">
+     <i class="close_login">
+      &amp;times
+     </i>
+     <div class="panel_tab">
+      <div class="title">
+       <div class="fl">
+        手机号码注册
+       </div>
+       <label class="fr register_text">
+        已有账号？
+        <a class="tologin" href="javascript:;" rel="nofollow">
+         去登录
+        </a>
+       </label>
+      </div>
+      <div class="clear">
+      </div>
+      <div id="con_login_user_reg">
+       <form action="" method="post">
+        <ul>
+         <li class="item border-t userName">
+          <input class="the_input topSpecial users_reg" maxlength="11" placeholder="请输入手机号" type="text"/>
+         </li>
+         <li class="item checkVerimg" style="">
+          <input class="the_input ver-img" maxlength="6" placeholder="请输入验证码" type="text"/>
+          <img class="verImg"/>
+         </li>
+         <li class="item border-c Verify">
+          <input class="the_input verifycode" maxlength="6" placeholder="请输入短信验证码" type="text"/>
+          <a class="send_verify_code" href="javascript:;" id="send_verify_code_reg" rel="nofollow">
+           <em>
+            获取验证码
+           </em>
+          </a>
+         </li>
+         <li class="item border-b pwd">
+          <input class="the_input password_reg" maxlength="20" placeholder="请输入密码（最少8位，数字+字母）" type="password"/>
+          <em class="password-view">
+          </em>
+         </li>
+         <li class="send_verify_code_s" href="javascript:;" id="send_verify_code_reg_s" rel="nofollow">
+          <em>
+           没有收到验证码？
+          </em>
+          <a class="voice_a">
+           发送语音验证码
+          </a>
+         </li>
+         <li class="show-error">
+          <dd>
+           用户名或密码错误
+          </dd>
+         </li>
+         <li class="li_01">
+          <label class="checkbox-btn">
+           <span class="active">
+            <input checked="" class="read-protocol" name="read" type="checkbox" value="1"/>
+           </span>
+           我已阅读并同意
+          </label>
+          <a class="toprotocol" href="//www.lianjia.com/zhuanti/protocol" target="_blank">
+           《链家用户使用协议》
+          </a>
+         </li>
+         <li class="li_btn">
+          <a class="register-user-btn">
+          </a>
+          注册
+         </li>
+        </ul>
+       </form>
+      </div>
+     </div>
+    </div>
+    <div class="registered">
+    </div>
+   </div>
+   <div class="panel_login animated" id="dialog_forget">
+    <div class="panel_info">
+     <i class="close_login">
+      &amp;times
+     </i>
+     <div class="panel_tab">
+      <div class="title">
+       <div class="fl">
+        找回密码
+       </div>
+      </div>
+      <div class="clear">
+      </div>
+      <div class="con_forget_user_tel" id="con_forget_user_tel">
+       <form action="" method="post">
+        <ul>
+         <li class="item border-t userName">
+          <input class="the_input topSpecial user_forget_phone" maxlength="11" placeholder="请输入手机号" type="text"/>
+         </li>
+         <li class="item checkVerimg" style="">
+          <input class="the_input ver-img" maxlength="6" placeholder="请输入验证码" type="text"/>
+          <img class="verImg"/>
+         </li>
+         <li class="item border-b Verify">
+          <input class="the_input verifycode" maxlength="6" placeholder="请输入短信验证码" type="text"/>
+          <a class="send_verify_code" href="javascript:;" id="send_verify_code_forget" rel="nofollow">
+           <em>
+            获取验证码
+           </em>
+          </a>
+         </li>
+         <li class="item border-t pwd" style="margin-top:-1px;">
+          <input class="the_input password_reg" maxlength="20" placeholder="请输入密码（最少8位，数字+字母）" type="password"/>
+          <em class="password-view">
+          </em>
+         </li>
+         <li class="send_verify_code_s" id="send_verify_code_forget_s">
+          <em>
+           没有收到验证码？
+          </em>
+          <a class="voice_a">
+           发送语音验证码
+          </a>
+         </li>
+         <li class="show-error">
+          <dd>
+           用户名或密码错误
+          </dd>
+         </li>
+         <li class="li_btn">
+          <a class="user-forget">
+          </a>
+          修改密码
+         </li>
+        </ul>
+       </form>
+      </div>
+      <div class="con_forget_user_pw" id="con_forget_user_pw">
+       <form action="" method="post">
+        <ul>
+         <li class="item border-t pwd">
+          <input class="the_input password_reg" maxlength="20" placeholder="请输入密码（最少8位，数字+字母）" type="password"/>
+          <em class="password-view">
+          </em>
+         </li>
+         <li class="show-error">
+          <dd>
+           用户名或密码错误
+          </dd>
+         </li>
+         <li class="li_btn">
+          <a class="modify-user-pswd">
+          </a>
+          修改密码
+         </li>
+        </ul>
+       </form>
+      </div>
+     </div>
+    </div>
+    <div class="registered">
+    </div>
+   </div>
+  </div>
+  <!-- LianjiaIM Style -->
+  <link href="https://s1.ljcdn.com/feroot/pc/asset/lianjiaIM/css/lianjiaim.css?_v=201905161639093" property="stylesheet" rel="stylesheet"/>
+  <script src="//s1.ljcdn.com/web-im-sdk/static/1.1/lianjiaim1.1.min.js?v=20190519">
+  </script>
+  <script>
+   (function() {var imConf = {"ajaxroot":"https:\/\/ajax.api.lianjia.com\/","imAppid":"LIANJIA_WEB_20160624","imAppkey":"6dfdcee27d78b1107fceeca55d80b7bd"};let login = require('common/login');$.listener.on('userInfo', function (data) {if (data.code === 1) {data.ucid = '';}window.LJIM = new LianjiaIM({appid: imConf.imAppid,appkey: imConf.imAppkey,login: login.openLoginDialog,is_ljbb: true,userData: data,downAppUrl: '//www.lianjia.com/client/',appDesc: '立即下载链家APP，随时随地聊~',staticRoot: 'https://s1.ljcdn.com/feroot/?_v=201905161639093'})});})();
+  </script>
+  <script crossorigin="anonymous" src="//s1.ljcdn.com/link-static/resource/plat_framework/fee/js/1.1.10/index.js">
+  </script>
+  <script>
+   var uuid = document.cookie.match(/lianjia_uuid=([^;]+)/) ? document.cookie.match(/lianjia_uuid=([^;]+)/)[1] : '';
+  var ucid = document.cookie.match(/lianjia_token=([^;]+)/) ? document.cookie.match(/lianjia_token=([^;]+)/)[1] : '';
+  var is_test = $.env.getEnv() !== 'online';
+  function _plog (evtId, data, pageId) {
+      var defData = {
+          'plat_form': navigator.platform,
+          'page_url': window.location.href
+      }
+      data = $.extend(defData, data);
+      dt.notify(evtId,         // 错误名, 不能超过200个字符
+          pageId || window['js_ns'],               // 错误页面
+          data
+      );
+  }
+  window.dt && dt.set({
+    pid: 'lianjia-web', // [必填]项目id, 由灯塔项目组统一分配
+    uuid: uuid, // [可选]设备唯一id, 用于计算uv数&设备分布. 一般在cookie中可以取到, 没有uuid可用设备mac/idfa/imei替代. 或者在storage的key中存入随机数字, 模拟设备唯一id.
+    //uuid为必填选项，如果传空或不能保证唯一会导致设备版本等统计无法生效
+    ucid: ucid, // [可选]用户ucid, 用于发生异常时追踪用户信息, 一般在cookie中可以取到, 没有可传空字符串
+
+    is_test: is_test, // 是否为测试数据, 默认为false(测试模式下打点数据仅供浏览, 不会展示在系统中)
+    record: {
+      time_on_page: true,
+      performance: true,
+      js_error: true,
+      js_error_report_config: {
+        ERROR_RUNTIME: true,
+        ERROR_SCRIPT: false,
+        ERROR_STYLE: false,
+        ERROR_IMAGE: false,
+        ERROR_AUDIO: true,
+        ERROR_VIDEO: true,
+        ERROR_CONSOLE: false,
+        ERROR_TRY_CATCH: true,
+        checkErrorNeedReport: function (desc, stack) {
+          if (!/\/\/(s1\.ljcdn\.com\/)/.test(desc) &&
+            !/\/\/(s1\.ljcdn\.com\/)/.test(stack)) {
+            return false;
+          }
+          if (/\/\/s1\.ljcdn\.com\/(link\-static\/resource\/plat_framework|web\-im\-sdk|vrlab)/.test(desc) ||
+            /\/\/s1\.ljcdn\.com\/(link\-static\/resource\/plat_framework|web\-im\-sdk|vrlab)/.test(stack)) {
+            return false;
+          }
+          return true;
+        }
+      }
+    },
+
+    // 业务方的js版本号, 会随着打点数据一起上传, 方便区分数据来源
+    // 可以不填, 默认为1.0.0
+    version: '1.0.0',
+
+    // 对于如同
+    // xxx.com/detail/1.html
+    // xxx.com/detail/2.html
+    // xxx.com/detail/3.html
+    // ...
+    // 这种页面来说, 虽然url不同, 但他们本质上是同一个页面
+    // 因此需要业务方传入一个处理函数, 根据当前url解析出真实的页面类型(例如: 二手房列表/经纪人详情页), 以便灯塔系统对错误来源进行分类
+    // 回调函数说明
+    // 传入参数 => window.location
+    // 返回值 => 对应的的页面类型(50字以内, 建议返回汉字, 方便查看), 默认是返回当前页面的url
+    getPageType: function(location){ return (location.host+location.pathname) }
+  });
+  function _plog(evtId, data, pageId) {
+    var defData = {
+      'plat_form': navigator.platform,
+      'page_url': window.location.href
+    };
+    data = $.extend(defData, data);
+    dt.notify(evtId,
+      pageId || window.location.href,
+      data
+    );
+  }
+  </script>
+  <script type="text/javascript">
+   var advert = 'https://s1.ljcdn.com/feroot/pc/asset/common/advert.js?_v=201905161639093';
+    $.listener.on('userInfo', function (data) {
+      window.loginData = data;
+    });
+    var mvl = document.createElement('script');
+    mvl.type = 'text/javascript';
+    mvl.async = true;
+    mvl.src = advert;
+    mvl.crossOrigin = 'anonymous';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(mvl, s);
+  </script>
+  <script type="text/javascript">
+   (function(){var canonicalURL, curProtocol;var x=document.getElementsByTagName("link");if(x.length > 0){for (i=0;i<x.length;i++){if(x[i].rel.toLowerCase() == 'canonical' && x[i].href){canonicalURL=x[i].href;}}}if (!canonicalURL){curProtocol = window.location.protocol.split(':')[0];}else{curProtocol = canonicalURL.split(':')[0];}if (!canonicalURL) canonicalURL = window.location.href;(function() {var e = /([http|https]:\/\/[a-zA-Z0-9\_\.]+\.baidu\.com)/gi,r = canonicalURL,t = document.referrer;if (!e.test(r)) {var n = (String(curProtocol).toLowerCase() === 'https') ? "https://sp0.baidu.com/9_Q4simg2RQJ8t7jm9iCKT-xh_/s.gif" : "//api.share.baidu.com/s.gif";t ? (n += "?r=" + encodeURIComponent(document.referrer), r && (n += "&l=" + r)) : r && (n += "?l=" + r);var i = new Image;i.src = n}})(window);})();
+  </script>
+ </body>
+</html>
