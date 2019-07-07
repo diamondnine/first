@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\tcpclient.o
+./debug\dlglogin.o
+./debug\dlgregister.o
+./debug\dlg.o
+./debug\qrc_myimages.o
+./debug\moc_tcpclient.o
+./debug\moc_dlglogin.o
+./debug\moc_dlgregister.o
+./debug\moc_dlg.o
+);

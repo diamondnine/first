@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\tcpclient.o
+./release\dlglogin.o
+./release\dlgregister.o
+./release\dlg.o
+./release\qrc_myimages.o
+./release\moc_tcpclient.o
+./release\moc_dlglogin.o
+./release\moc_dlgregister.o
+./release\moc_dlg.o
+);
