@@ -56,7 +56,6 @@ void Dlg::dlgshow(QJsonObject mjson)
 
 void Dlg::loginf()
 {
-    qDebug()<<"why";
     emit mlgf();
 }
 void Dlg::registers()

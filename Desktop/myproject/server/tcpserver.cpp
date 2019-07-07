@@ -191,8 +191,6 @@ QJsonObject TcpServer::comp(QJsonObject ask)
             obj.insert("email",QJsonValue(QString(ask["email"].toString())));
             obj.insert("status",QJsonValue(QString(ask["status"].toString())));
 
-
-            qDebug()<<"我是你大爷"<<endl;
         }
         else
         {

@@ -53,9 +53,7 @@ void TcpClient::acceptanswer()
     QString ms;
     in>>ms;
 
-    qDebug()<<"开始"<<endl;
     qDebug()<<ms;
-    qDebug()<<"结束23231"<<endl;
 
     QJsonObject obj = str2json(ms);
 
